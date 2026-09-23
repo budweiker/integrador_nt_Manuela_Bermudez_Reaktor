@@ -7,6 +7,7 @@ from pathlib import Path
 import random
 import uuid
 from faker import Faker
+import pandas as pd
 
 #1. configurar el faker a la region que necesito
 faker = Faker("es_CO")
@@ -44,7 +45,7 @@ def generar_datos_limpios(numero_datos=FILAS):
             "estrato": random.choice(ESTRATOS),
             "barrio": random.choice(BARRIOS)
         })
-    return filas
+    return pd.DataFrame(filas)
 
 #7 Interruptor if __name__ == "__main__": 
 
@@ -56,7 +57,7 @@ if __name__ == "__main__":
 
     salida = Path("propiedades_simuladas.csv")
     salida.parent.mkdir(parents=True, exist_ok=True)
-    df.to_csv(salida/"comprador.csv", index=False, encoding="utf-8-sig")
+    """ df.to_csv(salida/"comprador.csv", index=False, encoding="utf-8-sig")
 
     print("Archivo generado en:", salida/"comprador.csv")
-
+ """
