@@ -25,7 +25,7 @@ random.seed(42)
 
 #4. Identifico los datos o el dato que sea un selector de opciones, para generar datos aleatorios de manera controlada
 ESTRATOS = [1, 2, 3, 4, 5, 6]
-BARRIOS = ["Poblado", "Laureles", "Envigado", "Sabaneta", "Belen", "Robledo", "Itagui", "Caldas", "La Estrella"]
+BARRIOS = ["Poblado", "Laureles", "Envigado", "Sabaneta", "Belen", "Itagui", "Caldas", "La Estrella"]
 NUMERO_HABITACIONES = [1, 2, 3, 4, 5]
 
 #5. Defino mi DATASET
@@ -44,7 +44,7 @@ def generar_datos_limpios(numero_datos=FILAS):
             "estrato": random.choice(ESTRATOS),
             "barrio": random.choice(BARRIOS)
         })
-    return filas
+    return pd.DataFrame(filas)
 
 #7 Interruptor if __name__ == "__main__": 
 
