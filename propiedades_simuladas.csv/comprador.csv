@@ -1,0 +1,501 @@
+﻿id,valorPropiedad,direccionPropiedad,numeroHabitaciones,estrato,barrio
+057f60ae-16c4-4750-a220-2f3bc90b7886,657455458.53,"Calle 133 # 90-4 Este Apartamento 5 151819 El Espino, Boyacá",1,6,Belen
+f6d44af4-e53b-480f-a1f5-24c5536cd729,282647261.11,"Cr. 21 # 6-55 Oficina 490 976542 Yavaraté, Vaupés",2,6,Laureles
+1cf31deb-c1f4-4ad8-986b-651e2a964b97,692864513.05,"Cr. 23C # 6-37 Sur 709310 Galeras, Sucre",5,1,Caldas
+2f1503e0-aee7-4452-b0dc-555f2f452da6,80193545.51,"Cl. 40 # 6Z-7 Sur Torre 5 apartamento 2 527648 Cuaspud Carlosama, Nariño",1,2,Sabaneta
+2da4f523-4b79-4d19-bab6-9482baca94e4,530087523.7,"Carrera 79 # 9-82 082388 Piojó, Atlántico",1,5,Sabaneta
+fbe7c8e7-e95b-41fe-81d3-28c8ba940a5c,730218632.28,"Tr. 91 Sur # 55-71 Apto. 39 056697 San Pedro de Urabá, Antioquia",5,4,Sabaneta
+b707aff6-4004-4609-a9fa-b6889080e5f7,476748593.97,"Calle 18 # 17-2 Sur 688932 Vetas, Santander",3,1,Envigado
+e373872f-61cd-4457-913d-7ffc7ad4828e,713232425.24,"Transversal 94F # 9N-43 Este 411822 Rivera, Huila",3,3,Envigado
+543b3369-5d42-4da5-b22c-cde827da4fb8,254548074.0,"Cl. 1H # 1-4 Oficina 681 413150 Timaná, Huila",3,1,Laureles
+9388d741-2aae-4001-9959-dfaa58455b9f,410930935.61,"Cr. 163 # 7-6 Sur Local 27 058299 La Pintada, Antioquia",3,3,Belen
+8174936a-5eb0-4e11-8ca4-83be234c6f95,816771859.61,"Carrera 36 # 2-83 Este 665133 Pueblo Rico, Risaralda",4,5,Laureles
+220fd569-46c0-407e-abf6-0abfe72a8f17,974459975.78,"Carrera 30 # 5-86 Sur Apartamento 9 152677 Berbeo, Boyacá",4,1,Belen
+d07b9bd0-d97a-435d-99b7-d1abae00a261,837934431.04,"Carrera 9ª # 12Q-9 Bodega 33 689805 Confines, Santander",5,3,Sabaneta
+71bfb368-370d-4585-b67a-524025111c1b,719343244.4,"Cr. 9ª # 4-64 Apto. 21 199909 Mercaderes, Cauca",1,6,Sabaneta
+265c6991-a909-4a4f-9162-80dbfa2b139c,784414923.75,"Cl. 5ª # 6-2 Oficina 371 257991 Simijaca, Cundinamarca",1,2,Laureles
+65a08f61-a8aa-4be7-94fb-048cef64a4ee,411119913.79,"Avenida Manizales # 4-69 521241 Ospina, Nariño",4,6,Itagui
+828fc603-21ab-4f33-96e4-5f4c0de64f95,204521392.3,"Cr. 97I Este # 28-20 Este 254005 Sesquilé, Cundinamarca",3,2,Belen
+10ffd780-a58c-4593-ac3c-619df37ee094,716729297.79,"Cl. 61 # 36-49 Apartamento 62 154505 Tipacoque, Boyacá",1,5,Envigado
+aff5a351-34e2-4856-9d01-7cbf11022778,557432883.18,"Avenida David Ferney Cruz Suárez # 13-43 Sur Oficina 16 194216 Almaguer, Cauca",2,2,La Estrella
+e3eb9869-027d-4848-a097-63bea3ad74e1,410482669.67,"Tr. 2B # 65-7 Este 470142 Pivijay, Magdalena",5,2,Itagui
+508040b8-1ab6-4100-8cb9-8fdd0b44be1a,850709324.18,Calle 65 # 91-54 Este 810883 Arauca,1,2,Poblado
+60d45773-64b6-4e2e-a3ee-07130e591730,814793510.73,"Carrera 5A # 6-86 Sur Local 78 666629 Guática, Risaralda",4,3,Laureles
+44edd809-baf3-487c-b368-a8b60f29622c,250433701.41,"Avenida calle 4ª # 33-13 688951 Piedecuesta, Santander",5,6,Itagui
+c1e7bdd7-8f68-4c70-99af-1d50e224d727,251995216.85,"Calle 71Y # 8-18 Este 257632 Guayabetal, Cundinamarca",4,4,La Estrella
+6ffd3726-28ae-4a50-bddc-803388b2130a,185728010.92,"Avenida calle 187 # 8X-57 257986 Lenguazaque, Cundinamarca",2,2,Belen
+b1a92c00-7e5e-40c5-b62a-a37402d658e1,759663121.07,"Avenida Caldas # 4-7 Este 253455 Villagómez, Cundinamarca",4,5,Caldas
+fe38d255-468e-46c3-ab34-f2f326c096f6,393896621.53,"Av. carrera 1ª # 7Y-89 Torre 2 apartamento 756 153669 Tuta, Boyacá",2,5,La Estrella
+62a7a38c-6a42-4261-a160-3238aee3b742,136363941.57,"Cr. 36 # 9E-1 Sur 526706 Barbacoas, Nariño",1,1,Envigado
+86d5cfd3-d85e-42ed-b2e8-9e8ab104bf04,646073739.62,"Cl. 164 # 26-84 Apto. 72 054653 Guatapé, Antioquia",4,5,Laureles
+d4988ee8-8bf2-4f37-acdf-c4083281d9d4,415528946.09,"Cl. 41P # 64-3 Este Apartamento 6 940330 Cacahual, Guainía",5,4,Belen
+1cfadd94-8860-45fb-84ec-22ce8c79e0a8,972524458.73,"Av. carrera 4ª # 4-2 Este Casa 5 154966 Guacamayas, Boyacá",1,6,Laureles
+79708bcd-8d7a-4f82-9a40-677d3678ef74,697624850.58,"Avenida calle 71 # 77U-32 Este Apto. 185 418506 Hobo, Huila",5,3,Itagui
+6094fc7d-9aab-4394-91bc-4249eb03efd7,155974564.92,"Carrera 1V Bis K # 35-8 Etapa 9 apartamento 865 851473 San Luis de Palenque, Casanare",4,2,La Estrella
+15237294-8a82-4e73-be98-c3605ce5d0ca,53083050.3,"Cl. 177 Bis U # 41-74 Este Etapa 6 apartamento 58 521367 Córdoba, Nariño",3,5,Envigado
+748b8e3b-115b-4052-8caf-dfa0160858f1,532297590.87,"Calle 91 # 42W-83 Sur 254443 Guataquí, Cundinamarca",1,6,Belen
+61dff98c-85d1-498c-82d2-12f14995309e,849585880.76,"Calle 5ª # 22-17 Este 860824 Colón, Putumayo",5,5,Sabaneta
+8fdbc4ab-7166-4c4e-9990-2aebb331f917,195197305.12,"Calle 102 # 5-2 Bodega 85 274711 El Cantón del San Pablo, Chocó",2,5,Poblado
+68302330-2f6c-4655-9bde-4ae12b584c56,618997355.24,"Cr. 4Y # 34-41 154990 La Capilla, Boyacá",4,1,Laureles
+a3ba459a-2031-4036-9150-4ba781f6094c,932643685.45,"Cr. 113O # 49Z-7 134034 Arjona, Bolívar",3,2,Poblado
+d01c3419-b041-40c6-9392-7f7246bd5ad1,278828012.82,"Av. calle 27 # 74-5 Este Torre 3 apartamento 5 972499 Papunahua, Vaupés",5,1,Laureles
+83194a5f-4128-4e75-8e23-97a122b0cfd7,745312215.1,"Tr. 1ª # 14V-39 Sur 945940 Pana Pana, Guainía",1,5,Envigado
+647e55b0-c7de-45f5-973c-9dbec12671da,171971891.27,"Calle 62 # 57-7 Este Bodega 57 857565 Orocué, Casanare",4,5,Envigado
+6a7ed829-b3b9-4e7a-8f38-7c22cdb081a4,301803797.49,"Calle 159 # 47-50 Este 058087 Olaya, Antioquia",5,4,Sabaneta
+0a0e9440-023d-40ec-b933-4366a8cf53f3,932467818.35,"Calle 171 Sur # 52-97 Este Etapa 8 apartamento 8 152480 Puerto Boyacá, Boyacá",2,6,Belen
+a4b511a1-a137-4818-a517-ab823884afa4,429042685.0,"Calle 7C Bis # 5-18 Sur Oficina 838 256398 Topaipí, Cundinamarca",3,4,La Estrella
+b790db2d-1376-46c1-b579-4d3b289e4dea,164953986.07,"Av. calle 133 # 73-1 Sur 418867 Campoalegre, Huila",2,1,Itagui
+6babe4b7-c79b-4a37-845f-6c883ece327f,69982547.01,"Avenida Luis Edward Rodríguez Sánchez # 8E-51 Sur Oficina 70 738951 Chaparral, Tolima",5,2,Sabaneta
+6c96aeb3-72c3-4756-9245-79f6c2ca5559,56831297.04,"Av. Caldas # 21-8 Apto. 658 549134 Teorama, Norte de Santander",1,2,Laureles
+1ff0e5e3-68bf-491d-ab79-f1e49b62908a,910149012.36,"Cr. 122 # 7-4 Sur 416238 Elías, Huila",3,1,Sabaneta
+22cd4350-7f38-45c8-9b39-cdc3877bdd8e,314553400.77,"Cl. 194 # 86-54 154821 Somondoco, Boyacá",4,2,Envigado
+0586013b-5405-4e19-abdb-c617b6c2d735,737184937.59,"Av. Fernando Ospina Duque # 80-59 549440 Chitagá, Norte de Santander",5,5,La Estrella
+11b7204f-256d-4016-8673-569efbbeda02,280847380.28,"Calle 64 # 32-93 Sur Torre 4 apartamento 5 524709 Belén, Nariño",4,4,Sabaneta
+73cc0f73-2742-412b-9e89-18510d31b0ef,139609506.67,"Av. carrera 185 # 7-1 Sur 881236 Providencia, Archipiélago de San Andrés, Providencia y Santa Catalina",4,3,Caldas
+47b0ac5e-2b0f-4712-90c2-dd7935777fe5,440547162.25,"Avenida Pijiño del Carmen # 81H-5 Este Apto. 845 913709 Tarapacá, Amazonas",1,6,Laureles
+7f27e245-280b-439e-b83c-05c312bafbb2,107582040.37,"Avenida San José de Pare # 9-75 Este 667113 Guática, Risaralda",3,1,Sabaneta
+dfc74397-bd2e-4ed0-87c2-25fd7f770813,232010568.53,"Av. carrera 25 # 18L-75 Sur Oficina 294 155377 Viracachá, Boyacá",5,4,Envigado
+847c01e5-da57-4190-b773-cb3740c09f3b,450787557.84,"Cl. 193Y Este # 6H-3 Este Apto. 8 190532 Puerto Tejada, Cauca",3,4,Sabaneta
+75be8c18-c697-4941-a30e-fbe5650d2e27,880761656.37,"Calle 1I # 7-9 Etapa 3 apartamento 32 052053 Amalfi, Antioquia",1,4,Laureles
+9677b93b-2289-4aa4-851f-001f529355ba,98058913.05,"Transversal 184V # 10-8 Sur 088390 Juan de Acosta, Atlántico",5,1,Laureles
+5fa891fc-b69b-40f8-9460-228172c35bf5,930048633.86,"Cr. 68 # 9-59 Sur 689212 El Playón, Santander",2,2,Caldas
+eace5a8e-3e96-4a0a-816a-5316612b1a44,511359069.18,"Avenida calle 76 # 65-56 Sur 767365 Roldanillo, Valle del Cauca",2,4,Poblado
+02f987c0-8e1b-46b0-a943-c76d693732f5,206405265.33,"Carrera 116 Bis # 1-56 Este Bodega 2 156152 Tuta, Boyacá",1,4,Belen
+e84d23e9-6d08-46db-95aa-b1c72277e311,930192169.88,"Cr. 49 # 9R-1 Este 413158 Villavieja, Huila",4,3,Caldas
+0a49eadf-3b22-4a80-af34-5ae87d550794,711761928.42,"Cr. 1ª # 9-4 Sur Apartamento 345 252296 Suesca, Cundinamarca",5,6,La Estrella
+5eb29d66-0eeb-4d3c-8936-2fb2831dd251,197056984.01,"Cr. 20 # 8-86 Sur 689910 Cerrito, Santander",3,2,Poblado
+22615273-b3f0-4321-8e45-2d0966fc8d78,600221276.28,"Cl. 1ª # 5-4 259784 Topaipí, Cundinamarca",5,1,Itagui
+ab6dec27-c9a7-4b90-8dd8-183909a1b290,104307009.26,"Diagonal 2 Bis # 7-10 Sur Etapa 6 apartamento 26 252683 Paime, Cundinamarca",5,4,Envigado
+84e57f40-54d7-4de7-be0e-6aa0d9fc0dab,104035600.74,"Cr. 151 # 41-7 Este 130529 Córdoba, Bolívar",5,1,Envigado
+5b13ce9b-1757-4ba9-b7da-2dbcd8dd5455,115095266.07,"Calle 35 Bis # 5-42 632181 Buenavista, Quindío",1,6,Sabaneta
+da143a05-ac86-493b-b079-4285f0d30f07,433586773.75,"Cr. 149 # 9-2 Sur 155271 Tutazá, Boyacá",5,2,Poblado
+10810691-9340-4e8d-91e0-f28f98b8854f,638412434.82,"Carrera 80 # 63S-8 Este Bodega 14 701998 Morroa, Sucre",4,6,Itagui
+f9a093e0-31d9-4ce2-a89c-4d7c6b960018,937970944.85,"Cr. 55 Bis # 1-65 Apartamento 81 150377 Tópaga, Boyacá",2,6,Itagui
+1a522b7b-cacb-44ce-911d-d84bba4a954c,276751654.99,"Av. calle 5ª # 26W-52 Este Apto. 949 475192 Remolino, Magdalena",4,2,Belen
+f20c64ff-3811-4856-a926-310ac1d98b09,484363343.94,"Av. carrera 85 # 3-3 520542 Santa Bárbara, Nariño",1,1,La Estrella
+ba4b7a63-6eaa-40c2-9348-80cc54b75d28,640101292.72,"Cr. 39 # 60-46 Sur Apto. 99 419622 Acevedo, Huila",5,1,Laureles
+30d67b7b-a10c-4b95-ab0e-34401403f3af,560752683.9,"Cr. 33Q Bis F # 6B-97 Bodega 47 275977 Carmen del Darién, Chocó",5,3,Envigado
+2e21a94c-ce7e-48bf-bbd4-ffb9979c17b3,936596409.09,"Transversal 8ª # 1A-76 Este 857826 Chámeza, Casanare",1,2,Itagui
+e8489cc5-f48d-496f-a366-73b6aca45453,320738021.66,"Transversal 8ª # 82-17 521522 Samaniego, Nariño",4,5,Belen
+659e8cc1-516b-45f4-a7e1-6530f64e283c,631093877.44,"Cr. 81C # 90-4 Este 051036 Concepción, Antioquia",5,1,Belen
+456cdd4a-8e18-41cd-b551-aa33f15dd716,935168237.46,"Cr. 167 Sur # 7-6 Sur Etapa 7 apartamento 132 158518 Sora, Boyacá",1,2,Belen
+2298e09e-5190-49e8-9884-69c8502c79bc,159657236.9,"Cr. 87 # 82-11 Sur 052058 Carolina, Antioquia",1,6,Envigado
+ef3781ed-6d63-4d64-935b-83b8b05c2fbf,308730801.7,"Calle 6L Sur # 7-75 Este 208740 El Copey, Cesar",5,2,Itagui
+56cd0557-07a4-496e-a373-8ada9c370f28,243417446.71,"Cr. 3ª # 25-2 Sur 688416 Oiba, Santander",3,5,La Estrella
+05f8a45e-4824-4ad3-b638-7017c0bda489,288565189.47,"Tr. 20 # 96-35 410596 Acevedo, Huila",1,1,Caldas
+3f336675-9e46-4c77-a9ed-971be37d0230,837880684.9,"Calle 8ª # 27L-3 Este Bodega 1 155569 Sogamoso, Boyacá",1,1,Itagui
+088b3f60-9e3e-484b-980f-379039e6fdb9,782563261.87,"Av. calle 2ª # 8-44 Este Oficina 63 522786 Magüí, Nariño",3,2,La Estrella
+fd499913-3d64-485d-9f7d-a1e2772dd93e,574096400.07,"Avenida calle 6ª # 91-58 Sur Bodega 4 277271 Cértegui, Chocó",4,5,Poblado
+e1cc2a1d-7241-4b12-b98d-1f3aa536e7b4,156280186.56,"Carrera 6ª # 38-2 Casa 6 173237 Belalcázar, Caldas",2,5,Poblado
+0fb2bc91-de17-4170-b2fc-436a997c65dc,842865268.89,"Cl. 189Y # 3-7 Este Oficina 86 415177 Suaza, Huila",5,5,Envigado
+903d7981-def5-432e-b840-79f2faa5f26b,458297377.24,"Avenida Caldas # 5-38 Este Apto. 92 055358 Uramita, Antioquia",1,3,Itagui
+0a7f548f-c223-4d18-8f51-256aeecb68e2,904032414.31,"Dg. 2ª # 5-4 Este Apto. 9 419959 La Argentina, Huila",1,3,Sabaneta
+582e197d-a64d-4b8d-a86b-58b25cd1e24a,697963353.9,"Carrera 47 # 6-62 Este 684710 Bolívar, Santander",1,3,Caldas
+54a24fb6-6153-4ef1-a2f2-3c27a22b4227,975145171.51,"Calle 104 # 46T-3 Sur 503714 Puerto Lleras, Meta",2,2,Envigado
+9d623221-88cf-403d-8aa2-a290cd6fcce4,977395731.28,"Av. carrera 139 # 5-80 Este Torre 3 apartamento 877 411687 Yaguará, Huila",2,4,Poblado
+15ddf1b0-4f3b-4b4f-8fe7-649545c51e35,220392630.25,"Carrera 135 # 71-9 Sur 735650 Armero, Tolima",3,4,Sabaneta
+e7ac56fe-d1ab-4921-a641-a3952ba72f6d,303465424.11,"Carrera 1B # 6-8 Este 258523 Zipacón, Cundinamarca",1,4,Poblado
+d3258a8f-d8f2-4640-8971-2cca81f4a640,865663588.77,"Av. Risaralda # 98-9 Sur 709526 Colosó, Sucre",2,2,La Estrella
+a05d0c05-2227-46ad-ba1c-0b344bdae822,382175503.22,"Tr. 199 # 8-30 Este 419409 Elías, Huila",2,2,Poblado
+29577f47-b482-4aeb-b1de-077b9e0f3103,677031523.61,"Carrera 136 # 89-1 Este Casa 4 523075 Yacuanquer, Nariño",4,3,Belen
+7cc4e8a5-6229-460f-8786-0fb68214cb31,871135294.93,"Cr. 84 # 4-5 Este Torre 9 apartamento 685 157858 Santana, Boyacá",3,3,Caldas
+8781656f-a274-4f13-9d7d-7bf8ee864a29,695542212.44,"Cr. 76 # 3Y-5 415844 Campoalegre, Huila",5,3,Poblado
+f4bd1a37-d136-49ff-9298-c3050d0aba5f,159574664.26,"Cr. 49 # 4-48 Apto. 643 278484 Juradó, Chocó",3,2,Belen
+caa8eee3-9914-4fca-909b-8015a4f2513a,86344337.49,"Calle 145 # 2-40 Este Oficina 61 158267 Buenavista, Boyacá",5,4,Itagui
+633696f1-b632-4454-9869-799f187e1b11,742117807.62,"Avenida Milena Agudelo # 84K-9 Este Casa 7 056724 Peñol, Antioquia",3,4,Laureles
+c8c29f97-08ac-46d0-9e5d-6db11385d1ca,415935661.68,"Cr. 55A # 33-7 Sur Casa 94 761527 Buenaventura, Valle del Cauca",5,2,Belen
+83296e0b-5345-4aa8-abc8-c09e21ec1876,92167207.03,"Cl. 64 # 1-59 Este Local 21 857530 Aguazul, Casanare",4,1,Sabaneta
+3c4cc235-7531-4e24-85ce-0e4fa35731a2,396010398.19,"Cl. 82 # 6-7 Este 528414 Funes, Nariño",1,6,Itagui
+53cea70e-f50c-4893-a1b5-b9842656f2c4,641997639.45,"Calle 9K # 83-2 Este Torre 4 apartamento 281 730883 Ataco, Tolima",1,6,Belen
+1f1439c5-1d18-464f-8498-56e92ed5e641,531766378.83,"Diagonal 23 # 6-2 Este Apartamento 87 688740 San Andrés, Santander",4,3,Caldas
+1f2c361f-d052-4043-bd0b-1a0f586ccd9a,712347993.48,"Transversal 166 # 9-3 Este Apto. 86 052656 Yondó, Antioquia",5,2,Sabaneta
+7b5cd8ec-7b61-49e7-9798-38871a866793,449424017.08,"Carrera 46R # 3-55 Apto. 38 500047 San Juanito, Meta",4,6,Envigado
+d63cdbb5-46e2-495c-90af-66bdda4f5d69,634739170.15,"Cr. 103 # 46-97 Apartamento 7 151190 Gachantivá, Boyacá",3,4,Poblado
+79291687-2457-474f-b3c3-0317f10cdea6,338681201.8,"Calle 48 # 14-9 Este 059953 Valdivia, Antioquia",2,4,Itagui
+8c523853-14dd-483b-aeb9-d2ed243b4879,491738780.73,"Cr. 47 # 3J-8 186624 Solano, Caquetá",4,6,Sabaneta
+f2dee161-46e5-4a76-bd5c-50c4cec9f854,535615297.03,Avenida carrera 2ª # 13-5 Sur 683517 Bucaramanga,2,6,Laureles
+e167cfd4-c34a-446b-8e4b-7d2705cb17dc,319597084.74,"Av. carrera 117 # 49W-7 054033 Puerto Nare, Antioquia",5,3,Laureles
+455a675a-bbd9-47a6-b4f8-36fabae8d375,827502291.31,"Av. calle 6ª # 4-30 477175 Aracataca, Magdalena",2,6,Belen
+7acb6954-bf13-4dd5-bc4c-9401b2718eaf,263408632.7,"Cr. 154 # 87-37 Este 253693 San Antonio del Tequendama, Cundinamarca",2,2,Poblado
+4556848a-8390-4275-bd7b-13fdb5dcddd9,93903032.19,"Carrera 31U Este # 9-8 Sur Casa 32 528010 Belén, Nariño",4,5,Laureles
+0459fb3d-a940-49fc-9b13-d031acaf270f,482645359.96,"Cl. 22 Bis Z # 42Q-4 Este 050084 Yondó, Antioquia",5,2,Caldas
+b1ce605a-e34f-46d8-bd0a-8a4a14437606,519658310.56,"Diagonal 101U # 96-8 869334 Puerto Guzmán, Putumayo",2,2,Poblado
+814e6f0f-5798-4eda-9232-6b00674734cd,898026834.9,"Transversal 89 # 5-91 Este 059180 Betania, Antioquia",1,4,Sabaneta
+6e4744aa-0890-4538-831e-a1cc5915dc8e,217092347.62,"Carrera 79 # 78-35 Este Casa 6 059261 Maceo, Antioquia",5,4,Poblado
+5fedd26d-dc26-4ba2-9e9f-a46d96a17825,579535504.33,"Cr. 50 # 47-67 Este Local 13 135999 Clemencia, Bolívar",1,4,Envigado
+0d52e288-b3eb-40b4-a43e-4e4f1e079db5,811345771.64,"Cr. 165X # 1-51 Sur Oficina 313 521426 San Lorenzo, Nariño",5,5,Itagui
+b14192ed-ba52-40f3-8196-74d8c95db4e8,952537628.02,"Calle 158 # 6-7 527888 Guachucal, Nariño",4,5,Caldas
+838595cb-c979-4e15-89f1-baec276f1d42,839040711.24,"Carrera 31 # 56-8 Oficina 7 276224 Río Quito, Chocó",5,4,Envigado
+651a615a-b9c1-4dfc-8bef-ef9f563c3a43,756472670.05,"Avenida carrera 7ª # 8K-6 Sur Etapa 4 apartamento 81 524065 Gualmatán, Nariño",4,4,Belen
+535ce3c0-fa95-412a-8fde-9f1bf400eca3,764187947.18,"Cl. 119I Bis L # 9-3 Este 155479 San Luis de Gaceno, Boyacá",3,5,La Estrella
+68e065af-33c9-4dbf-8f67-09caa9dd5c83,645411015.13,"Calle 76 # 8-7 Este 057243 Guatapé, Antioquia",3,4,Laureles
+d7451fae-9034-45ae-8b18-fd55922ab574,727867619.48,"Calle 66U # 21N-50 Oficina 98 761352 Sevilla, Valle del Cauca",2,3,Itagui
+939845b6-82a2-4ac8-82dc-85545063e9c8,353724090.0,"Tr. 112 # 8-45 Este 760714 Yumbo, Valle del Cauca",5,1,Envigado
+4a49e33a-8f7d-48cc-91c3-14ec5a281d1b,193289125.11,"Cl. 2ª # 92-33 Este 731401 Piedras, Tolima",4,6,Envigado
+b5e3fc86-2047-447a-9cc0-14facb9f60ed,721098184.61,"Cr. 4ª # 76-1 Este 172266 Manzanares, Caldas",1,4,Caldas
+6fb27045-18f7-49f5-8386-d3909d70152a,364337321.49,"Dg. 68 # 79-2 Sur 235371 Los Córdobas, Córdoba",4,4,Poblado
+1c5ec35a-b2e3-4b5c-87b5-1615d309b983,246492670.04,"Cl. 92 # 3-79 Sur Bodega 39 525134 Barbacoas, Nariño",4,4,Poblado
+d3022edf-fa6d-4ac4-b831-382c4bb4294b,863895430.69,"Avenida carrera 1ª # 3A-47 Sur 194225 Mercaderes, Cauca",5,4,La Estrella
+64fabfa7-b016-4bc4-86f3-b760e0092791,55601279.4,"Cl. 58 # 8-8 Este Bodega 767 761903 Roldanillo, Valle del Cauca",3,3,Caldas
+f244fdfa-851a-4f59-82b7-478bd67e0efb,860775553.04,"Diagonal 53 # 5B-67 Apto. 288 767836 Zarzal, Valle del Cauca",4,5,Sabaneta
+09741ce1-5fcd-43cf-ba33-4b09c1f97060,513818003.67,"Avenida calle 1ª # 58-9 682923 Ocamonte, Santander",3,4,La Estrella
+575d55c6-07db-4741-9cd6-c3d99ae88589,77573578.95,"Cr. 73 # 59-7 Sur 470422 Ciénaga, Magdalena",3,6,Caldas
+33eba503-a2e7-49fb-8e0c-21e23ef594f7,737972308.75,"Avenida carrera 117 # 95-71 687590 Suratá, Santander",4,2,Poblado
+24c0060e-bce3-49ff-8935-86b2a40bfc8f,911582419.46,"Cr. 8ª # 3-8 Sur Torre 8 apartamento 548 689750 Gámbita, Santander",5,5,Poblado
+210e7d16-aca8-4ff9-9e7f-b2c1ae963119,129750089.05,"Transversal 12 # 4-74 Este 051541 Abejorral, Antioquia",4,2,La Estrella
+783b97de-4fff-4640-bd22-08ca6d5d4914,222642575.19,"Cr. 2ª # 22N-47 Sur Apto. 11 139387 Santa Rosa del Sur, Bolívar",3,4,Itagui
+e443cbcb-6ec4-4474-b291-b9578a3110e6,251077270.0,"Cr. 8F # 3-73 Este 132218 San Martín de Loba, Bolívar",3,3,Caldas
+396fbcb5-23f4-4edb-ae93-2693c18dc0e0,314343784.86,"Cr. 93 # 19-54 685652 Pinchote, Santander",4,3,Laureles
+c457ad47-4012-47a4-b3bc-e668d4695d9b,496791494.4,"Calle 65A # 7-6 Este 856137 Monterrey, Casanare",5,1,Itagui
+f026bf96-8d07-4d15-b13b-dc41277ff127,263011057.43,"Av. carrera 7ª # 78-7 Este Bodega 2 184300 Milán, Caquetá",1,6,Poblado
+16fad7cd-d8b2-477b-8a83-7e6b51f92faa,766521543.86,"Cl. 74 Sur # 43-20 Sur 631832 Córdoba, Quindío",2,2,Poblado
+a132172c-7361-41a1-8793-39d5d36bdddb,640268873.76,"Av. carrera 98 # 64-32 Este Bodega 12 152027 Güicán de la Sierra, Boyacá",2,2,La Estrella
+d7862967-ebe9-45a2-b9a0-b538743ac493,685985902.39,"Cl. 179 # 3-5 Apto. 168 254917 Sutatausa, Cundinamarca",5,2,La Estrella
+5ff5791b-b792-4f9a-8b2b-0126ca80bb4e,714491722.68,"Av. calle 12 # 46-6 Torre 9 apartamento 1 150756 Guayatá, Boyacá",3,2,Laureles
+72c5bfee-638a-46e7-9473-ccf0f90d499c,788902291.87,"Av. carrera 81 # 6Y-24 Este Local 51 682380 Betulia, Santander",2,3,Laureles
+bb1775cc-228f-4157-871f-82992cb5555d,599750495.88,"Carrera 4Y # 38-13 Sur 709375 Colosó, Sucre",3,5,Caldas
+12192f3d-e81c-4f65-b33c-4ae1aa0d3202,426821719.44,"Av. Cerrito # 30-5 054138 Frontino, Antioquia",2,1,Sabaneta
+c403ca94-e53c-4aa0-8a6a-e2a92a08866f,146806240.17,"Calle 3V # 6-74 Este Torre 9 apartamento 77 058261 San Carlos, Antioquia",3,6,Laureles
+5b8d2309-b1ae-473b-bac1-2897870b8ccf,806415855.77,"Carrera 75 # 6-4 Sur Local 83 472912 Guamal, Magdalena",5,1,Itagui
+9e950202-ee9d-4713-91bf-4f76b6e398bc,556107983.04,"Avenida calle 152 # 4-6 Sur Bodega 5 414903 San Agustín, Huila",3,1,Itagui
+17a04c56-69c3-4df4-97c7-e7f5f69059ea,62019542.66,"Calle 3ª # 1-4 817883 Puerto Rondón, Arauca",4,4,Laureles
+80aa2b4e-c788-403a-86e1-7c94142712a3,461847231.26,"Diagonal 6ª # 8-1 Oficina 61 201372 Agustín Codazzi, Cesar",3,6,La Estrella
+e6c2fd35-efe3-4cbe-956f-644c25cba380,721943211.52,"Dg. 40 # 97-86 Oficina 86 685324 Jesús María, Santander",4,2,Belen
+54388656-e266-4faf-af18-e2f55c11f70f,635116736.35,"Cl. 164S Bis # 6-4 Etapa 7 apartamento 33 136578 San Jacinto, Bolívar",5,4,La Estrella
+c78479dc-dbb8-4af1-85d1-7e5dc8793d32,463795768.35,"Cr. 73 Sur # 3-42 Este Apartamento 89 271334 Acandí, Chocó",5,3,Itagui
+72a9fdf1-12d3-4ad4-a386-a437d6bd2b47,859127502.02,"Calle 139 # 8-18 Sur Local 19 447842 Manaure, La Guajira",1,3,La Estrella
+e044f75d-2828-4877-b49e-97e5192a7ed6,281670267.23,"Calle 185D # 26L-69 Sur 200029 El Copey, Cesar",4,5,Caldas
+2d90f0aa-5c5a-450a-8009-0dd5cf71d3cb,369576788.9,"Carrera 72 # 3-34 Este 472895 Cerro de San Antonio, Magdalena",4,3,Envigado
+065e73fa-1d1f-47be-9d46-020b04d304be,513172435.77,"Calle 65 # 2-6 Sur Oficina 19 059172 Alejandría, Antioquia",3,3,Itagui
+34e984eb-0297-4030-9ac0-2189b14cf283,315675563.64,"Tr. 176N # 2-86 Este Etapa 4 apartamento 44 050067 Buriticá, Antioquia",5,6,Belen
+c5202f3d-6705-43ac-ab88-59b94fb489dc,578001476.52,"Av. carrera 61 # 7-3 Este Casa 8 254054 Anolaima, Cundinamarca",5,2,Laureles
+d3d4b559-92d5-4167-b4a5-20994cc2ef85,279288247.85,"Calle 98 # 5-44 132015 Arjona, Bolívar",4,4,Sabaneta
+0cf8365a-1242-46dd-95ff-43735ab8a104,706078872.47,"Avenida calle 89 # 1-4 050614 Santa Rosa de Osos, Antioquia",4,4,Poblado
+006ce21d-53b5-43bf-a1a2-0d73adce8841,138400683.03,"Cl. 66 # 1-5 Sur 277418 Río Quito, Chocó",2,4,Sabaneta
+6a8a7116-e107-453c-936e-91f78ae8a029,340895728.62,"Av. Yaneth Marisol Figueroa Guerrero # 47-8 Sur Etapa 4 apartamento 5 701586 San Onofre, Sucre",5,3,La Estrella
+668b4b35-004d-440e-9fd5-1ed2ce5c7e55,575799307.26,"Carrera 46 # 52U-69 Este 132233 El Carmen de Bolívar, Bolívar",3,4,Itagui
+f7525860-d744-4a7c-a110-0d2dab0e1367,384220001.23,"Calle 199E Este # 21-2 Sur 080998 Ponedera, Atlántico",4,3,Belen
+31f43358-0ee5-418a-b186-e1a1438adc10,288833492.39,"Cr. 16 # 4-15 Este 910246 Puerto Nariño, Amazonas",1,6,Sabaneta
+6cab36d3-0557-4874-be04-691e2fe08099,349770546.81,"Av. Sergio Alexander Padilla Calderón # 8-4 Sur 731324 Espinal, Tolima",5,6,Envigado
+d81cf6aa-b8a1-410d-be57-341d5321564e,231963924.36,"Avenida Andrea Pulido # 4-10 Sur 738628 Purificación, Tolima",4,3,Belen
+2e88d9ee-80e5-45e5-b263-941d7529615d,981485098.94,"Carrera 179 # 35-5 Este 051035 El Santuario, Antioquia",2,3,Sabaneta
+b5f8ff27-eec1-45a4-bd8c-008f9ec108b1,392837015.69,"Carrera 80Y # 12U-4 Sur Etapa 1 apartamento 7 133334 Santa Rosa, Bolívar",3,1,Envigado
+a415592f-e330-4fad-a8fa-6fdd740a0826,310595760.44,"Calle 6V # 59-5 Este 414896 Palermo, Huila",1,5,Belen
+0d001a30-5c6c-4f8a-9d3a-186ab2918559,712546523.26,"Dg. 35Z Bis V # 57-74 Sur 154328 Cubará, Boyacá",2,6,La Estrella
+27ac797f-efd9-4bf6-a671-8c5c8875ca6f,147458264.45,"Calle 5ª # 68-22 542824 Hacarí, Norte de Santander",1,5,Belen
+5f4643ca-b613-4e14-afda-afda9ed02be2,495927097.68,"Avenida carrera 199 # 47C-9 527170 Cuaspud Carlosama, Nariño",4,3,Envigado
+7cdb2f07-c2d7-4e37-ac80-d5dc8c6dab90,967222760.98,"Dg. 22 # 62-1 Etapa 7 apartamento 1 545697 Arboledas, Norte de Santander",3,4,Laureles
+8da26d9c-ddc9-4991-9eee-3f506b34aa7f,831009863.03,"Carrera 100 # 15-6 Este Etapa 4 apartamento 31 689666 Suratá, Santander",4,4,Laureles
+5a61f6de-c257-4de0-98c0-3ecc513bfbea,598170098.65,"Cl. 1 Sur # 8-94 Este 194216 Rosas, Cauca",1,2,Envigado
+a1336b56-e3ed-44eb-a61f-4385e6ac9f6e,820584972.46,Cr. 42 # 39-28 Sur 863260 Mocoa,3,1,Sabaneta
+d2fc09d9-3157-4b7c-aa49-706e8245f5ba,162528984.1,"Calle 147 # 53-70 Este Oficina 5 050016 Peñol, Antioquia",4,5,Sabaneta
+b9fad3f8-1545-433e-904c-6e24e1ab2571,786908862.71,"Cr. 4Q # 5-36 151173 Busbanzá, Boyacá",4,4,La Estrella
+8919bd05-f253-4265-9eee-9d4f4c1e5c8f,332485475.89,"Calle 28 # 41-84 Sur Torre 8 apartamento 6 761197 Candelaria, Valle del Cauca",5,4,Belen
+eba41145-b06b-470b-ae91-437713280582,590197997.09,"Calle 100Y # 6V-62 Sur Bodega 1 254556 Sesquilé, Cundinamarca",1,5,Laureles
+befd1009-f853-4d5d-b826-3295403ccd51,950210690.31,"Carrera 121N # 1-3 256746 Susa, Cundinamarca",2,6,Sabaneta
+6c954f0e-c72d-45b2-be85-081697baea5f,301413819.03,"Avenida Palmar # 5-6 Bodega 85 682771 Betulia, Santander",1,2,Sabaneta
+cb5e6c6e-565e-4789-97c9-9ca13de02bad,215122870.91,"Avenida Bolívar # 3-9 Sur 865628 Colón, Putumayo",1,2,Poblado
+74d05325-80c3-4cb9-8f4f-2bf100f66019,438091694.03,"Cr. 46 # 8-8 Casa 25 765408 Calima, Valle del Cauca",5,4,Belen
+bee5d393-daf0-4c79-924b-1661f9356d25,81007862.61,"Diagonal 188 Bis # 6-67 Bodega 60 766608 El Cairo, Valle del Cauca",3,6,Belen
+b2fa0537-e22a-44a8-8cc4-5a3f2360a1e9,717838180.19,"Avenida calle 94 # 11-3 Sur Bodega 651 233055 Tuchín, Córdoba",4,1,Sabaneta
+fd636c28-5752-4838-8fcf-abd7419990ee,927715492.26,"Avenida calle 63 # 7-1 Este Oficina 29 151637 Sativasur, Boyacá",5,6,Sabaneta
+e0c546cf-51f8-409a-85ea-cfe1ac770934,453882017.8,"Av. calle 32 # 72-61 Este Bodega 80 158697 Motavita, Boyacá",5,2,Envigado
+65743245-b40c-44c5-af83-6f6687d751dd,912990872.95,"Cr. 185J # 48-43 Este 542269 Chitagá, Norte de Santander",2,1,Poblado
+1652a572-9781-4762-bccf-568747acf4b4,207626649.76,"Av. carrera 7ª # 78-14 Este 278799 Nuquí, Chocó",3,5,Belen
+3ee5b4cf-7a7d-4006-87a5-8b6013371940,467195776.24,"Calle 143B # 80-25 Este Apartamento 7 153424 Coper, Boyacá",4,6,Belen
+b14aff6b-5d38-473b-82d1-b34d6f4f5d22,714747000.73,"Cl. 6Y Bis H # 48-49 Sur 255800 Albán, Cundinamarca",3,5,La Estrella
+fbefe879-fbd1-45f1-b1e1-a89635860df2,465870920.39,"Carrera 122 # 14-6 Sur Casa 2 688160 Santa Bárbara, Santander",5,1,Caldas
+d7ab61b8-c1ca-4002-b71a-774573f551e9,747807227.12,"Cr. 9ª # 9-22 Este 157985 Zetaquira, Boyacá",5,3,Poblado
+779c7032-bbce-4b58-84e1-067abae60701,136760542.3,"Cr. 88 # 60Y-81 Oficina 913 175554 La Merced, Caldas",5,5,Poblado
+cbb403cf-25e7-4cc7-9b3a-e55d03f28e08,999593796.03,"Avenida Marín # 4-6 Este 250858 Guatavita, Cundinamarca",3,5,Poblado
+dc1b046f-946c-428d-a5ca-0c7ecd890601,774953553.96,"Cr. 31 Bis U # 6-1 Apto. 3 133613 María la Baja, Bolívar",2,4,La Estrella
+8dc3ffbe-1a92-41fe-97fa-6f3f59bdecf1,920269148.53,"Carrera 26A # 29-1 Este Apartamento 38 134667 Achí, Bolívar",2,5,Caldas
+28c6e002-23ea-4949-8be8-8ca0bf3617d0,653045483.48,"Avenida calle 80 # 4-3 Este Local 94 114766 Bogotá, D.C.",4,1,La Estrella
+aa6814e6-dd5f-4edd-b85d-6da860e2194d,380563003.48,"Carrera 51 # 4-75 Este Etapa 3 apartamento 50 540099 Los Patios, Norte de Santander",3,3,Laureles
+d709876a-a34d-410a-b9b1-c5876fed30e1,864846439.68,"Cr. 90 # 28-5 Este Casa 3 819431 Cravo Norte, Arauca",3,4,La Estrella
+5f476dc2-04dc-49e2-80c2-088a9f32c310,323806905.59,"Av. Ruiz # 59-3 Este Etapa 2 apartamento 452 081491 Ponedera, Atlántico",4,5,Poblado
+a9569b56-fda3-49b1-b774-a8880393831b,482084613.17,"Avenida carrera 3ª # 85-87 Sur 523364 La Tola, Nariño",3,3,Itagui
+00a74676-1088-4883-a990-0f38ba9f17ad,160125521.36,"Dg. 21 # 7Q-40 Bodega 9 414283 Palermo, Huila",4,5,Poblado
+97fe7a2c-d715-4945-9647-8138df12d0a5,674777367.16,"Cl. 1ª # 99-32 Sur 252788 Ricaurte, Cundinamarca",5,4,Caldas
+73caadbd-fc96-4106-820f-362f51b292f2,101493881.11,"Cl. 93 # 86L-8 Casa 35 173731 La Merced, Caldas",5,3,La Estrella
+eb753078-1325-460a-8c80-0e4b309c442f,644138305.04,"Cl. 9 Este # 85-8 Este 056591 Puerto Triunfo, Antioquia",1,2,Belen
+595e366f-d592-425a-869b-0c5a08bdcfb7,571758657.13,"Calle 29 # 26-85 Este Casa 8 051843 Arboletes, Antioquia",3,4,La Estrella
+85baefab-9fde-4efb-b979-7acc02fa0889,165354779.19,"Cr. 30 # 5-3 Este Bodega 40 730299 Icononzo, Tolima",5,2,Envigado
+6bcd382b-d559-469b-b3b1-30dff6f7e5f0,345212631.47,"Carrera 32 # 38-64 Sur 639772 Salento, Quindío",1,5,Caldas
+0b4f6090-026a-49f9-84e0-ab17f8b4da51,138548741.22,"Avenida calle 29 # 1-9 Este Torre 7 apartamento 7 083886 Sabanagrande, Atlántico",1,4,Laureles
+d2eec182-d78e-474b-ad08-83211966fb3d,665324204.34,"Carrera 176Z # 2-79 158650 Jericó, Boyacá",2,4,Belen
+e3c76666-8c0d-41d0-9363-de77279cb085,533428414.32,"Calle 7A # 65-26 254300 Venecia, Cundinamarca",3,4,La Estrella
+930ff2f2-56f7-4ded-804f-eb2cdcf48c11,981232400.97,"Carrera 149L Bis I # 3-26 Este 686368 El Peñón, Santander",2,4,Envigado
+ad8cce3e-fbe2-4bf8-afdd-c48bb1718adb,414406712.58,"Tr. 20 # 7P-2 255890 Cáqueza, Cundinamarca",5,5,Envigado
+24449cb7-d74b-4c84-a921-a251278e9185,870825587.71,"Cl. 184 # 9-9 Este 259027 San Juan de Rioseco, Cundinamarca",3,4,Itagui
+d5f94d4c-cc04-49e8-8357-10c100971a08,937535974.0,"Cl. 49 # 21-9 Sur Casa 13 252146 Chipaque, Cundinamarca",5,3,Poblado
+c0d88c21-7d6c-4c92-9949-eed69353cffb,318697034.12,"Carrera 28 # 25-9 Sur 506904 San Juanito, Meta",3,5,La Estrella
+577ff779-c6fd-4ea9-af1f-c342b8ca81fa,871997564.97,"Cl. 43 # 6N-9 Este 949071 San Felipe, Guainía",4,5,La Estrella
+9d0d3150-be5d-43fc-b3b2-64fa7b72e22a,377867744.61,"Dg. 34 # 83V-4 Etapa 4 apartamento 55 058275 Betania, Antioquia",5,5,Caldas
+b1d5d90b-2300-429e-b071-35308ca229fc,482577386.02,"Cr. 90T # 65P-89 Este 252111 Guachetá, Cundinamarca",3,2,Sabaneta
+a716b118-8425-4c2a-9efe-e314ef1ba3ab,593207759.89,"Av. calle 108 # 8-22 Este Bodega 36 250867 Villa de San Diego de Ubaté, Cundinamarca",2,4,Poblado
+72efafa9-5827-4080-a000-531745fc36ba,352267510.87,"Dg. 92 # 8-64 Sur Bodega 6 856915 Nunchía, Casanare",4,6,Caldas
+657b7ed8-2551-416b-84ee-5d77fb8eeba1,416774814.87,"Tr. 4V # 5X-4 Este 196472 Jambaló, Cauca",2,4,Poblado
+4b209fd1-53d5-429f-a2c1-02df4284d527,169933956.32,"Dg. 98 # 57-94 Este 680267 Güepsa, Santander",5,3,Laureles
+e8268ca0-7921-4ac4-aad4-c0d41c4e1701,880480855.35,"Cl. 6L Bis # 2-6 Este Oficina 2 054717 San Rafael, Antioquia",4,1,La Estrella
+59631935-e4d8-4422-925a-30b119092fc3,64580218.02,"Cr. 32 # 75-26 207169 Becerril, Cesar",2,4,Envigado
+5cd6acea-e844-437b-8190-ed2c9bf8edba,121086835.83,"Carrera 12 Este # 4-5 Este 174759 Neira, Caldas",3,3,Caldas
+f117b071-f277-40f6-891c-48fa0c7b5815,667344819.95,"Carrera 34C Sur # 7-5 Torre 3 apartamento 7 137800 El Peñón, Bolívar",3,6,Caldas
+990b7c0b-c9a0-43e2-8322-2906ac6b10f0,956432612.99,"Dg. 148 # 38-8 Este Etapa 8 apartamento 3 250557 La Mesa, Cundinamarca",4,5,Poblado
+c0a964b5-8b35-4ca5-a60b-cb8218f2b3a5,636586488.52,"Calle 38 # 9-17 Este 684564 Landázuri, Santander",2,6,Belen
+241b3e78-7d01-47dd-96bc-7a4c3f30d25f,997554626.81,"Carrera 163 # 7-7 Bodega 54 760853 Andalucía, Valle del Cauca",1,4,Laureles
+a4d42960-b62c-4655-9d9f-6bf0b43aadbf,772351208.34,"Calle 87 # 8-49 Sur 256312 San Juan de Rioseco, Cundinamarca",1,4,Envigado
+b86ef392-358f-49de-9c2f-8dd0f7752d9f,709301104.65,"Cr. 112H # 4-6 Sur Casa 1 051442 Concordia, Antioquia",1,1,Itagui
+14412738-455c-41e0-82fd-77cbdf6e283b,806336291.9,"Calle 160 Bis # 4-7 Sur Bodega 601 410461 Timaná, Huila",3,3,Itagui
+3aee701a-40fc-427e-96aa-f79e35afb655,459152448.46,"Calle 28R # 4-64 256452 La Mesa, Cundinamarca",2,5,Caldas
+9d2b4529-28fd-4d1d-97a0-2daa44e40f2d,587631658.82,"Calle 192B Bis W # 4-31 Sur Apto. 45 234916 Puerto Libertador, Córdoba",2,2,Envigado
+c95225ce-d1ab-4846-8e66-6b72c65dfdd6,125019933.13,"Av. San Juan de Arama # 4O-1 Este Local 12 132735 Simití, Bolívar",4,5,Sabaneta
+1e1cf092-74a1-48e1-afa7-9b7937a5ee36,522783889.75,"Cl. 57 # 3T-28 Este 528739 Sapuyes, Nariño",5,2,Sabaneta
+9561d4c7-b64c-4565-afd7-d479c96010b1,488092417.69,"Cl. 4T # 9-71 Bodega 587 158620 Zetaquira, Boyacá",3,4,Belen
+ca221d9d-1a96-41bc-8e87-3254704c4a7a,683498681.4,Calle 12E # 4-27 865118 Mocoa,4,3,Envigado
+5b019f0d-6be4-43e4-a326-6906a5156332,120168805.27,"Cr. 158 # 16-55 Este Bodega 903 540371 Hacarí, Norte de Santander",3,5,Belen
+43536a5b-e185-4783-855c-5e83bc74dd0c,656991767.24,"Carrera 33 # 78-2 Este Apto. 5 051386 Retiro, Antioquia",4,6,Belen
+f0ca3f1e-bb5b-412d-a77d-eb912bb743a0,483994022.03,"Carrera 67T # 65R-7 Este Bodega 7 528685 El Rosario, Nariño",3,2,Caldas
+db362080-974c-43bc-9040-1a3d853b647d,860668685.73,"Calle 5ª # 38-5 685776 Guaca, Santander",1,2,Caldas
+f5ca8773-6477-4c4f-9a9c-d2ded02218e7,593326557.73,"Cl. 49 # 2-74 Este Torre 4 apartamento 68 411075 Gigante, Huila",5,3,Belen
+c5bb60ca-1af5-46e6-89f4-46f7c8060b36,70842617.97,"Cr. 65 # 2N-46 Este Apto. 629 239409 Puerto Escondido, Córdoba",4,3,Poblado
+7373ba2d-2963-4b26-8fa7-077fa3be566b,587632566.11,"Cl. 7 Sur # 99Y-29 058925 Buriticá, Antioquia",1,5,La Estrella
+05bd914d-a024-4631-b38a-e62940a9ac21,841196954.69,"Cl. 36 # 47-88 Sur 689086 Guavatá, Santander",3,2,Itagui
+ae958b50-0857-4168-aef4-35d90b61ad64,258054311.98,"Cl. 19 # 82-35 Sur Torre 4 apartamento 269 191665 Totoró, Cauca",2,5,Belen
+f2406882-a4e9-4853-b0c4-2aa1abeda651,693876235.69,"Avenida carrera 140 # 5-81 Sur Torre 4 apartamento 6 050392 San Jerónimo, Antioquia",2,6,Laureles
+3759bb80-6c4c-4531-a431-d87eb89aeedc,908233518.87,"Cr. 198M # 3-1 Sur 058792 Envigado, Antioquia",1,3,La Estrella
+c637322d-c5b1-4e78-880e-25ee3a931d5a,81696304.68,"Dg. 46 # 81Q-95 204510 Curumaní, Cesar",3,6,Envigado
+55f37451-425b-48bb-add2-013901a4f1bd,135626706.96,"Calle 65 # 4-94 Sur Torre 9 apartamento 8 198457 Miranda, Cauca",3,3,Caldas
+97da2e37-de14-4a33-8d21-2743a75d9453,216858066.92,"Cr. 46 Este # 56-6 Sur 086216 Baranoa, Atlántico",2,5,Itagui
+51eaa3a1-0110-4ba5-b269-11443d7ac48a,554309755.02,"Transversal 129 # 91K-9 Este Casa 4 952482 Miraflores, Guaviare",3,2,Belen
+6bd5e3f0-5547-4022-96b9-fb4d501792ec,918346505.86,"Transversal 142 # 31-12 Este Casa 6 155664 La Capilla, Boyacá",4,3,Itagui
+1b70fc37-f8e6-4821-9dbc-70ef0c5ca788,814020911.67,"Cl. 177M # 4-4 252897 Subachoque, Cundinamarca",4,1,Envigado
+f7101f2e-1936-4efe-9be4-923d47edd2ed,766443918.41,"Cl. 173 # 70-6 Sur Apartamento 53 661279 Guática, Risaralda",2,6,Caldas
+b5fa01c4-3abe-48ba-bd1f-36e421a55b22,968906259.94,"Av. Puerto Nare # 18-4 Sur Apartamento 97 913886 Tarapacá, Amazonas",5,3,Laureles
+477186b6-8630-4bc8-a6a5-7293b804e24d,801147870.16,"Av. Restrepo # 21-38 Este 684908 Oiba, Santander",1,3,Laureles
+08599751-db38-4614-8fe8-ad4bdfa726d0,482046726.35,"Avenida Huila # 6C-34 Este 990279 Santa Rosalía, Vichada",3,5,Caldas
+3c3bc290-da62-4a3a-87d8-3c8a7b147f76,831296436.17,"Calle 159 Este # 3E-32 Este 158926 Muzo, Boyacá",3,1,Sabaneta
+a101de4a-4dea-4a72-bf2e-562a34af5326,497903024.58,"Calle 80P Bis R # 8-89 Sur Oficina 572 052309 Sonsón, Antioquia",5,5,Itagui
+238bba3b-c0f3-4ec1-babf-84c81b7b377b,919493113.31,"Calle 59B # 1-21 Sur Apto. 19 680220 Páramo, Santander",2,6,Laureles
+9595abab-bc89-4fc4-973d-706f75ceff26,653633726.26,"Cl. 96M Sur # 8-3 199501 Bolívar, Cauca",4,6,Belen
+c04169a3-988f-4f63-9eda-72a355407b02,666777473.97,"Cr. 179C # 74W-6 Sur Local 98 259019 Villa de San Diego de Ubaté, Cundinamarca",1,2,Poblado
+7a30299b-d220-4e76-865c-bc700eff2432,948948456.24,"Calle 2ª # 73-79 Local 387 869343 Puerto Asís, Putumayo",3,4,Laureles
+c2f89455-accf-47c7-9044-3775363f3224,142332398.69,"Carrera 20 # 15-36 Local 9 474414 Tenerife, Magdalena",5,2,Caldas
+03297e15-06a0-47f1-8016-8f578913c0cb,480961569.04,"Diagonal 108 # 9-95 472785 Sabanas de San Ángel, Magdalena",5,4,Envigado
+bd8effb7-b3da-4f83-a7ff-efbaa349c8fd,891143094.7,"Avenida carrera 7ª # 2-5 Este 200568 San Martín, Cesar",1,4,Caldas
+0d3801e7-f137-4b9c-a080-45ec8bbc2ba9,942100412.43,"Calle 40 # 18O-8 Este 447438 Dibulla, La Guajira",3,1,Itagui
+81743d89-8312-4b75-b0c9-8a66f3cd56a9,256406200.46,"Cr. 181 # 1-2 Sur Torre 6 apartamento 85 158230 Ventaquemada, Boyacá",4,2,Itagui
+532956c2-755b-4a34-8e72-04ec0d09f8e8,144386893.38,"Cr. 34 Sur # 2-1 Este 703344 Santiago de Tolú, Sucre",3,5,Itagui
+3e0e3b7d-cf0c-4ebc-a164-ef8d91d2f1b1,107522584.71,"Cr. 6ª # 30-1 Sur Apto. 484 814932 Saravena, Arauca",3,2,Laureles
+9c1f6dee-7623-402c-bbcc-12516d3f0a88,951560248.85,"Cr. 69O # 9-23 Sur 056299 El Santuario, Antioquia",4,1,Sabaneta
+50abb568-b889-4306-9e17-619d6c9db361,659619243.87,"Avenida carrera 194 # 62M-6 Sur 157332 Quípama, Boyacá",5,1,Poblado
+65d13672-0d99-465b-bd54-b54152c5c578,797454860.93,"Carrera 2M # 5-91 Sur 732459 San Luis, Tolima",2,2,Sabaneta
+dcd07d8b-1588-4aa4-b5c7-6e60f7f78291,115179645.18,"Avenida calle 7ª # 66-99 Este 636153 Buenavista, Quindío",5,2,Sabaneta
+682deb50-c169-4f43-b83b-5fcb8d91b9b2,822400332.07,"Tr. 21 # 69-86 Este 255817 Facatativá, Cundinamarca",2,3,Envigado
+b6310276-6ed6-4d97-b9bc-372792ba2b63,799211566.56,Carrera 43 # 55-74 Este Apto. 4 082784 Barranquilla,5,1,Belen
+c5661083-7fb9-45b9-904d-46bc8520b137,865485820.06,"Avenida calle 25 # 7A-73 Este 508008 Puerto Gaitán, Meta",2,2,Belen
+b1e884b2-c6c3-414f-a65d-f109649a3fbd,808588132.38,"Transversal 36 # 3-12 Oficina 76 447238 Manaure, La Guajira",1,6,Poblado
+15c8f478-5022-4025-adce-b2ecf7de6ddf,175213068.08,"Av. calle 192 # 96-8 Sur Casa 82 052679 El Carmen de Viboral, Antioquia",3,2,Itagui
+3824a032-c63d-470d-8416-77d4c3a37e56,64992029.34,"Calle 8ª # 81-29 526895 Cuaspud Carlosama, Nariño",3,1,Envigado
+cee50074-95fa-46d0-99f2-8c098ac1c8c4,754632154.11,"Calle 95 # 97-87 Este Etapa 8 apartamento 9 867189 Puerto Guzmán, Putumayo",5,1,Laureles
+0f14a898-9d5e-40b9-bb44-df4a114edda2,502433667.15,"Carrera 3ª # 14-5 Sur Oficina 64 479494 San Sebastián de Buenavista, Magdalena",3,5,Laureles
+40940346-db8e-4373-8c21-92b37c405584,479405148.91,"Cl. 31 # 82X-6 134294 María la Baja, Bolívar",2,5,Poblado
+5fc3925b-a510-4ddd-aab0-1ddafb2f35af,740880847.31,"Cl. 63O Este # 5-2 Torre 8 apartamento 31 259276 San Bernardo, Cundinamarca",5,3,La Estrella
+00b8a9bf-49b0-47bb-8c75-9bd1950877fb,661173650.0,"Dg. 50 # 66O-9 Este Bodega 748 176674 Villamaría, Caldas",1,1,La Estrella
+7a467b4e-4937-4011-bf76-4b3411416373,854933616.01,"Cr. 43 # 62-9 054149 Rionegro, Antioquia",4,6,Laureles
+1a4d9d58-f787-477e-b9f2-20d13edd8fab,515755411.44,"Calle 11 # 23V-2 055344 Belmira, Antioquia",4,1,Laureles
+58db0d3b-9ac1-432d-89d9-8bd49f242fa3,356006228.76,"Av. calle 74 # 35-24 Sur 154717 Pesca, Boyacá",2,1,Envigado
+0ca19075-c7e7-4470-846b-edd246f90541,311265199.58,"Calle 2P # 7-4 Este Oficina 704 087173 Campo de la Cruz, Atlántico",5,5,Itagui
+21747f04-9cbd-47ba-a2a8-84cc7b6dc5df,411859178.88,"Carrera 1ª # 56V-3 Este Bodega 5 151947 Cómbita, Boyacá",5,5,Belen
+869fde6c-9a87-4ddd-bf6c-4b08347ba2e2,481029646.7,"Av. carrera 27 # 65-5 Sur Oficina 176 478306 Remolino, Magdalena",5,4,Laureles
+249eb027-5a73-449e-b9ef-7298cb3734ae,803441288.45,"Cl. 61M # 47-3 Apto. 614 052806 Uramita, Antioquia",1,6,Sabaneta
+1e2c8947-1292-4ad5-a083-7d28f478372c,458566444.58,"Calle 1ª # 93-8 Este 197870 Sotará Paispamba, Cauca",2,4,Itagui
+61137a10-5bec-42a2-bb9c-5a4d7bc191fe,836048263.54,"Av. Beltrán # 1-32 Este Casa 4 912707 Tarapacá, Amazonas",4,4,Laureles
+52c04d7c-a356-4ff3-9d08-eb63dfa28503,346920932.5,"Diagonal 66 # 7X-6 Etapa 2 apartamento 8 051799 Santo Domingo, Antioquia",3,6,Belen
+0685fe69-c7ca-484d-bc3a-c6f9409e6461,405585972.26,Calle 36 # 88-42 Este Casa 6 999251 Puerto Carreño,2,6,La Estrella
+2821ddf4-40bf-4be4-9d30-617eab88df24,113776642.73,"Calle 59 # 37-4 Casa 22 057100 Retiro, Antioquia",1,1,Caldas
+45f0986e-3f96-4256-bf14-fe88ca7ad39d,141736210.94,"Av. carrera 64 # 48-4 Bodega 7 259279 Tenjo, Cundinamarca",3,2,Poblado
+dbe34751-4a96-4f9e-8d6b-82d6a48d5796,607141828.6,"Tr. 172P # 1-1 Este 860312 Villagarzón, Putumayo",5,5,Itagui
+8eb71eff-2299-4679-b463-c45d475f4ae9,686512601.5,"Carrera 137D Sur # 75-4 Este Etapa 4 apartamento 750 520822 La Llanada, Nariño",4,3,Caldas
+8ea9cb07-2b05-479c-9c53-182dd9f96032,874687541.43,"Carrera 1ª # 8E-33 Sur Torre 2 apartamento 6 476363 Fundación, Magdalena",1,3,Belen
+e39ff930-20a8-43ba-b049-a183e3ea8c37,384063876.41,"Carrera 5ª # 8-8 Sur 524352 Roberto Payán, Nariño",5,5,Sabaneta
+6721c676-819a-4c93-b50e-fd3b61cbc362,196993667.07,"Carrera 139 # 57-1 Este Local 49 189831 El Doncello, Caquetá",4,2,Laureles
+b7dcbcb7-6b09-4857-842d-9fc46e1e7a6d,382608294.51,"Carrera 9ª # 9-7 Sur Torre 4 apartamento 69 689060 Florián, Santander",5,3,Laureles
+11709aae-0d58-4f96-966b-1e125775124e,774475350.34,"Cr. 11 # 34-8 Este Bodega 8 156325 Berbeo, Boyacá",5,2,Caldas
+3f46221a-31cd-4086-9001-41e22d7d6250,852897403.26,"Avenida Sucre # 74-5 Este 057016 Giraldo, Antioquia",5,5,Poblado
+ca1fe32e-c241-4086-b0cb-c00c9e697138,628545169.78,"Cl. 9ª # 38-63 Torre 2 apartamento 60 956579 Miraflores, Guaviare",3,1,Envigado
+f8456ab6-0a8b-46f7-9bea-a5c41b859bec,309606869.28,"Calle 85 # 28-8 Este 945486 Pana Pana, Guainía",3,3,Itagui
+60a0c467-a255-4a9a-a18f-04f7584e804a,55800499.93,"Tr. 31 # 8-32 911162 El Encanto, Amazonas",2,5,Caldas
+5243015b-1416-41ad-8134-d5312df05b67,116106150.19,"Calle 93 # 66-69 Sur 855670 Sabanalarga, Casanare",1,1,Sabaneta
+5fc96ebc-e22b-423c-9cff-0c3f38dba4a9,407384685.42,"Cl. 30 # 3-37 Este 862437 Villagarzón, Putumayo",4,3,Envigado
+851a06d9-1f45-4f88-a45e-9bfe914c1a65,401550437.85,"Cl. 42 # 60-6 Etapa 3 apartamento 3 911059 Puerto Nariño, Amazonas",3,5,Laureles
+f1523db2-70a0-46a1-ad19-6553b6aec554,889175075.29,"Av. calle 12 # 58R-85 Sur Bodega 91 526727 Ricaurte, Nariño",2,2,Poblado
+bc0a2a30-73e4-4be7-aa7b-e3a667e20fc7,690270275.08,"Diagonal 175 # 1-4 Este Bodega 60 158140 Tenza, Boyacá",3,4,Caldas
+05a28c29-c367-4306-8e09-d76442186e58,511378619.65,"Cr. 180 # 36L-7 Sur 861863 Puerto Guzmán, Putumayo",4,4,Belen
+d4ae6dba-b2cc-4df6-94b7-6a8e81e7b4d4,254790517.07,"Carrera 3O Bis # 7N-3 Este 548137 Durania, Norte de Santander",5,1,Itagui
+a3b03f22-9584-44e0-ac10-079f2370ee07,458417951.73,"Cr. 5ª # 88-3 131961 San Cristóbal, Bolívar",3,6,La Estrella
+cbe3062c-adcd-4d2c-b8fd-85da3570518c,550587401.79,"Calle 5ª # 2-57 Sur 197873 Mercaderes, Cauca",3,1,Sabaneta
+e3cacbad-5b1d-4007-b39f-cf466baedb24,425500226.28,"Carrera 8I # 15D-58 197195 Cajibío, Cauca",5,1,Poblado
+5081219c-0de2-43f8-8957-e4dee3b3787e,244201968.14,"Transversal 150 # 2-98 052045 Vigía del Fuerte, Antioquia",2,2,Belen
+9dd366c6-04b9-46e7-bbdb-ae1705cee3e8,324974774.66,"Avenida calle 30 # 85-7 Sur 191895 Inzá, Cauca",1,1,La Estrella
+e16c3a2b-5d51-4a56-9822-17697fef986e,759663417.26,"Cr. 116Z # 21-3 Apto. 4 178988 Pácora, Caldas",2,2,Caldas
+fae3051f-506f-483c-92ee-60303a8762ab,555953230.47,"Dg. 42 # 3-23 Sur 732401 Líbano, Tolima",2,5,Itagui
+467a1b07-058c-4acc-89ac-fb3ce90bbba4,118471721.76,"Calle 5ª # 5-1 Apto. 16 151089 El Espino, Boyacá",1,4,Poblado
+c2ca06c6-8407-4eb1-aa4d-6c895eff455c,486766537.84,"Carrera 49 # 21-1 Este Torre 4 apartamento 30 154955 Muzo, Boyacá",1,3,Caldas
+51383533-8dc4-4c68-ad71-3108d8197ad6,594729696.84,"Cr. 31 # 7M-4 Este Torre 5 apartamento 3 238759 Pueblo Nuevo, Córdoba",4,3,Laureles
+1fa7d7d9-0b0b-4a49-833f-cee04ac5631c,434780691.71,"Calle 116P # 5-89 Oficina 211 257548 Cabrera, Cundinamarca",3,2,La Estrella
+d397233e-035a-402e-b4a1-cac338d9d336,840424617.42,"Cr. 111 # 7-2 Este Etapa 7 apartamento 45 660716 Belén de Umbría, Risaralda",3,1,Caldas
+458f8825-9db5-469e-a914-a2872c75d8e6,852260141.82,Cr. 59 # 86-75 Sur 181367 Florencia,2,4,Caldas
+135c831e-95df-4069-9f69-d8625e6eae4e,547764415.85,Cr. 2ª # 30-7 Este 817732 Arauca,4,3,Itagui
+39302ae9-6d83-4abc-bad3-6ee6956b797e,260493455.95,"Carrera 58 # 98-1 Casa 5 478773 Nueva Granada, Magdalena",2,1,Laureles
+538c0850-b1e5-4233-85c8-c0351fc1d2e6,554074579.73,"Cr. 82W # 74-8 680028 Guaca, Santander",2,3,Itagui
+ffac7a19-a3f8-4ca1-a5c6-04549e270600,741010150.39,"Cl. 6J # 1-3 Sur 734796 Villarrica, Tolima",2,2,Laureles
+83f5ee2e-1931-4fa2-98af-013f392ec12b,189122007.36,"Cr. 29 # 24C-6 506503 Vistahermosa, Meta",2,2,Envigado
+101bdaa9-1f39-476e-9db1-167db26798a1,772204530.77,"Cl. 29 # 4D-6 Sur Local 164 057905 Copacabana, Antioquia",1,2,La Estrella
+1ad5eae6-f3df-4ce7-b100-c98f5233dcdc,490755415.09,"Cl. 79 # 2T-2 Este 761834 La Victoria, Valle del Cauca",5,5,La Estrella
+0e934386-ce87-4ba2-8840-0cabb3aac8ef,697076804.4,"Carrera 136 # 99-8 Este 501484 Cabuyaro, Meta",5,6,Itagui
+479711bb-e30b-4147-b92a-8f79640ce2f1,871034531.09,"Av. calle 108 # 3-47 194896 Caloto, Cauca",3,2,La Estrella
+1be4175e-6d78-41b7-ab2f-9dcc27948c6f,114871945.57,"Cl. 112H # 4-5 Sur 414424 Garzón, Huila",4,6,Belen
+810bf6a8-92db-47c1-8c8a-c606a6877dda,806513195.19,"Cl. 107R Este # 60-51 Oficina 7 734204 Roncesvalles, Tolima",5,1,Itagui
+81369192-db18-4d33-a2a2-17e917e47eaa,531970041.03,"Carrera 58Y # 41-2 Sur Local 22 669818 Balboa, Risaralda",3,4,La Estrella
+898e0d87-ee48-4376-b20b-4529e308e269,85726883.29,"Dg. 107 # 61-9 Sur Oficina 43 472347 Puebloviejo, Magdalena",3,3,Laureles
+e7633b90-eed7-455a-8fab-2cfd931dd146,662433146.1,"Cl. 25 # 83-7 Torre 5 apartamento 374 739003 Dolores, Tolima",1,5,Caldas
+6f637a6b-0627-4c60-9d47-fbc653af8ac1,489576075.98,"Calle 87 # 25-36 Este Etapa 5 apartamento 23 547560 Pamplona, Norte de Santander",5,6,Poblado
+2fd39d81-7d69-489e-a01f-c3cd3b491bef,477247018.47,"Cl. 5ª # 2-31 Apto. 697 250272 San Antonio del Tequendama, Cundinamarca",5,6,Sabaneta
+433771b1-819e-4f6e-a074-4ea88b8d8b38,355450424.74,"Avenida calle 44 # 6-3 Sur 852429 Hato Corozal, Casanare",4,5,Envigado
+e74f81e7-f0ab-4034-9866-5b31a247a90d,959836240.92,"Carrera 142 # 6-3 Este 523420 Santacruz, Nariño",4,1,Itagui
+6e0c27a1-6cd7-4497-81cb-b2435f186c95,983266302.04,"Cl. 4N Este # 33J-76 Apartamento 971 153344 Jericó, Boyacá",1,5,Envigado
+38e753c7-48a8-4a5c-a918-24f3514ab1a5,87185019.89,"Avenida Santiago Forero Toro # 24-91 051072 Itagüí, Antioquia",4,4,Envigado
+e29742f1-56f8-487a-9af3-4ddd596e7b0f,395703061.7,"Cl. 35 # 30R-59 Local 45 054896 Sopetrán, Antioquia",3,4,Caldas
+8379d655-75a2-4a3a-89d9-7cd8394e9327,785741549.15,"Calle 82 # 7I-55 Sur 768624 Palmira, Valle del Cauca",5,1,Itagui
+5efbdb9e-600c-458c-8ce6-b202aff47a47,112616261.57,"Cl. 80 # 7-27 Sur Local 77 258703 Sesquilé, Cundinamarca",1,5,Caldas
+130c82b5-2201-4bdb-871a-bb624d170cda,319939625.18,"Avenida carrera 122 # 44-19 Este Bodega 671 051513 Retiro, Antioquia",5,2,Itagui
+7f837bd3-ca4d-4e17-b747-c090573d3d19,127426888.08,"Transversal 61 # 2-8 Este 190416 Caloto, Cauca",2,3,Belen
+0e53c498-4979-4677-9013-50fadf46a345,969311682.31,"Avenida carrera 145 # 71-28 Sur 735923 Líbano, Tolima",4,2,Laureles
+a3b73c36-e23a-4a90-bde2-cf4e1b393c4e,344102793.05,"Cr. 22 # 5-36 Sur Casa 41 253266 Pacho, Cundinamarca",4,6,Itagui
+a6c27786-48fa-4ebe-850f-a951b7c42ed4,822525544.62,"Cr. 159 # 7-2 157499 Almeida, Boyacá",5,1,Caldas
+829ba9a1-7327-4198-aa34-c240f0d0891e,533064062.1,"Calle 174 # 3-5 818814 Puerto Rondón, Arauca",1,3,Belen
+5c85cebd-0b85-4943-b7ab-6c8a6985f22e,221249776.73,"Carrera 194 # 2-99 Oficina 5 858186 Trinidad, Casanare",2,3,La Estrella
+6041b10d-4543-41e1-9b83-1c709baa6cb4,232404971.98,"Cr. 194O # 4-32 Bodega 30 156459 Garagoa, Boyacá",2,2,Laureles
+7cd6ad6f-6d71-4cd7-b026-e3eaf368bd09,331002496.57,"Carrera 197 # 6-79 Sur 251027 Quipile, Cundinamarca",1,5,Poblado
+072e907c-2f06-42ad-8d7d-d8d3352c967c,678832775.5,"Cr. 73 # 9Z-4 Casa 3 131030 San Jacinto, Bolívar",5,2,Caldas
+3771b822-eb8d-4d99-b0e5-eca3758ec21e,196540123.26,"Dg. 193 # 7-19 Sur Bodega 36 412277 Guadalupe, Huila",2,6,Envigado
+98065e56-97f4-48d1-87d0-4b54164fa2af,735123847.92,"Transversal 130P # 66-9 056789 Barbosa, Antioquia",1,4,Itagui
+cf3e7f16-cb47-4513-9d91-b9710bcc631a,692544776.08,"Calle 85 # 6-83 257602 Supatá, Cundinamarca",2,4,Belen
+c9c69eb4-c851-4769-9a21-44e42d9cc9da,764771606.86,"Calle 27 # 47-44 Este Oficina 77 274172 Sipí, Chocó",4,2,Sabaneta
+3d32d1db-0087-4bfb-918c-1a3ba725c2b8,343994501.73,"Cr. 118 # 6-64 Apartamento 65 058015 San Pedro de Urabá, Antioquia",4,2,Itagui
+b345b099-74a9-4ea2-ac8c-d56eff9bf2e6,694391483.81,"Cr. 181D Sur # 2-4 Sur Casa 9 257711 Suesca, Cundinamarca",5,4,La Estrella
+386eb70f-f368-47a9-addc-63d90c3a130e,780966624.38,"Carrera 103 # 6P-5 Este 175213 Aranzazu, Caldas",4,5,Caldas
+36b28488-de3e-4c37-8bab-fd6cfe974abc,967954745.55,"Avenida Peña # 97-6 Apto. 563 188632 El Doncello, Caquetá",2,5,Envigado
+9f8d5a76-8937-4d01-8fc8-3b19b840b238,879351824.06,"Cl. 102 # 58B-7 Sur Casa 1 685562 Pinchote, Santander",1,6,La Estrella
+f983f7c9-e54c-4ef6-bb11-e9b26e78e412,880411097.8,"Cr. 75O # 14-91 Sur Local 68 416738 Oporapa, Huila",5,1,Laureles
+44872724-8c80-4a08-ae10-e4240068475b,320809863.36,"Cr. 10 # 5R-49 Sur Casa 93 548848 La Esperanza, Norte de Santander",2,3,La Estrella
+b4d743d0-a234-4e74-a63a-50a5d472e45e,910040898.53,"Carrera 199H # 48-69 Sur Apto. 141 681749 Concepción, Santander",2,4,Laureles
+73b1326d-f003-4c81-9616-226732ea308e,949092599.86,"Avenida calle 85 # 7-7 Casa 7 275893 El Cantón del San Pablo, Chocó",2,4,Itagui
+fe2f2b24-fe15-4e72-853a-edb8c823215c,933948330.77,"Carrera 5M # 86-8 Este 131586 Soplaviento, Bolívar",4,1,Caldas
+47f7f5da-af7c-4f9d-8f9e-1c74cdab7e1f,526906758.96,"Cl. 17 # 28-75 687288 Bolívar, Santander",2,4,Laureles
+a2ac268c-6972-4da5-8421-2f398ec5d06f,406167039.75,"Calle 32 # 56-50 Local 5 155454 Maripí, Boyacá",1,3,Laureles
+7fe35100-95d8-4d66-9122-7e362eff77b0,847217473.23,"Transversal 7Z # 39-3 Este Bodega 11 196794 Guapi, Cauca",3,2,Envigado
+098fbc6a-63e8-4708-8340-2169cfb5b744,86388031.56,"Tr. 141 Bis X # 5W-90 Este 706365 Los Palmitos, Sucre",4,6,Envigado
+3e0febd7-55db-4059-a2c4-25cadbc7a2bd,770899097.03,"Calle 43 # 8S-2 Este 158018 Muzo, Boyacá",4,4,Poblado
+d9941048-18d0-48b9-b979-7a9c8fc7e6fa,910564614.65,Calle 91 # 3-3 Sur Oficina 106 476085 Santa Marta,1,3,Sabaneta
+d32d2ffe-e684-4cea-a709-0ae40b17e266,843214944.32,"Cl. 152D # 55-7 Casa 52 139520 San Pablo, Bolívar",5,6,Caldas
+d7d64e3b-8c45-4ba3-a79b-3f847d3e14b2,155627517.31,"Carrera 163 # 94A-2 050578 Sopetrán, Antioquia",3,2,Belen
+9617dd8c-4ff5-4398-8eb2-96c5317c0d6b,165755927.9,"Carrera 80 Bis B # 14T-12 Sur Etapa 7 apartamento 8 155823 Otanche, Boyacá",2,4,La Estrella
+8a25fc00-4976-4868-9c4d-34f7a1ef7669,109666793.46,"Cr. 3ª # 44-96 Sur Etapa 7 apartamento 60 258914 Topaipí, Cundinamarca",4,5,Poblado
+edaff50d-f019-4e1a-b829-2871be331c2d,650357194.91,"Av. calle 3ª # 80-19 Etapa 8 apartamento 55 507950 La Macarena, Meta",5,2,Envigado
+d7a98f1c-fae4-4068-a349-a8941b4c9dcd,326708388.39,"Diagonal 69 # 2-80 Sur Oficina 96 188071 Puerto Rico, Caquetá",1,5,Itagui
+ca1cb7cd-ba8c-47a5-8a21-3c6f553e8d43,278536026.87,"Diagonal 83H # 44B-17 195319 Sotará Paispamba, Cauca",4,2,Laureles
+d3482382-4b51-497e-955f-422cb1b9536f,547310329.79,"Transversal 93 # 14-93 Este Apto. 52 541921 Santiago, Norte de Santander",3,1,Poblado
+7b2a14ad-56fb-406a-a491-90d3746d766a,420931045.93,"Carrera 103 # 7-9 Sur 254187 Nemocón, Cundinamarca",4,1,Caldas
+07bfefc5-fba9-40eb-9993-5f326b285689,981987451.42,"Cl. 21 # 7-1 Este Apartamento 71 443613 Fonseca, La Guajira",3,6,Poblado
+0b5bdcc0-e575-4363-984d-87cedef7b3ad,389239182.69,"Cr. 8U # 11-1 Sur 478319 Zapayán, Magdalena",1,3,Sabaneta
+6d25745b-fbc7-4df3-960a-7d221ada49b9,746293970.38,Carrera 76J # 7-4 Este 449611 Riohacha,1,5,Itagui
+f4e79dc6-ef4c-4525-b43b-0c1e6bd41486,176739110.37,"Calle 2A # 33-9 Sur 050785 Ciudad Bolívar, Antioquia",3,5,Itagui
+7394b99f-6d6f-42fd-80fa-c3cce4e86b4a,822833422.28,"Carrera 6U # 3-38 Sur Oficina 82 520024 Cuaspud Carlosama, Nariño",2,6,La Estrella
+97890ed1-be3d-4e0d-bae3-9f21e4d22304,981778226.5,"Calle 133 # 85-83 Este Local 50 413880 Santa María, Huila",4,6,Envigado
+df758c77-7b6f-4da9-bde4-86e357bbd32f,820922797.76,"Av. calle 4ª # 47-49 Sur Local 55 477073 San Sebastián de Buenavista, Magdalena",1,6,La Estrella
+030322f0-a3e8-4c4a-99f1-45f4f57d4019,85134600.69,"Calle 195 Bis G # 1-4 470150 San Sebastián de Buenavista, Magdalena",2,1,Sabaneta
+f197d535-880a-449d-b6ac-c8381afcf1ef,891500866.34,"Diagonal 2ª # 3-7 Este 278323 Bojayá, Chocó",3,3,Caldas
+eb9126c4-0258-411b-ae3b-20b81ff38788,989666567.18,"Avenida Manatí # 3-4 155289 El Cocuy, Boyacá",5,4,Belen
+f35d0d08-60ff-4a7b-9396-b12631e9f786,84789732.96,"Calle 13 # 94-82 Oficina 693 919938 La Chorrera, Amazonas",2,3,Itagui
+bfd9c10e-6c5f-4a79-a755-e740c506d9d7,869031603.95,"Cl. 87 # 79-1 137872 Mahates, Bolívar",1,6,Itagui
+1f7226ce-fab7-49a5-8662-f145cc38cd82,309555775.81,"Calle 147 Sur # 13-8 Este 239254 San Andrés de Sotavento, Córdoba",3,4,Caldas
+559ba726-a704-4c4e-992c-2721e2eca072,756142320.24,"Cl. 61 # 98J-9 Este 505460 Barranca de Upía, Meta",4,3,Envigado
+d76b791d-dca9-4c2e-a881-d34b280a6a88,521393065.21,"Cl. 54 # 3-9 Sur 130835 Clemencia, Bolívar",4,3,Belen
+2761c048-0805-40db-9e1f-8c258a9dc5ff,811090683.03,"Cr. 47 # 88-8 Sur 058263 Belmira, Antioquia",4,1,Caldas
+b0113027-bb6d-40b7-965f-dd7f376336ad,622330633.89,"Dg. 14 # 65-4 Sur 137805 Río Viejo, Bolívar",2,5,Belen
+ca5e12e7-3c49-4843-a76f-6128069a3dfe,355150856.8,"Cr. 79T # 96G-71 Oficina 95 682259 El Guacamayo, Santander",1,3,Belen
+a1f71ee7-f2af-4978-981f-5c80050ee05e,341171063.29,"Avenida calle 89 # 4-2 Sur Apto. 64 731820 Dolores, Tolima",5,6,Caldas
+9c5dfd2b-b7a3-47ed-9855-0fb9138327fe,208312533.46,"Avenida carrera 76 # 2-3 Este 278025 Bojayá, Chocó",4,3,La Estrella
+1a1aae51-247c-4559-bbb9-00b2f04b85ca,90237404.71,"Transversal 4S # 57-4 Bodega 23 684672 Capitanejo, Santander",3,5,Caldas
+9d988aea-5962-4689-991e-5c642f078a0c,310827592.07,"Cr. 8J # 7-34 Sur 159777 Sogamoso, Boyacá",1,1,Caldas
+3d3224f6-cd6b-4d52-ab4c-eed438854f00,395145574.12,"Dg. 94 # 4-81 Sur Casa 76 259160 Lenguazaque, Cundinamarca",2,1,Envigado
+e421f041-894d-46de-93db-07e9097d4ab5,856235844.47,"Calle 8ª # 4-76 152438 Miraflores, Boyacá",4,1,Envigado
+48fbc9e8-fc20-4166-bd94-aa48c21a1aac,113871694.91,"Diagonal 32 # 2T-3 Sur Etapa 2 apartamento 377 051837 Ciudad Bolívar, Antioquia",3,3,Caldas
+a11113af-74e6-4f20-89b9-1e5a37ec0c87,951993756.29,"Calle 48 # 90-2 Sur 152752 Nobsa, Boyacá",1,5,Envigado
+f0e4dd83-4596-4cfb-85b9-46a926b1bb33,695108954.07,"Calle 10 # 2-43 413353 San Agustín, Huila",3,3,La Estrella
+6034a63c-04c6-42ff-af7f-4b2556aafd3d,774930248.21,"Transversal 26M # 6-61 Casa 18 175583 Villamaría, Caldas",5,2,Itagui
+0eb22d2d-24e1-4cb6-8b53-07e50a9b2af5,428132343.65,"Calle 73 # 8-29 Este 053149 Caramanta, Antioquia",3,2,Laureles
+4ef04b93-4cc7-4526-a2e0-f63948d041fb,74617673.82,"Dg. 27K # 8-79 Este 916252 Tarapacá, Amazonas",2,4,Caldas
+af6c4dd6-4e35-43de-925c-af352033fbc2,917865380.52,"Calle 8ª # 7-42 Este 253639 Chocontá, Cundinamarca",1,3,Belen
+681ec993-3b9c-4473-ba7c-7d2a60e70068,718835920.65,"Cr. 45 # 4-40 Este Torre 8 apartamento 65 058640 Peque, Antioquia",2,5,Belen
+5dc286ea-488e-4460-a9de-952cbe10be3c,709281608.99,"Av. calle 121 # 9-4 541302 Arboledas, Norte de Santander",4,2,Laureles
+63b51bdd-ae41-4db1-ac31-15f1d3b8b190,178941996.84,"Cl. 47 # 2-67 Sur Apto. 74 763629 Trujillo, Valle del Cauca",1,4,Envigado
+2493c8b2-8dc8-4f0f-bfc6-66493d9c7718,903745079.25,"Calle 149 # 38-5 Sur 522706 Sapuyes, Nariño",4,1,Itagui
+91739020-d7d8-4bdb-8457-4ff4c4966901,684447800.96,"Av. calle 1ª # 9-6 Sur 702732 San Benito Abad, Sucre",1,5,Belen
+a870f92e-5118-4c33-a75e-627e8286feae,896765098.24,"Av. calle 123 # 94-85 Este Oficina 764 636016 Pijao, Quindío",2,6,Envigado
+4860492e-603e-4601-aa26-87eb6c6f5f62,804011564.65,"Carrera 52 # 3-19 520502 Nariño, Nariño",5,2,Laureles
+a99f0587-d1c9-491c-b3eb-58177b6755bc,985875919.39,"Carrera 5 Bis S # 61-31 Sur 132644 Talaigua Nuevo, Bolívar",2,2,La Estrella
+98fb46f5-1578-4af5-882d-4084dcf641cb,74969825.47,"Cr. 62 Bis F # 3-4 Sur 230116 Ayapel, Córdoba",5,5,Itagui
+6f5474de-851c-47e0-85a4-0fcecd09e2bf,494035547.33,"Av. La Celia # 29-3 Apto. 8 190234 Florencia, Cauca",5,2,Laureles
+f76b97eb-f76c-4535-91d1-5793f2b36a10,112460700.0,"Cr. 100 # 1-20 270937 Sipí, Chocó",4,6,La Estrella
+d0bc89a6-ceb9-4da9-920a-831ea8331e7e,549410872.09,"Avenida calle 6ª # 16-69 Sur 855555 Támara, Casanare",4,5,Laureles
+4df644c0-5061-44ce-9d29-4697cf0aa6e3,169060443.15,"Cr. 178 # 13-6 Apartamento 82 158435 Buenavista, Boyacá",3,6,Laureles
+991900ef-02b7-4a36-94b1-d0512e4afdda,477475770.88,"Cl. 128G # 1Z-38 Sur Apartamento 636 525671 Guachucal, Nariño",5,3,Envigado
+41e3f996-dce9-4a9c-a858-525cc0ba7954,884062144.07,"Transversal 21 # 30-6 Sur 138333 San Fernando, Bolívar",5,6,Envigado
+dd2b68db-7e27-4573-bf39-1564303fbeb7,779392555.49,Cr. 76U Bis # 48-46 Sur 271539 Quibdó,2,4,Poblado
+d387f053-8d55-4c1c-b185-95d28a52eb7b,839821266.14,"Avenida carrera 16 # 9-49 Sur Etapa 2 apartamento 29 151952 Guayatá, Boyacá",5,2,Belen
+5d4e2cc1-f1ae-4f78-8efc-f002b3739d8e,206424225.9,"Diagonal 44 # 37-5 Local 6 686087 Contratación, Santander",3,6,Sabaneta
+d9efadac-7878-4f40-8ab6-bdcf498fc312,378721928.22,"Diagonal 3ª # 4G-1 053746 Murindó, Antioquia",5,3,Laureles
+c2cf9673-ab9a-4f15-baaa-aed4f7a9e93c,288075043.53,"Cl. 5Q Bis # 73-28 735675 San Luis, Tolima",5,3,Envigado
+da37b6d7-09ed-4a6d-8f15-ac02b4e9506a,643771243.38,"Cr. 60 # 39-71 Sur 477423 Ciénaga, Magdalena",5,5,Laureles
+f25df8a0-066a-4c1e-9c23-0f751607353d,527444487.5,"Calle 163 # 4-7 Sur Apartamento 27 171859 Viterbo, Caldas",2,5,Envigado
+d2ede321-343f-4617-b292-bb436dc8af11,212640591.9,"Calle 2ª # 48-1 Este 416475 Isnos, Huila",5,6,Itagui
+fa888073-e9e1-4087-8dc2-1594faee91e4,850403503.91,"Diagonal 70 # 98-8 Etapa 2 apartamento 374 731518 Líbano, Tolima",5,1,Poblado
+6427418c-6fc8-4a5c-9da7-194062860d3c,127161712.15,"Calle 33 # 5-1 Apto. 4 850875 Orocué, Casanare",5,3,Sabaneta
+b2c70af5-7094-4111-9fa0-8c4e75cfdad9,778611050.87,"Carrera 67S # 95-9 Etapa 6 apartamento 90 154084 Nuevo Colón, Boyacá",4,5,Poblado
+5daba89c-5b1c-41d7-8495-0519089fa440,523136157.13,"Carrera 129 Bis # 58-5 Sur Apartamento 4 154329 Boavita, Boyacá",5,3,Belen
+7552e5a5-cef4-4275-bce3-cdb9c558e1e6,508797577.27,"Av. Huila # 39-78 Oficina 86 178314 Palestina, Caldas",4,3,La Estrella
+fdddd0f8-106a-4490-a665-9c41303912c2,119324374.23,"Carrera 115K # 34Y-4 Sur Oficina 7 444181 Fonseca, La Guajira",1,2,La Estrella
+38134b19-f96d-4fa2-8f1e-f6c142af9b56,444840658.9,"Avenida calle 27 # 59-9 Sur Apto. 71 052849 Betulia, Antioquia",4,2,Itagui
+6aab5080-6965-45c3-8ba2-6d0d5f3f5316,626327249.68,"Calle 108 # 72-52 158896 Boavita, Boyacá",3,6,Itagui
+d08351a7-b5b1-4e3d-9f8c-a7f67a536211,747489767.06,"Cr. 24 Este # 25N-2 528446 Policarpa, Nariño",3,4,Envigado
+78e0c488-1d76-4d71-a0bb-e4215c8bf007,772631745.06,"Transversal 87E # 28-7 258706 Gachetá, Cundinamarca",5,5,Laureles
+4a79ae31-cb62-4c7d-b346-a0e349c7e78f,353160092.08,"Diagonal 9ª # 7-80 Sur 192832 Puracé, Cauca",4,1,Belen
+8c9c6a99-aa69-4038-b49c-9f52f7880790,477116211.4,"Cr. 79 # 9-14 Sur 184744 Curillo, Caquetá",2,1,Poblado
+0a08355c-c5bf-4a4a-98de-535c093e0e17,325701404.72,"Avenida Chocó # 20-7 Sur 735105 Santa Isabel, Tolima",4,5,Caldas
+d3334da0-0e84-4b17-83d2-ec5c9990f6d9,285856766.36,"Cl. 156 # 2R-84 Este 200243 Aguachica, Cesar",2,3,Itagui
+3647e15c-6cb8-415b-9d27-b0b7798d536f,230342396.16,"Calle 66 # 83F-5 Casa 36 685313 Ocamonte, Santander",2,4,La Estrella
+224f88d2-6a00-4328-8841-14f2418e9d23,523821722.98,"Cl. 40 # 6-7 Este 682110 Chima, Santander",3,4,Poblado
+02602a72-ab65-4910-8d47-7116ba561fd3,135546640.29,"Cl. 51 # 86H-23 Este 053928 Barbosa, Antioquia",4,5,La Estrella
+6d453392-391d-4e62-ab8d-93ef3bcc47b4,968352299.02,"Calle 72 # 4-2 Casa 4 761260 La Unión, Valle del Cauca",2,5,Itagui
+a24ee9cb-af33-423e-8b3d-3a1d080025ae,96225226.28,"Calle 114 # 7-45 Sur 526708 Yacuanquer, Nariño",3,4,La Estrella
+e3b6b4cd-2628-4cc9-b844-5a7161b92563,321460962.37,"Cr. 36 # 6-67 Sur Casa 1 055347 San Rafael, Antioquia",1,1,Caldas
+edae0b99-00fc-46ac-b2f5-3dc659839ac7,177238196.79,"Cl. 79 # 2-3 Este 159895 El Espino, Boyacá",3,6,Itagui
+d7cdb986-fcf1-45ba-baa7-bd6ffefc9c10,775663925.95,"Tr. 182G # 4-7 Este Apartamento 41 158954 Macanal, Boyacá",3,1,Caldas
+260a9417-dc26-48f6-9bf9-6a0247763740,98599803.01,"Cl. 52 # 1-4 Este 256880 Nemocón, Cundinamarca",5,2,Itagui
+57d40c9a-cfa4-4697-9adc-4f74d369d0d9,575561780.29,"Cl. 120 # 4-1 Este 548686 Teorama, Norte de Santander",1,4,La Estrella
+25b8d9c1-60b4-4b56-a189-b1adc5dc47e3,776183908.97,Cr. 34 # 4-40 Este Etapa 5 apartamento 44 703083 Sincelejo,3,5,Laureles
+85391660-bb15-430d-9d13-07930dc42de6,172230221.15,"Calle 60 # 3-54 152694 Güicán de la Sierra, Boyacá",1,4,Itagui
+4131e917-b04f-4845-94a9-0de121291593,805152366.96,"Diagonal 7Y # 4-7 Sur 943543 Barrancominas, Guainía",3,5,Itagui
+0a903afb-02f7-4753-ab51-1e9aaf320618,767216913.68,"Calle 72F # 33-21 Sur Bodega 222 153972 Tibasosa, Boyacá",2,5,Caldas
+07eda2a2-4a43-455f-9e18-87affa0bdc1f,525074008.39,"Diagonal 1ª # 2-5 Bodega 7 259166 Gutiérrez, Cundinamarca",1,1,Envigado
+51dcebbf-d6a8-4f37-aa64-7c5063bd29e4,727912254.01,"Carrera 13 # 94-2 Apartamento 21 057972 Campamento, Antioquia",4,5,La Estrella
+86948336-f94c-4142-aa8f-c67ed80153af,191493631.35,"Cl. 44 # 26V-8 Apto. 912 053036 San Jerónimo, Antioquia",5,2,Itagui
+392584e6-fa41-4756-999e-821c0b192159,934800298.75,"Carrera 39 # 52-64 151092 Chivor, Boyacá",3,2,Caldas
+f3039224-d236-4609-b296-6513e6b2be38,991084950.68,"Cr. 171 # 7-5 Bodega 61 252526 Tibacuy, Cundinamarca",3,5,Itagui
+2ba0aa6c-12a2-49d2-90fb-23e963200289,531949236.89,"Cr. 4E # 8-98 Este 137676 Santa Rosa, Bolívar",5,5,La Estrella
+2a945de8-d515-49da-afb2-0a250956b054,723302816.11,"Av. Atlántico # 3-27 Torre 7 apartamento 28 763503 Ansermanuevo, Valle del Cauca",3,4,Poblado
+6c4ad2a3-de45-4ced-b12a-79add8377af4,399939919.37,Calle 7W Este # 16-25 Este 523330 Pasto,1,4,Belen
+a551a3a2-fde7-4809-a967-ab25ec6ad56d,806917073.23,"Diagonal 7ª # 3-8 Este 132131 Altos del Rosario, Bolívar",1,5,La Estrella
