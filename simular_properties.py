@@ -38,8 +38,8 @@ def generar_datos_limpios(numero_datos=FILAS):
     for _ in range(numero_datos):
 
         filas.append({
-            "id": str("$ ",uuid.uuid4()),
-            "valorPropiedad": round(random.uniform(50000000, 1000000000), 2),
+            "id": str(uuid.uuid4()),
+            "valorPropiedad": str("$") + str(round(random.uniform(50000000, 1000000000), 2)),
             "direccionPropiedad": faker.address().replace("\n", " "),
             "numeroHabitaciones": random.choice(NUMERO_HABITACIONES),
             "estrato": random.choice(ESTRATOS),
@@ -57,7 +57,13 @@ if __name__ == "__main__":
 
     salida = Path("propiedades_simuladas.csv")
     salida.parent.mkdir(parents=True, exist_ok=True)
+<<<<<<< HEAD
     df.to_csv(salida/"comprador.csv", index=False, encoding="utf-8-sig")
 
     print("Archivo generado en:", salida/"comprador.csv")
 
+=======
+    df.to_csv(salida/"propiedades_simuladas.csv", index=False, encoding="utf-8-sig")
+
+    print("Archivo generado en:", salida/"propiedades_simuladas.csv")
+>>>>>>> bf085632c50727616ac4fd2f426c9a189aa8032d
