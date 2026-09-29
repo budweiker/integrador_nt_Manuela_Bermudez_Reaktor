@@ -25,7 +25,7 @@ random.seed(42)
 # 4. Identifico los datos o el dato que sea un selector de opciones, para generar datos aleatorios de manera controlada
 PROPIEDADES_VENDIDAS = [0, 1, 2, 3, 4, 5, 8, 10, 12, 15]
 STATUS_OPCIONES = [True, False]
-
+PROPIEDAD_DE_INTERES_ACTUAL = ["apartamento", "casa", "finca", "apartaestudio"]
 # 5. Defino mi DATASET
 FILAS = 300
 
@@ -33,8 +33,6 @@ FILAS = 300
 def generar_datos_limpios(numero_datos=FILAS):
     filas = []
     for _ in range(numero_datos):
-        first_name = faker.first_name()
-        last_name = faker.last_name()
         
         filas.append({
             "user_id": str(uuid.uuid4()),
@@ -43,7 +41,7 @@ def generar_datos_limpios(numero_datos=FILAS):
             "telefono": faker.phone_number(),
             "correo": faker.email(),
             "status": random.choice(STATUS_OPCIONES),
-            "propiedadesVendidas": random.choice(PROPIEDADES_VENDIDAS),
+            "propiedad_de_interes": random.choice(PROPIEDAD_DE_INTERES_ACTUAL),
             "balance": round(random.uniform(0, 500000000), 2)
         })
     return pd.DataFrame(filas)
@@ -56,10 +54,10 @@ if __name__ == "__main__":
     print("Filas y columnas generadas:", df.shape)
     print(df.head())
 
-    salida = Path("vendedores_simulados")
-    salida.mkdir(parents=True, exist_ok=True)
+    salida = Path("compradores_simulados")
     
-    archivo_csv = salida / "vendedor.csv"
+    
+    archivo_csv = salida / "comprador.csv"
     df.to_csv(archivo_csv, index=False, encoding="utf-8-sig")
 
     print("Archivo generado en:", archivo_csv)
