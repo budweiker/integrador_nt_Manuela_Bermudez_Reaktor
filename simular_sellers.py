@@ -27,7 +27,7 @@ PROPIEDADES_VENDIDAS = [0, 1, 2, 3, 4, 5, 8, 10, 12, 15]
 STATUS_OPCIONES = [True, False]
 
 # 5. Defino mi DATASET
-FILAS = 300
+FILAS = 100
 
 # 6. Construyo una función para generar los N datos pedidos (LIMPIOS)
 def generar_datos_limpios(numero_datos=FILAS):
@@ -48,17 +48,9 @@ def generar_datos_limpios(numero_datos=FILAS):
         })
     return pd.DataFrame(filas)
 
-# 7. Interruptor if __name__ == "__main__": 
+
 def generar_telefono():
     return "3" + "".join(str(random.randint(0, 9)) for _ in range(9))
-
-
-
-
-
-
- 
-
 #Funcion para ensuciar datos
 def generar_muestra(datos,porcentaje):
     return datos.sample(frac=porcentaje,random_state=random.randint(0,999)).index
@@ -93,7 +85,10 @@ def ensuciar(datos_df):
 #Se ensucia `telefono`: tres formatos mezclados: '3001234567', '300 123 4567', '+57 300-123-4567'.
 
 #Se ensucia `estado`: a veces como texto: 'SI', 'No', '1', '0'.
+#Repetir 5 registros
+
     filas_elegidas=generar_muestra(datos_df, 0.1)
+    datos_df["status"] = datos_df["status"].astype(object)
     datos_df.loc[filas_elegidas, "nombre"] = " " + datos_df.loc[filas_elegidas, "nombre"] + " ";
     filas_elegidas=generar_muestra(datos_df, 0.15)
     datos_df.loc[filas_elegidas, "nombre"] = datos_df.loc[filas_elegidas, "nombre"].str.upper();
@@ -103,7 +98,11 @@ def ensuciar(datos_df):
     datos_df.loc[filas_elegidas, "correo"] = datos_df.loc[filas_elegidas, "correo"].str.replace("@" , " ", regex=False );
     filas_elegidas=generar_muestra(datos_df,1)
     datos_df.loc[filas_elegidas, "telefono"] = datos_df.loc[filas_elegidas, "telefono"].apply(ensuciar_telefono)
-    datos_df.loc[filas_elegidas, "status"] = datos_df.loc[filas_elegidas, "status"].map(convertir_booleano_en_texto).str
+    datos_df.loc[filas_elegidas, "status"] = datos_df.loc[filas_elegidas, "status"].map(convertir_booleano_en_texto)
+    filas_elegidas=generar_muestra(datos_df,0.05)
+    
+   
+
     return datos_df
 
 if __name__ == "__main__":
