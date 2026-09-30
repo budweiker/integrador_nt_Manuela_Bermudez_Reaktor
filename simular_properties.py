@@ -57,13 +57,4 @@ if __name__ == "__main__":
 
     salida = Path("propiedades_simuladas.csv")
     salida.parent.mkdir(parents=True, exist_ok=True)
-<<<<<<< HEAD
-    df.to_csv(salida/"comprador.csv", index=False, encoding="utf-8-sig")
 
-    print("Archivo generado en:", salida/"comprador.csv")
-
-=======
-    df.to_csv(salida/"propiedades_simuladas.csv", index=False, encoding="utf-8-sig")
-
-    print("Archivo generado en:", salida/"propiedades_simuladas.csv")
->>>>>>> bf085632c50727616ac4fd2f426c9a189aa8032d
