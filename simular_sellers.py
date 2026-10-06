@@ -27,7 +27,7 @@ PROPIEDADES_VENDIDAS = [0, 1, 2, 3, 4, 5, 8, 10, 12, 15]
 STATUS_OPCIONES = [True, False]
 
 # 5. Defino mi DATASET
-FILAS = 100
+FILAS = 300
 
 # 6. Construyo una función para generar los N datos pedidos (LIMPIOS)
 def generar_datos_limpios(numero_datos=FILAS):
@@ -78,15 +78,6 @@ def ensuciar_telefono(telefono):
 def ensuciar(datos_df):
     datos_df=datos_df.copy();
 
-#para nombre  10% con espacios sobrantes al inicio y al final; 15% en MAYUSCULAS.
-# para contacto 8% en None (nulos).
-#para correo 6% sin la arroba (correo invalido).
-#Se ensucia `correo`: 6% sin la arroba (correo invalido).
-#Se ensucia `telefono`: tres formatos mezclados: '3001234567', '300 123 4567', '+57 300-123-4567'.
-
-#Se ensucia `estado`: a veces como texto: 'SI', 'No', '1', '0'.
-#Repetir 5 registros
-
     filas_elegidas=generar_muestra(datos_df, 0.1)
     datos_df["status"] = datos_df["status"].astype(object)
     datos_df.loc[filas_elegidas, "nombre"] = " " + datos_df.loc[filas_elegidas, "nombre"] + " ";
@@ -99,8 +90,10 @@ def ensuciar(datos_df):
     filas_elegidas=generar_muestra(datos_df,1)
     datos_df.loc[filas_elegidas, "telefono"] = datos_df.loc[filas_elegidas, "telefono"].apply(ensuciar_telefono)
     datos_df.loc[filas_elegidas, "status"] = datos_df.loc[filas_elegidas, "status"].map(convertir_booleano_en_texto)
-    filas_elegidas=generar_muestra(datos_df,0.05)
-    
+    filas_elegidas = generar_muestra(datos_df, 0.05)
+    filas_duplicadas = datos_df.loc[filas_elegidas]
+    datos_df = pd.concat([datos_df, filas_duplicadas])
+
    
 
     return datos_df
