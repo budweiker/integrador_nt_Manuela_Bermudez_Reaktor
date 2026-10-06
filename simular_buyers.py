@@ -61,3 +61,31 @@ if __name__ == "__main__":
     df.to_csv(archivo_csv, index=False, encoding="utf-8-sig")
 
     print("Archivo generado en:", archivo_csv)
+
+
+
+
+#Funcion para ensuciar datos
+def generar_muestra(datos,porcentaje):
+    return datos.sample(fraccion=porcentaje,random_state=random.randint(0,999)).index
+#FUncion para generar "el tipo de ensuciar los datos"
+
+def escribir_mal(texto):
+    variantes =[texto.lower(),f" {texto.title()} ", texto.capitalize()]
+    return random.choice(variantes)
+def convertir_booleano_en_texto(valor):
+    if valor:
+        return random.choice(["Si", "1"])
+    else:
+        return random.choce(["No", "0"])
+
+#funcion para ensuciar los datos
+def ensuciar(datos_df):
+    datos_df=datos_df.copy();
+#para nombre  10% con espacios sobrantes al inicio y al final; 15% en MAYUSCULAS.
+# para contacto 8% en None (nulos).
+#para correo 6% sin la arroba (correo invalido).
+    filas_elegidas=generar_muestra(datos_df, 0.1)
+
+
+
