@@ -54,13 +54,13 @@ def generar_descripcion():
         "estrato": estrato,
         "barrio": barrio
     }
-propiedad = generar_descripcion()
+
 
 #7. Construyo una función para generar los N datos pedidos (LIMPIOS)
 def generar_datos_limpios(numero_datos=FILAS):
     filas = []
     for _ in range(numero_datos):
-
+        propiedad = generar_descripcion()
         fecha_inicio = faker.date_time_between(start_date="-2y", end_date="now")
 
         fecha_fin = fecha_inicio + timedelta(days=random.randint(30, 365))
@@ -224,3 +224,4 @@ if __name__ == "__main__":
     if archivo.exists():
         archivo.unlink()
     df_ensuciado.to_csv(archivo, index=False, encoding="utf-8-sig") 
+    print("Archivo generado en:", salida/"propiedades_simuladas_ensuciadas.csv")
