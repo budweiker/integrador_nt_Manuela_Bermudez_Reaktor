@@ -89,7 +89,7 @@ def generar_datos_limpios(numero_datos=FILAS):
 #1. Crear una función para definir porcentajes de error
 def generar_muestra(datos,porcentaje):
         return datos.sample(
-            fraccion=porcentaje,
+            frac=porcentaje,
             random_state=random.randint(0, 999)
             ).index
 
@@ -150,7 +150,17 @@ def ensuciar(datos_df):
 
             #Estrato como texto (uno, dos, tres, cuatro, cinco, seis) 8%
             filas_elegidas=generar_muestra(datos_df,0.08)
-            datos_df.loc[filas_elegidas,"estrato"]=("Estrato " + datos_df.loc[filas_elegidas,"estrato"].astype(str))
+            datos_df["estrato"]=datos_df["estrato"].astype(str)
+            datos_df.loc[filas_elegidas,"estrato"]=datos_df.loc[filas_elegidas,"estrato"].map({
+                "1": "uno",
+                "2": "dos",
+                "3": "tres",
+                "4": "cuatro",
+                "5": "cinco",
+                "6": "seis"
+            })
+
+            #datos_df.loc[filas_elegidas,"estrato"]=("Estrato " + datos_df.loc[filas_elegidas,"estrato"].astype(str))
 
             """ #rol variantes de escritura (admin ADMIN Admin)
             filas_elegidas=generar_muestra(datos_df,0.07)
@@ -166,8 +176,8 @@ def ensuciar(datos_df):
             datos_df.loc[filas_elegidas,"descripcion"]=None
 
             #fecha dos formatos mezclados (2026-03-15 14:30:00 y 15/03/2026 14:30) formato ISO y latin
-            iso=pd.to_datetime(datos_df["fecha_inicial"]).dt.strftime("%Y-%m-%d %H:%M:%S")
-            latino=pd.to_datetime(datos_df["fecha_inicial"]).dt.strftime("%d/%m/%Y %H:%M")
+            iso=pd.to_datetime(datos_df["fecha_inicio"]).dt.strftime("%Y-%m-%d %H:%M:%S")
+            latino=pd.to_datetime(datos_df["fecha_inicio"]).dt.strftime("%d/%m/%Y %H:%M")
             datos_df["fecha_iso"]=iso
             filas_elegidas=generar_muestra(datos_df,0.4)
             datos_df.loc[filas_elegidas,"fecha_latin"]=latino.loc[filas_elegidas]
