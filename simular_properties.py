@@ -206,3 +206,11 @@ if __name__ == "__main__":
 
 
     print("Archivo generado en:", salida/"propiedades_simuladas.csv")
+
+    df_ensuciado = ensuciar(df)
+    salida = Path("propiedades_simuladas_ensuciadas")
+    salida.mkdir(parents=True, exist_ok=True)
+    archivo = salida/"propiedades_simuladas_ensuciadas.csv"
+    if archivo.exists():
+        archivo.unlink()
+    df_ensuciado.to_csv(archivo, index=False, encoding="utf-8-sig") 
