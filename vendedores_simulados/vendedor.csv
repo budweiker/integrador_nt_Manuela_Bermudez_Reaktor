@@ -1,0 +1,301 @@
+﻿user_id,password,nombre,telefono,correo,status,propiedad_de_interes,balance
+ddb13bd7-eb77-486d-bde4-b5d08793c3c3,84gcs&x#_P1A,Lorena Isabel Polo Uribe,3065423511,wlopez@example.net,True,apartamento,370775249.88
+331bf472-3699-4269-90cb-03e25f357685,R%G0XXoUe$49,Leonardo Manuel Arias Rojas,(+57) 301 928 32 76,edisson83@example.net,True,casa,69768964.26
+88146dc2-efd0-4895-8080-52bfa6d69011,lH%tbf3O^0_H,Efrain Castillo Torres,+57 603 787 10 12,florezjuan@example.com,True,apartamento,295246256.22
+41481e3d-0266-496f-9d07-b6cc3a5a6b13,c4RhiD9+(fax,Marco Palacios,+573025288095,xrodriguez@example.com,True,apartamento,46847619.93
+dc2393f9-19e1-420a-ad96-80928d77cdf9,w&NHsi)N$7q0,Leider Bernal Mendoza,(+57) 327 133 15 09,juanrodriguez@example.net,True,apartamento,280622531.47
+2959a837-20a5-4db3-8b87-a324a2ba4c1a,t_^Hb3cvUM0l,Alejandro Felipe Padilla,604 906 51 33,lhernandez@example.com,False,casa,224604523.14
+339e67c0-f90e-4441-9095-81a93b6dbdd7,*p3aC@oh5INp,Jorge Gustavo Ariza Páez,57 322 343 09 80,luz97@example.net,False,apartamento,379403683.56
+cfd9ba19-64d7-41cc-9d5b-01c91d2d8817,^1W2Bqr6(XJV,David Jhon Sandoval,573175107991,montoyajose@example.org,True,apartaestudio,170125258.26
+8085b174-38d8-443f-a469-7e3a7666fd5e,91SAllRb^u*H,Marcela Calderón Becerra,(+57)3048740164,rodriguezangel@example.net,True,casa,478606536.1
+d7c80fa2-7493-4e91-8f03-224b1d9c492e,%J!XroSnV_2A,Nelly Gloria Velásquez Pulido,(+57) 606 732 26 02,monicamesa@example.org,False,apartamento,46372921.69
+ef5e0794-4679-4376-a4a9-afab55b9b7fa,2tDmqPhH&^0D,Luz Manrique,573094019655,gcalderon@example.org,True,finca,423747183.17
+6745b57a-a85c-412f-a8c6-fe0fee9910ce,$&Qlivg2Jw9G,Hernán Valencia,3182366299,mariana04@example.com,False,apartamento,364865893.35
+fe7daae8-0c60-4c75-b224-9f817526dc57,W$KZskxga96X,Yamile Patricia Gómez Castrillón,(+57)6074769367,alexanderrodriguez@example.org,True,apartaestudio,39400099.04
+e7b04e7f-ed12-40ec-8b90-9f9f25a8ad25,wQ$6oLzb&3wF,Efrain Alfredo Ortega Muñoz,57 304 873 47 14,luisaruiz@example.net,False,finca,288676072.63
+4d3f7606-d209-4615-9a69-b24c237d95dd,@+3ICMEhG2w@,Jesús Jhon Galindo,3288937346,vgomez@example.net,True,apartamento,330631659.28
+a9786f22-2eed-4ef1-84e1-8458367afb9e,ouy_t6XfJq17,Germán Roa,+57 301 708 05 31,gallegobernardo@example.org,False,apartamento,427658860.51
+0a08ae2a-46e8-46e3-b2d7-28e54595d7ed,!9T4Ei0Whhmx,Jhon Forero García,57 301 491 90 58,eduran@example.net,True,apartaestudio,138986801.56
+a5f46d2d-947c-4a7b-8963-b350ab2090be,m*xZneAnx_l5,Alexander Vargas,747 37 99,maria52@example.com,False,casa,185090483.56
+b3068204-d53e-478e-af53-1acf211ec2c4,$5d8Zw&iOidZ,Alejandra Paola Vergara Arias,01 8008 568 557,viviana31@example.net,True,finca,350910156.73
+74157e11-b3d0-405e-925a-af58ce4eae39,$i54xfyQ8*2D,Marcela Bastidas Cortés,+57 608 871 09 47,rosa04@example.com,True,casa,267069938.51
+a69903b1-85a3-40cc-b3c0-7efc0a66481f,^Y$+1AMp@Wk4,Jesús Beltrán León,603 933 41 23,sanchezmaribel@example.net,True,casa,231130105.93
+de76b283-f216-49c8-99ba-d9fe90883139,5)JLbukYav7S,Ana Álvarez,3171746488,mmendoza@example.org,False,casa,342307125.49
+677c2ddb-1d41-45d4-92b8-9313e81f4c70,@45pT@iiU&0Q,Víctor Rincón López,316 551 25 67,alexander68@example.org,True,casa,410901297.0
+f7ba7573-b780-4626-b7fc-58069af4f052,*xHKiaSI1EhY,Jimena Mendoza Benavides,57 601 909 32 48,hlopez@example.com,False,apartaestudio,133870437.99
+e487a3d0-46fa-4fa1-a61f-8f9c731801ef,9eIN2Pw2@h_^,Isabel Jiménez,57 322 787 55 88,ucardenas@example.org,True,finca,106313272.03
+ce0ae80c-2309-4035-9010-54d7230d611f,5m$heSGb+3O#,Luis Edward Rodríguez Sánchez,(+57) 602 617 45 96,oposada@example.net,False,apartaestudio,442341576.94
+fc600a18-cf42-4116-8e57-e496c8401841,*Yuz8BtYqKds,Paola Peña Carrillo,573022196937,cristinahenao@example.com,False,casa,132440083.25
+476bf89f-94f3-4abb-a727-9b29584f659a,s%+0DVZo6o2G,Fabián Darío Jiménez,(+57) 314 090 97 43,marina39@example.com,True,finca,373506905.83
+baca0865-7536-473d-b750-d4081ce8d640,sZ2KUd&9_0)R,Ronald Barbosa,3151712368,andrea60@example.com,False,apartaestudio,180998221.86
+447091fb-c808-431e-ac55-298b3fdbc527,b(Vmv(5lrT1O,Augusto González,576093047113,qcardenas@example.net,True,apartaestudio,45454706.09
+2ab7e564-c724-4029-91e6-1d94ad76b9f2,g8I*Osw#+KNp,Andrés Fernando Bolaños,(+57)3213900532,patriciacabrera@example.org,True,apartamento,76420659.67
+ba25b024-72a0-4fb1-ab73-ca30d5a1ac94,)kWHykRl(3)E,Marcela Hernández Salazar,57 602 817 75 89,giovannygomez@example.net,True,apartaestudio,298204515.37
+416b94be-7b10-4a0d-aa9a-8d2b572760ee,x%NHcOt^(4Ou,Eduardo Orlando Jiménez,+57 329 611 83 67,rosarionino@example.com,False,apartaestudio,297944214.18
+d172fd00-7613-484a-8892-7d9d9fec7bfc,B1wcNn&J&FK%,Javier Soto Espinosa,+576094494519,alexandertorres@example.org,False,finca,485539188.81
+2a6ba4ec-ba09-4086-b310-14ed9d78f8e7,iU^oLdXZ@un8,José Ignacio Ospina,(+57) 311 201 83 66,xherrera@example.com,True,apartamento,340855184.51
+dc4a5aeb-e2f7-4adf-9eed-d90be1eecc4f,W++h5YsJWI3P,Cristian Jesús Torres Bustamante,+576056034324,rodriguezmauricio@example.org,False,finca,55776086.8
+ab018b6e-cc0e-47fc-b1c5-b283bdedbf81,5#bERgwM^B6H,José Valencia Meneses,(+57)3251613696,medinamercedes@example.com,False,casa,226861853.16
+c86cca6c-fa47-45b4-a6ce-e5fcb9684ff0,^$52jDwf_*Y0,Henry Fabio Cardona Salgado,+573152717744,romeropatricia@example.com,False,casa,253840837.3
+89e15394-c0e3-41ae-b50d-eab9747376db,n^pBXlMTk*0l,César Nilson Cardona Arrieta,(+57)3118203778,julianaprada@example.com,True,finca,420834674.09
+d081b41d-82a2-458a-82bb-b50f41e689c1,$Y5CVt6pxW&&,Carlos Blanco García,01 8006 528 168,maria42@example.org,True,casa,186956926.3
+99619487-f40e-4545-8836-29cbfd07e4e8,z+7kPRgha^XG,Adriana Buitrago,57 307 947 38 34,mrenteria@example.com,True,apartamento,299472292.23
+240f98bd-8787-406e-bad8-4ff2797c6506,i9PIo2Wq_NFO,Nidia Marcela Espitia,(+57) 607 161 37 50,psierra@example.com,False,apartamento,55933862.66
+143594c9-1e4a-44dc-8441-cb12689d440e,@5eHa#tMniMX,Esperanza Bonilla Silva,57 607 843 41 03,gonzalezanderson@example.net,False,finca,119726155.17
+5fd49083-c473-49cb-b4da-1245e46d2833,0f9!EUUq(EwS,Yolanda Bejarano,+57 300 515 31 95,mariavasquez@example.net,True,apartamento,42826726.03
+8241c87d-092d-4669-84e1-1d3c376c8900,7m%jW9$p#vQz,Isabel Libia Gómez Hoyos,(+57) 301 566 76 52,xaguirre@example.net,False,apartamento,488992246.84
+e0e3bb7b-8370-4844-8a5f-8fe7d2dd6892,%WmSBnaAW1dX,Fernando Puentes Erazo,(+57)6081658202,patriciapatino@example.com,True,casa,329875411.37
+de2efb19-46fc-4984-9ee1-38fe72cdbfd2,W6wFiUSb^6(g,Sergio Rueda,(+57)3094731217,ernestomarin@example.org,True,finca,263836893.71
+0c8303aa-845e-4116-b11a-9a32007459be,_S95+VdlE4yk,Felipe Argemiro Hernández,714 67 86,hernandezvalentina@example.org,False,casa,464456746.5
+7f43af05-5ee1-4ae8-9198-513130a87ef1,Dqj*1qKt7)+V,Harold Vargas,01 8004 249 818,juanmurillo@example.org,True,finca,199496150.0
+ac2251d9-0cd0-443a-86f2-e12b30cf7a1d,Cu$pXwjt_U9#,Yamile Nubia Jiménez García,+576063276773,nelson55@example.com,False,apartaestudio,449807042.32
+58f067b6-ba99-40be-8314-4458cca97814,*5)#_rvpI5sQ,Tatiana Molina Sierra,573170168733,luz47@example.net,False,apartamento,123952806.83
+8aab0c87-661d-4f69-9ef7-444860279bea,!*)7JH$r_79G,Patricia Luz Arias,(+57)3185239868,gomezmarcela@example.com,True,finca,10517130.0
+b13ef4e3-c05c-40b8-a75d-dc4569ecd22c,*QCX8OgeCnRe,Fredy Bladimir Orozco,6018974993,josecamargo@example.com,True,casa,3595419.49
+68dd8d47-3560-427b-944f-abd6be77fc2b,w(3B+sIj#qg%,Cristian Alexander Pérez Barreto,(+57)3185497334,lorena44@example.net,True,casa,33700164.06
+17b7d590-9edc-4a56-98ee-2eae6a3ed243,D$k8KpGymwl7,Pablo Omar Rojas Niño,(+57) 308 421 99 33,camachoandres@example.net,True,finca,35428674.94
+6e86b0e0-151c-4528-8944-39ff5294f78d,$Mc_Dn+arN0h,Teresa Martha Daza,576035262067,rodriguezcarlos@example.org,True,finca,334488889.15
+350c3826-7c23-4448-aee6-6a485c368ca9,SOvOu2(0L^4g,Viviana Henao Parra,573285161227,freddy04@example.com,True,casa,361676282.94
+49b3b748-ed54-45de-bb9f-9f551649ea93,w$f!id%(AI7Y,Manuel Torres,+57 609 872 79 56,cristianduarte@example.net,False,casa,392309712.15
+7114e9dd-60f7-427c-ba5b-559d5d14a062,eOT%SPUq@8(3,Rubén Daniel Molina Cruz,+576014874064,gomezjohanna@example.org,False,casa,47162898.25
+6b21c504-2d6a-4bca-aab5-f485c4134d4d,#ICiypJz(q0F,Andrea Alba Contreras,300 047 86 86,estherherrera@example.com,False,finca,211789311.51
+dbf8917f-253e-45b3-96b9-6b9c06f2e104,1XvB5%Vz$q6$,Johana Gutiérrez Ayala,+573199534283,dsuarez@example.net,False,apartamento,336682273.65
+d1302102-d77a-407c-8fe1-de236075c0f3,JO2UvkBI+Fh),René Julio Bolaños Velásquez,+57 608 663 43 51,lozanoalvaro@example.org,True,apartamento,201310641.05
+c12ca2dc-df3c-400d-8bc9-718ec6a6d45f,W61%fTNtCw@V,Alejandra Paola Ruiz Gutiérrez,(+57)3285445877,arenasdaniel@example.com,False,apartamento,124328166.96
+5d1c1947-98ed-4e6e-a16d-7d407d6a10ab,$pg@Knf9$556,Horacio Armando Rincón Pérez,312 287 28 08,villapatricia@example.net,True,apartaestudio,70091148.55
+10a1cd7b-1e72-4b23-85a1-fa53bf2c6657,05e!PFeb!NON,Sebastián Gutiérrez,+57 326 211 82 33,victor46@example.org,True,finca,231314034.2
+65de7386-7f45-4cfd-b7bb-4d3b263908fb,5^6n^zasHFNO,Armando Quintero Rendón,605 180 33 97,duqueblanca@example.net,True,apartaestudio,404011122.37
+882d35f1-970c-4ee1-81fa-ad9bc4056d6e,@)0mmukTTocF,Andrés Óscar Velasco,(+57)3199965047,jtorres@example.com,True,apartamento,326072447.0
+d24b41f7-b233-43e8-9191-2e507c1fdfb9,&&Xl2V+sYgB*,Luis García,573278886101,luis99@example.com,True,apartamento,463183491.5
+7a7a90ff-43cb-49d2-983d-35bfb80b26c3,G&ss0UJn_AO%,Antonio Antonio Pineda,+573071240659,varenas@example.com,True,casa,203207028.98
+47d06647-0042-48e5-b718-626ac7b09c1d,_^w26Ut9dOU5,Elizabeth Luisa Carrillo Caicedo,(+57)3237416724,johanasanchez@example.com,False,casa,432325197.02
+5c728704-e843-4bc9-9454-d61d76a31fcc,NH&OdtkEsR1&,Blanca Franco,(+57) 315 610 14 38,cindygiraldo@example.net,True,casa,189486559.49
+943b6e77-fa85-4d04-812d-e16902553cce,z)9u&EglDkQ8,Milena Karina González,(+57)3112382825,obustos@example.com,False,finca,463259036.78
+6aad5432-2172-4643-a411-a6aae221201f,aH2FLu!3_ekU,Luis Fredy Rincón Paz,+573196969155,rgarzon@example.net,False,finca,211503743.0
+b35012e5-854a-4fad-9aba-3cd1a797e538,bBS(F_Gc%J9R,Carlos Álvarez,+573290507236,fparra@example.com,False,casa,94948933.63
+aaf720b2-11c2-4a6a-ac3b-fecfcf4d2fad,&7i9Pf0L+iS(,Mery Mendoza,(+57)3061340745,mendozaovidio@example.org,True,apartamento,289590145.41
+93821ded-82f4-440d-9606-909cd9f0b712,pXJXlmlU$9Wy,Patricia Janeth Peña,+576047422325,osanchez@example.com,True,finca,28582636.45
+0ab3c656-0b74-473b-adb5-4f231922f246,^_iHhdqoOV6M,Elías Ernesto Medina,573237454589,carlosreyes@example.com,False,casa,28439789.86
+13ae8a86-14e7-4a49-9731-ea4fce72df30,Y_@uBdzJzt0A,Andrés Vergara,3006436110,virginiahernandez@example.org,True,casa,34260666.35
+07d7f0ff-1eb7-43da-8472-d23305846669,d7AJ)^Gg(Ba_,Viviana Pérez,313 269 73 11,alfonsofernandez@example.com,True,casa,201887775.66
+35a4ea33-4a3d-4f47-b63c-b29427b1eeb3,_8&KWWzd^aA6,Armando Páez,57 307 613 79 18,ospinooswaldo@example.org,True,apartamento,309690755.17
+44ac6fd8-e693-4681-8e1a-54590ed03484,S9Mz^Vl3&wHN,Isabel Álvarez Molina,(+57)3028569146,luzgarcia@example.com,False,finca,467353128.87
+ea232226-cc09-479e-8c8d-e06ffa86be85,%b@0Tt!ODQm7,Constanza María Arévalo,(+57) 308 149 17 78,luz92@example.com,True,finca,119342976.31
+2059d882-642e-45d8-9a7b-61620ccd7471,#b(g!p!$4uYd,David Vargas Ceballos,+573141951802,ricardobejarano@example.com,False,casa,335845111.48
+3299b98c-569f-4579-862c-d95b5d23754e,oCJy2TAY7VO@,Liceth Rodríguez,018005050641,andresmoreno@example.com,False,apartaestudio,158088598.14
+37d281d4-e797-45d2-8a6b-1e6056beb73e,!usQdFi&*2W^,Paola Muñoz Álvarez,(+57) 315 574 31 32,sanchezclaudia@example.com,True,apartamento,229142761.31
+f4140eeb-3592-4c9d-b9c5-99a7f91cd10b,E6D^p&lAeW3r,Jhon Andrés Jiménez,573006788317,arenasisabel@example.org,True,apartamento,268817202.05
+7639a713-2f78-4a21-ac74-c6116ff01b95,!3YZVEmg%sK),Ana Córdoba,(+57) 317 066 25 32,blanca20@example.net,False,casa,466629689.0
+2fc87798-022a-471b-8f91-939c38e30009,9IS%89HuQYl),Javier Julián Ruiz Ortiz,6089593040,sebastian32@example.org,True,casa,184763544.37
+9a901508-c07c-4ba2-a5d3-786501db917a,$t%z4rlEo31I,Dairo Julio Londoño,+573078427010,albertorodriguez@example.com,True,apartaestudio,416872477.32
+2d893193-96c2-4472-9744-7d5f4de39815,l!1lqg_e_(5T,William Quintero Ruiz,3067528953,myriamardila@example.com,False,apartamento,333931601.86
+6b3ac9a8-74e9-41dd-bb67-6966393942f0,w#2zxaWux4TX,Carolina Cecilia Acevedo Corredor,(+57)3170433154,camargoluz@example.com,False,apartamento,469465001.96
+0cd8f4a4-98b5-4516-8dc7-7885144715cc,O+6*Fnac0^o9,Carlos García Ibarra,359 97 06,gsanchez@example.com,True,finca,57714335.21
+2f067029-541f-43fe-8f7c-1bb638113e5e,TuRNA*HwO$3&,María Andrea Jiménez,571 46 77,bedoyayulieth@example.com,True,casa,136174106.16
+58199784-6b95-4e7b-aa18-e2c03a4cf0bb,5K7FT+o*&lIh,Joel Pacheco Rubio,57 307 416 08 98,paolauribe@example.org,True,finca,101798656.16
+c01c03a3-1db2-42ba-b4e9-17d164b14fcf,)JzK3Zg7#t%G,Richard José Bermúdez Fernández,3216229991,londonodiana@example.com,False,apartaestudio,125560626.03
+e7d0fae7-3189-46d4-b9dd-4a38c9d28fc5,GNX#5NXi#rC(,Claudia Alzate,573147132475,miguel91@example.org,True,apartamento,317142223.65
+b540d128-0070-47c6-a47d-690d81fa956c,*QF3kNexjQU0,Marcela Elsa Mora Acevedo,57 603 803 57 97,johanna41@example.com,False,apartamento,1772844.54
+df7af170-dadb-4615-8dda-f13d12cdba16,!jB443aPp6fN,Carmen Yamile Suárez Parada,(+57) 306 657 43 74,aorozco@example.net,True,finca,80790988.14
+89c8f5be-68ab-44a3-89e6-2eae834d6bfe,58cRC8C8_ua1,Álvaro Duarte Camargo,57 324 466 60 99,nubiaforero@example.net,False,apartaestudio,280453432.39
+b5bc802d-e20d-438c-92c3-5df416ce1793,P(oV1l)7li7c,David Freddy Salazar,(+57)3154947170,ortegaelena@example.org,True,apartamento,472525469.52
+930ecd06-3862-4481-ac92-95c3b9f582cb,_qQzDjsz_p6^,Lorena Rojas,3092712966,eosorio@example.com,True,apartamento,417297509.94
+7b409b8d-1f19-4f41-b875-b865fcbfdbfa,gwRig@!g!0B*,Elsa Milena Jiménez,(+57) 329 856 25 75,claudiafajardo@example.com,True,apartaestudio,63722759.64
+5c4d2397-fe8e-4f90-a581-b26b44d4cbfc,!3@P)ekFZjHx,Laura Liliana Vásquez,322 304 61 84,yulianaburbano@example.net,False,finca,449490744.37
+cb04adf8-f3f0-4abf-b5a2-9f82cadce5c1,+*297D2j9#O3,Mary Fajardo,57 322 181 14 37,lina01@example.org,True,finca,105038269.17
+6e037d2e-05b2-43bf-ba7c-75698cfa9922,c!4orz_ZCswL,Alejandra Yanet Ortiz,+57 317 621 20 21,evallejo@example.net,True,apartamento,176839317.31
+b07b98c2-1fd7-4823-aa07-0d3057b2bd82,_E#cot)u(I7F,Jazmín Mary Quintero Guzmán,609 163 75 62,francolucia@example.com,False,casa,462881911.28
+4a676ad9-69c9-4008-aeb0-8251f9e622c8,O*x$4CHyLlL2,Luz Peña,01 8008 019 948,jesuscardenas@example.com,True,casa,488103016.47
+c778c872-8950-4bc9-acb7-0c09d83ff2fd,C0WfEo*a^EYH,Yésica Rincón,3214933163,mluna@example.net,True,apartaestudio,12393180.95
+ffd87689-c631-4d28-9dcd-540ce83c9b4e,$Yb)rLYn^1gS,Johanna Pérez Aguilar,607 469 95 86,catalina54@example.com,False,apartaestudio,401117569.47
+7d89271c-5f14-4eb4-b840-2e791e1fb2b2,dhtdpevY2YN#,Guillermo Fabio Londoño,3284608106,luzmartinez@example.com,True,finca,79598921.49
+8a580e1a-6229-4ce2-80ac-830e22f93bd9,_%kVSEiX#T44,Edgar Gómez,+57 316 658 00 43,oserrano@example.net,True,apartaestudio,436083391.45
+9cafe992-e310-4a7c-99da-c3bd09d0b327,SWYxs1c1+5FJ,José Correa,(+57) 605 802 59 09,patricia58@example.org,False,casa,99786415.01
+6f451f7d-0097-41bf-a0bd-4fb7610cc311,#8R&4zCE4hCz,Antonio Armando Prada Vargas,576051561648,jose87@example.com,False,finca,152595433.67
+27794802-f899-455d-8f59-daeb14850a96,B&*UjRg3!3c4,Katherine Ana Cruz,(+57)3101102481,emilioparra@example.com,True,casa,11832217.35
+5c11367d-2364-4b6b-9e3a-333a0589bc4a,@NRZ6hVk^_*k,Jhon Durán Ortega,018003268424,rene08@example.net,True,apartaestudio,164130975.6
+6a386678-4d44-4937-a997-d8cde513bc24,UaS1Bgf3t#_1,Mary Ospina Martínez,01 8007 814 141,danielreyes@example.com,True,finca,175573064.54
+4055cbdd-3228-4873-8ddc-0b3853d6c6cb,^92VNuad+Tlw,Maritza Angélica Castro Mosquera,(+57)3177754781,jorgegarcia@example.com,False,finca,469618570.16
+ffbcda58-22ef-4011-8971-4a962c351465,gYGsoYmi#387,Jhon Giovanny Fernández,3127881658,vergaraedgar@example.net,True,finca,89283908.09
+1ca17cff-66b0-4df3-997f-d3d38ea78e91,_+Tqq_gv2iY7,Jhon Andrey Rangel,576093518449,xarango@example.net,False,apartamento,54201273.61
+4e588123-6849-462a-af96-3b516d8d18ca,Ft_QiONWP_1^,Ana Agudelo Ayala,306 517 77 39,jorgepena@example.org,False,finca,364272530.33
+fa28b8e5-13da-4f6a-93aa-66df7005258e,+!#Ss71wWT2f,Ricardo Felipe Ramos Torres,3292929842,harold99@example.org,False,apartaestudio,303104426.65
+2844c621-8a3a-42e2-9421-64b1ef4691c8,($MPJ+*eX#6P,Yésica Guevara,573286508637,zromero@example.net,True,apartaestudio,449752366.46
+b7249b83-f5ae-42a1-9a79-c7cf6630b3ae,+N5D8qn1ek9(,Diego Luis Osorio,+57 304 869 59 46,rosariopaez@example.com,True,finca,22193266.86
+c9a66f3b-c3bf-4248-b1ac-d0521bb4328b,NzUjHRr(#5w*,Ana Alfonso,2127961,ines19@example.org,False,apartamento,259960174.28
+39689a44-58cc-4d93-a4b7-237fb5a4af8c,a9xtj0O!+6QM,Gladys Mosquera Hoyos,3014656693,dazapatricia@example.org,True,finca,215648699.81
+d831af25-cd66-4daf-b24e-f734dbf596c9,t4x8XruU(I*^,Duván Guerra,+57 307 697 35 77,ramosrocio@example.com,False,finca,331693738.13
+45743c9a-1ce4-4fc4-ae27-9f706af16b14,5Bw3!V6wb_^u,Juan Cano,+573073334333,fredymosquera@example.org,True,finca,253561252.02
+1366ada3-7330-41ff-ab60-373f3fb77d75,O!p1VFvs@U81,María Vera Acosta,018000856271,aruiz@example.org,False,finca,201200193.53
+49730c43-4ce0-4104-a312-f50c558d272e,*Ep1_3Ms1JJh,Alexandra Gonzáles Duque,603 343 86 63,lcifuentes@example.com,False,casa,95920046.5
+fd838fbb-c3cf-408f-b286-abaac76a47e8,RBO6Uq*0*6o2,Javier Peña,319 399 82 45,javier77@example.org,False,casa,307757457.98
+2e1613c1-9ad9-4085-b368-9ca814e51d21,Y_0loYUo^&9J,Fernando Marín Alvarado,57 319 876 22 02,alexanderballesteros@example.net,False,apartaestudio,273968606.57
+219b04bc-7743-4f4c-b35d-c8c4d7b8b68e,H*v1Gjfz*X&+,Óscar Hernández,(+57) 322 005 57 78,luis28@example.org,True,finca,143456858.43
+31940c9e-34e7-44d8-b996-8b2e9fa9697c,)qOZRuN49AI+,Felipe Rodríguez,57 327 406 49 30,liliana86@example.com,False,finca,232494095.12
+a76c49e0-2999-4414-91f3-3433a18064cc,Z$42WQxXd8ZR,Patricia González Cárdenas,+573249735020,diazsandra@example.com,False,casa,255586998.44
+a78a0971-492d-4501-90af-4e9b49252fdf,#7ODXlaMkCow,Juan Marlon Vargas Flórez,4136730,ggalvis@example.net,True,apartamento,141893202.5
+91515f35-7292-46cc-b372-bd9555b1fb77,c_BP$vm6Z23p,José Yesid Orozco,(+57) 313 009 79 25,vargascatherine@example.net,False,apartamento,409211732.27
+bc2f2cb3-a001-4624-9e42-55b3bd51797c,)E+R*YuTZDr5,Carmen Gómez Toro,01 8004 873 928,paula74@example.net,True,finca,112320333.0
+e7fa633a-5128-46ce-97e4-35f284f9e686,+27F!ZG1(pCq,Juan Carrillo Castañeda,(+57) 602 994 56 51,gomezduvan@example.org,True,casa,12212693.86
+0ccfd62d-816e-4415-83b0-44aed3aa1252,!3ZGOYVp4fDu,Jaime Isaac Guerrero,57 310 948 01 41,everlopez@example.net,True,apartaestudio,305636986.53
+348c1c3a-58b6-4e38-b1ad-e9902ce82e67,28MwTTgi$bdJ,Pablo Sebastián Carvajal,315 855 66 59,luisrojas@example.net,True,apartaestudio,207220505.5
+c4f52e8e-b1d1-4d27-b2c6-d9430ec5b561,LHfyoQzA+4pL,Luz Cruz Sánchez,+57 305 933 44 19,njaramillo@example.net,True,apartaestudio,247188584.51
+e3359c9f-3be7-42ca-8b6e-2008058569ba,0@d5tZpgU^%j,Valentina Barrera,+576036480589,luciagil@example.com,True,casa,328029005.56
+1e4494a8-1c53-4911-87e3-e743b2a90378,&J9SCNhq*HKd,Jhon Julián Londoño Bolívar,(+57) 323 314 65 91,sandovalestela@example.com,True,apartamento,389210203.38
+5e8a6190-7295-42a1-a20c-1c336288d552,$50tmlYKu5cL,Katerine Fonseca Rodríguez,57 609 447 70 53,luisespinosa@example.net,True,casa,402054928.09
+9b376ff2-fabf-437a-98c1-51bbe51bff42,d*FtX6e2d89v,León José Gaviria,+57 313 681 57 98,diazjose@example.com,False,apartamento,278702897.02
+4de99d14-3998-4b0d-8440-367242b81daa,(AOhBchA0y8%,David Herrera,(+57) 312 168 93 63,jenniferalvarez@example.net,True,apartaestudio,66669552.78
+fceb2b66-edf4-4d85-91b1-19488a463660,3e7lpReQ_^y_,Andrea Mireya Sánchez,6034566474,hernandezmaria@example.net,False,finca,475019804.22
+362279d5-8f12-4d3f-8164-f9eb960091df,)W4T^j)sMa1G,Alonso Rodríguez Ortiz,3233312797,arturo36@example.com,False,apartaestudio,415284584.86
+a5473c9f-dd88-4d45-b22a-1b69b9ebab8e,fHvXRZm#!Lq9,Yaneth Delgado,+576083347644,djimenez@example.net,False,casa,371827721.08
+b7c6911e-9eca-49b3-bc53-9ea26c788f0d,L((2Od_uL1Ve,Edgar Leonel Bautista,57 607 911 75 18,lizethflorez@example.org,False,apartaestudio,129595774.23
+594477ee-0b6e-4bad-8b96-e091c53d6db9,^_i$Vgxe9sx!,Angie Rincón,(+57)3097767199,vargasluis@example.net,True,finca,382906842.15
+bcc61730-b1c7-4667-b6f2-544259216d8d,1%D_bUWC&_8G,Lidia Zambrano Mosquera,576079145561,jimenezmarcela@example.net,False,casa,137298723.46
+87350e36-1dc4-411a-8edd-a8509068111d,QdX(QnzN%5y9,Edilberto Mario Zapata,57 327 293 43 01,restrepoorlando@example.net,True,finca,117246789.01
+fc47881c-2adb-4f05-a20b-052c281b41bc,$Dl3ZNn^A$i9,Marta Ramírez,(+57)3177027278,lucila60@example.net,False,finca,446513416.4
+6a72b977-2ae6-480b-b0d6-437cab38879a,Bv9clrXx8%yY,Hernando Álvarez,576085461735,andresperez@example.com,True,casa,75415329.01
+6b68fe35-a3a5-49b5-99ea-5ae996bc6c45,Plo3DNqA!iCy,Ángela Forero,(+57) 321 040 91 57,lopezsebastian@example.net,False,casa,353209570.85
+cf5441ef-6824-471c-9489-d0bb67f9ca52,B0BS8yK(%8@Y,Fernando Jhonny Arenas,57 302 149 58 70,mariarenteria@example.org,True,apartaestudio,203799684.83
+12e991b7-ee44-40af-b35a-b9cea0d5cace,JB6VndXcm@bR,Luis Jesús Franco Castañeda,323 329 45 62,fabian57@example.com,False,apartaestudio,31132855.29
+a4566852-31e5-46ae-9126-96f020d489af,EM0iW)Pd!1ak,David Vargas Pérez,326 153 96 69,luis32@example.net,False,apartaestudio,452419239.17
+82bf8435-8271-4fb3-9c31-66ed5bfc716a,UOVMT1Xw^(_j,María Ayala,8227846,adrianamonsalve@example.com,True,apartaestudio,238489866.28
+7e78a85d-3809-42c2-92e1-233ad28e12d0,)4&!Nw)9FS$e,Fernanda Elizabeth Pineda Amaya,(+57) 316 683 27 23,xbenitez@example.com,False,finca,376737562.53
+dd2faa41-c8d2-4181-a486-270a42928491,)^4fOKVeZ#Lk,Jaime Cardona Mosquera,573069097384,kcarmona@example.com,False,casa,244114738.78
+7c35fcf1-7bb1-4351-af11-5b0621f3c44d,e!NS_gypjM0r,Flor Alba Murillo,+576086580778,zromero@example.com,False,apartaestudio,242820996.9
+57934cf1-b597-4db9-a7f7-2fb7510ec07c,u2BTwN0$%lY9,Carlos Castro,+57 300 192 92 75,beatrizbermudez@example.com,False,finca,334436810.31
+43a78845-9ae3-48c8-8f4f-d19e07661665,#xWmBkIGaf8U,María Cristina Acosta,328 366 74 28,zrodriguez@example.com,False,casa,420252831.53
+d4e0ae21-6307-4ff2-9d66-56319c1dbfee,w*R&oXav8l5Q,Beatriz Ruth Chacón Álvarez,2010618,uromero@example.com,True,apartamento,453464431.29
+bef1d193-12f3-450b-bb04-e5663d411fef,XaBs4W)w&%3i,Carmen Correa Rubio,(+57)3246542140,dgiraldo@example.com,True,apartamento,321374824.0
+1c0a3d8f-24fd-4342-82b3-cd3dcfae0955,O%X1O_i4Zce2,José César Arango Rodríguez,576019642569,zacosta@example.net,True,apartaestudio,90864513.26
+e3e57b19-a7ab-487a-bef1-59381a975e6e,G@j(8HCa%zZF,Andrea María Flórez Ramírez,+57 311 571 73 20,mariaorjuela@example.org,False,apartaestudio,163676333.47
+8489f085-19c5-4386-bfd4-1d1ecee523b6,SACnLz#z*$6l,Lucila María Hernández Arango,329 032 02 04,cardenascarolina@example.net,False,finca,168750274.04
+d6084869-ddcf-4439-a9a1-1748871ab155,@XDpCngH(1SB,Andrés Fernando Uribe,3058273902,mercadofernando@example.com,False,finca,376004911.78
+8bf3a2e2-3146-4df1-8120-9b267e7a2286,!10PrIcjd#ZQ,Stella Becerra,445 60 83,ospinoedgardo@example.net,False,finca,417455457.46
+d9cd7ac1-3ae2-439e-a9ea-ccc3bb9f3e3f,MY3^8QhtO+u$,Enrique Cifuentes,(+57)3201082207,garcialeidy@example.com,False,apartamento,374512130.54
+f8d886ea-65ad-4d32-95e7-6dcd413ce6b9,2c9KC*nqF)MN,Juan Eduardo Cruz Ramírez,314 352 09 04,martharestrepo@example.com,True,finca,112111082.86
+40cd154e-8645-48da-9929-2ca82697d2d4,#kZXHxpjpOz5,Gabriel Vargas Valencia,309 290 60 07,osoriohelena@example.net,True,apartamento,377116602.03
+39f66059-1c43-4b00-99ae-ef28fcbea33b,@hdI4E5h@7+P,Hugo Ramón Parra Angulo,57 317 016 58 04,sgallego@example.net,True,casa,419614423.14
+27795b8e-c925-4df2-8afc-727b1ecfdb4b,k^Zg%vbr(Fg9,Blanca Ximena Hernández,(+57)3138179335,ernesto86@example.com,True,casa,63110487.44
+9bc6d32d-10d9-4650-b6a8-807f145dae58,L!n1RnLlFbdy,Isabel Arteaga González,(+57) 301 272 38 04,itamayo@example.org,True,casa,232516991.72
+c1597a5d-d45a-46e2-9e3e-32dba9ccb03e,g@1@lnQo*a5N,Jesús Carlos Angulo Pérez,+57 303 754 02 54,narteaga@example.org,False,finca,83894571.68
+b2814978-5950-4112-8b03-bdf3d5089c62,+oJb+f$B)78T,Daniel Dagoberto Lozano,57 603 106 72 75,jorge47@example.com,True,casa,482360386.52
+b1ebbae0-7fd9-4138-b934-9648a0e64abf,)uD(Nsc(@2ZE,Margarita Martha Rubio Castro,6048187186,alberto80@example.net,True,apartamento,464443584.2
+a1e9fe2f-a5e5-476e-9b20-44922b229dd9,pF^9Eyw&fKz6,Carlos Fernández García,(+57)3047851961,penanestor@example.com,False,apartaestudio,470735299.27
+837eb2e8-ec78-4021-a1c2-885b8ca1d45d,#t8nwOmAVOO4,Luis Hernán Gutiérrez Díaz,57 300 147 19 59,qospina@example.net,True,apartamento,296048930.62
+155ba0fa-5d4d-44ca-974f-6b526c5873b4,_g@7WdMd7$EZ,Rocío Jenny Díaz,605 692 85 54,lozanodayana@example.org,True,apartamento,348596501.25
+ca2c755b-da15-45ae-a5c7-06cc182e35a0,F2Dt*+j1!XnQ,Aníbal Luis Hernández Rodríguez,314 527 98 52,maria13@example.org,False,apartamento,398113608.3
+13a22beb-2088-4d1e-ac1b-524ce48c2b0f,+WyJi(@hJ2#a,José Suárez,3119393,maria24@example.net,True,finca,266372622.66
+77c984a0-9929-4e0d-b6ef-3afc56cc277b,j5P^miReq0hF,Manuel William Mendoza Yepes,573056638361,paola18@example.org,False,apartamento,252980394.84
+cba8517e-cd39-4134-ac36-0717006eb4e1,T*CW8WBjKS5p,Juan Bayron Rincón,607 767 81 12,villamizarstiven@example.org,False,apartamento,424787813.5
+16db931f-5660-489c-b787-977a4db49243,2oH5JGikV@5v,Jerson Molina Sánchez,(+57)3211477320,dazaalvaro@example.com,False,apartamento,216761700.66
+df946bcb-96b0-4a89-9feb-cf417c3acb64,0CAYiFmO_9OP,Liliana Cecilia Rivera,(+57)3200284276,mercedesgiraldo@example.org,False,apartaestudio,353654321.85
+939a29fd-ffa8-4746-a7dc-f6c6921e4df8,)UVpPrOxX7yB,Anderson Dario Cabrera,(+57)3161655650,estherjaimes@example.net,False,casa,366897652.01
+66a62496-45e7-4ab2-9bd4-5bccb1671255,CdCMp1J7d@yF,Luis Pedro Quintero Mora,(+57)3129456371,alexandragomez@example.net,False,apartaestudio,232436885.82
+a7365b59-1966-46ab-b05d-fbdbf9ad8a1d,wfUVTTxJ&^3P,Alberto Diego Pineda,(+57)3282082973,oortiz@example.net,False,finca,425856580.01
+2411a947-9255-4f50-8223-097b2e3dcb09,YQ6_ScxKBn)3,Santiago Moreno,57 301 230 34 77,csalazar@example.org,True,finca,440815592.0
+0eaa9a29-2fd3-4224-8b95-c51c9ea92045,7#a1pEa@p&4q,Jhonny Vanegas Hernández,57 605 898 18 98,morenopaola@example.com,True,apartaestudio,284924822.34
+41d2eb4b-a21c-4be9-b83f-6c7a99254872,l9v4*XmI^%Rd,Héctor Samir Cuéllar Cuesta,57 317 540 90 03,luis45@example.net,False,finca,14349998.89
+e2a5c88e-5bd2-4a2e-8590-4b6ada39cd00,@tHyH&o53r8Y,Elsa Heidy Ortega,3256124815,jagudelo@example.net,False,casa,243774966.2
+48f27f2e-4dfa-4c92-942a-f5ea7707d632,iZWKZ!aAU^7e,Daniel Segundo Hernández,573095431652,kpardo@example.org,False,finca,170169421.58
+ce3d8554-9851-483e-8173-74629554b11a,!u&M7p$XW0wR,Sergio Chaparro Niño,57 321 333 44 76,libiarojas@example.org,False,apartamento,258313625.86
+c6447957-bb1a-4fec-9ac9-106c78b2b355,I_9%XtfcL!3N,Guillermo Galvis Muñoz,606 180 05 37,munozdavid@example.com,True,apartamento,120678025.19
+15985f81-f5ed-4ab4-ba4c-ca2da9649480,$10O5E&rK7B&,Jorge Pardo Ávila,+57 308 562 57 28,jmartinez@example.org,False,apartaestudio,277588105.79
+a7f85283-37de-450a-8c3d-ac040e670b12,7$K2BpEeNOoq,Elvira Zambrano Pinto,(+57)3090892613,vbuitrago@example.org,True,apartaestudio,322951449.87
+10695c5c-5c84-4b50-b2a1-b831f87c4bec,Vwn+^Malw%1x,Sandra Martínez Franco,+573101896164,danielafuentes@example.com,False,apartaestudio,396466434.07
+48048786-2af7-466f-a23e-a52bd99adda6,G0ZG+flg@sWE,Daniel Jhon Ortiz Carvajal,265 92 66,molinafranco@example.net,True,finca,110798200.24
+7fda729d-455c-4cb8-8210-9ec11d3f3a03,$P9KtNq)2oQ9,Luis Durán Jaramillo,+57 305 491 80 17,fabianbenitez@example.org,True,finca,331980010.8
+1efb35e5-ec66-45b2-9afd-df44f6707694,B6iLlDjl@^W7,María González,3077697499,eduardo64@example.org,False,apartaestudio,276736477.51
+b528eedc-cd3d-4d73-b1a5-7fadfa06ef80,#@2p3ZAgYk2A,Ana Ana Narváez,57 327 079 33 49,amartinez@example.org,False,apartaestudio,498315731.98
+091bc7b3-e18a-48e3-9aab-c3b5ed61caa1,6WT9ONNX_pOe,Jaime Fernando Jaimes,321 795 76 02,daniel75@example.com,False,finca,351427471.09
+29e0a8bd-a504-44f6-a364-01d15ea3b8d2,tD8Ha)9sx$bg,Santiago García,322 232 97 16,nsuarez@example.net,False,finca,125701838.1
+1d195127-b308-417f-88bb-f88632cdabd0,!+nsLiJX047D,Graciela Arboleda Agudelo,602 907 71 19,palaciosclaudia@example.org,True,casa,157773972.0
+b29a0f56-f1ff-456a-866f-0b0656da02fe,9KP$5FCxoKIi,María Arias Tovar,57 313 286 32 66,hburbano@example.net,True,casa,108192319.94
+4afa4f91-0724-442c-b884-ec2683623585,^fQ^DHjKH0Oe,Camilo Rivas,01 8004 550 489,diegomarin@example.org,False,finca,362292500.55
+a12e7b5c-7a62-4c85-b1d2-2326951879c7,a9rZt2A#(fg),Rafael Uribe,3000894346,arizahector@example.com,False,apartamento,416314181.66
+afa3a000-8613-4d22-8133-d339b6141f9b,$a)Lgdyl_8sY,Jorge Serna,+57 604 668 31 58,tlopez@example.com,False,casa,180440534.57
+06aa9ca5-9952-424b-b3c6-5b20348b54b9,J)&^cHCbqVZ1,Johana Reyes Cruz,+57 328 137 70 28,elkin19@example.com,False,apartamento,354009242.86
+77d28c24-efd2-46fd-86b3-09ce888b703b,9Q1Ls9#_kJv@,José Iván Martínez Gómez,329 497 56 79,cristianmora@example.com,True,finca,22757850.49
+1d5e9a08-4925-4ade-89ee-1b6bfeac1c3b,*lbI5HSwr7Ex,Julio González,01 8001 398 909,cesarmora@example.org,True,finca,348708696.46
+82855702-fb2b-424a-b3d8-6dba44c186c3,@3FoU&aB8OvD,Eduardo Luis Gonzáles,018002422412,joaquin20@example.net,True,apartaestudio,51293823.39
+f9594f0a-4b2c-4b85-ad60-6487261eec54,%2BIAFw(^hVO,Cecilia Cortés,(+57)6092706304,cristianarango@example.org,True,finca,234698472.47
+38e57cff-3627-474f-a11f-582a4ba524d2,&Z3xNyjoJ%9!,María Saavedra Ramos,+57 306 539 84 02,suarezdary@example.org,False,finca,92181835.2
+aafc553b-cc22-4384-86d5-6aea46384d5b,#Plrvnye88BI,Paula Rodríguez Acosta,2268768,montoyastiven@example.net,True,finca,470531798.38
+cec7c8ad-4b7d-4916-a260-5efd53f9279d,n11*dmMvK4@L,Rubén Torres,57 325 047 93 03,rgonzalez@example.net,False,apartamento,411057822.65
+ccaba68a-471f-47d1-95f2-db16e3c3230b,(gbFrVh)vp7f,Héctor Nieto,2605664,hzapata@example.org,False,apartaestudio,37041085.13
+9957a5c9-0bdd-4dac-86d8-24440bf4e42b,tR+3Bilz4dwt,Eugenia Luz Ramos,6046954317,pintojose@example.org,True,casa,74598792.24
+d13020b1-9f3d-4bcc-be06-1445627b3327,iYU&T#oo%@9K,Luz María Martínez,+57 316 196 39 90,yflorez@example.com,False,apartamento,496959061.36
+9e8070be-e569-4146-82d8-5a77b7154da4,ac@Q9Dke)os),Nelson Daniel Vargas Bautista,+576059249685,milenaalvarez@example.com,True,apartaestudio,303158825.62
+c1ffcbbe-c498-4a8a-8fc1-2725795c5afc,Vc%PnpJq2%5A,Robinson Julián Quintero,573165217073,henaojhon@example.com,True,apartaestudio,225257232.44
+d18fe2c2-037a-4629-b632-4a6cc546402a,gwCH3pzE^)39,Tulia Ramírez,3123425832,mariabenitez@example.org,False,finca,430083332.91
+2e41d1fd-84b5-494f-97b1-ee23a4bb797f,k2Mu5lav!zrr,Edgar Ruiz Osorio,57 300 993 84 25,luzrosero@example.org,False,finca,284314735.31
+efe140df-b669-434e-b2e0-9d43b7ae0bce,fkkXPGrg(Q19,Leonardo Mercado Bernal,(+57)3033736346,xjaramillo@example.com,True,apartamento,473795100.16
+6028b7f9-4cd9-4edf-b895-619adb90cee2,&K(1EXJyIlBG,Gloria María Benítez,+57 328 143 11 15,vasqueznelly@example.net,True,casa,132323062.65
+6dcfd1c8-99bc-41e1-987b-fcaa413076e4,^c8ezzxgt4Jm,Pablo Johnny Angarita Leal,303 373 89 87,fherrera@example.com,True,casa,119932588.84
+79e57521-eaae-4455-b514-881a0a4aac0e,IKp#_qwg$a6Y,Alexander Rodríguez,576077225999,efrainmartinez@example.com,True,casa,1337861.3
+045180b4-82c3-41e7-a887-df049ddd9860,ULsDkS#c$17x,Lorena Rosa Rodríguez,+573166212867,giraldoruben@example.org,False,apartaestudio,145629644.52
+9b385260-f3fb-43af-ad00-3d5ab0f6b599,mb+JAnfL#3Kn,Miguel Fabián Daza Gutiérrez,(+57)3254692632,qcruz@example.org,True,finca,353477914.94
+e04449bd-98b7-43c9-8cf9-6d534b725e28,d9r+rDm%+stI,Juan Alberto Gómez Rodríguez,(+57)3265636004,blancomarcela@example.net,False,apartamento,343692460.04
+24a20176-0680-4d40-b07b-d9ec4ef88f00,^+7w_mo0@*PR,Ruth Sánchez,312 308 37 08,giraldonatalia@example.org,False,casa,212569483.05
+f9875038-b65f-49d1-b892-88df05e0d534,F0yt2@#@mcB),María Molina Ayala,+573183938661,fernandamosquera@example.org,True,casa,454205722.61
+1492c81a-b0e6-4eb0-9cc2-76b4b8bc3b6a,!3Ua8Y$r!6Ok,Tomás Carvajal,+57 312 525 71 50,oflorez@example.net,True,apartamento,29819019.76
+5125f977-f10b-4698-ac64-9dc1ca7d13c0,$5XwAgiX%FS8,Gabriel Enrique Castro Franco,576064864035,andresfajardo@example.net,False,finca,219576724.34
+c2c65d10-bba6-495d-b68b-cc56a1746083,Q3YTOwmz$)0S,Jesús Humberto Vargas Díaz,57 304 497 34 71,fanny27@example.com,False,finca,349866842.49
+200dc958-4c14-4f73-9b50-e0b9f8de64f7,K+wN8JTx&RS1,Andrés Carlos Correa Sánchez,+573000857666,kelly49@example.org,False,apartaestudio,218879431.79
+873620ae-0ecb-4083-96ec-bbfb19d415ee,u0i&jhDmYF%0,Miryam Morales,6043249724,gonzalezandrea@example.net,True,apartaestudio,367266961.64
+475d061a-640e-4026-bd13-f7ba632a6616,y&tq0JdPRs6W,Nicolás Fernando Rojas,(+57) 314 027 01 16,uhoyos@example.com,False,apartamento,45663443.32
+5736dac4-9b15-4c81-8c13-04e8bad6f85d,e21wLmLf1#2s,Katerine Ana Jiménez,+57 311 415 09 37,gsandoval@example.org,True,finca,288123492.3
+08fd62e0-a71c-44c5-ac33-26f6efd29bc0,bk$4kYax7N!W,Ricardo Bastidas Arboleda,602 907 62 09,jhoan35@example.com,True,apartaestudio,259481920.49
+0cfab5ae-8036-4c08-b612-efbb7dca87a4,anZvBQqxg)57,Saúl Ibarra Acosta,609 164 93 28,irisgarcia@example.net,False,finca,90744573.61
+9430d4bf-7894-4788-ad0e-97eea0a0fbc9,wNS7Fvo*z#u(,Hernán Angarita,57 602 628 71 53,vchavez@example.net,False,apartaestudio,484527618.03
+410e421d-09dd-4b0a-af0c-4832eab0f41c,kx657UuDV+vU,Lucía Fernández,+573066552899,sandrarodriguez@example.com,False,finca,204174046.72
+58c603e0-62ff-46a0-9650-7e26bd82136a,OLW_blehA^2J,Esther Dayana Rivera Bejarano,(+57)3123302764,jhonyvasquez@example.com,False,apartamento,428866547.2
+82077feb-6f78-4e23-9c78-5f367b7d66ef,G^f8LdSyBk&7,Nancy Marín Ramos,(+57) 602 333 30 59,bquiroga@example.net,False,apartaestudio,346836836.99
+1aed1021-d26d-4bf6-b226-e2c78c823523,y1DyaVxYH0#l,Sergio Arroyo Sandoval,276 47 50,garciajazmin@example.net,False,apartaestudio,406783017.37
+8b413bbf-0528-4508-92a5-31644b76c2ad,UU3hk1sZ(U*A,Elena Figueroa,(+57) 327 189 81 31,nelsonvelez@example.org,True,apartaestudio,44029896.39
+12f941dd-3c4d-4715-8eaf-e22a7de5c74e,()3Zkp#yPE7J,Elsy Delgado,3187297585,eduardovergara@example.org,False,finca,57960800.72
+58f8762e-4ddc-4afb-b9c8-635e9b67b453,A$wW0EGe^6Gs,Marcos Sánchez Ramírez,(+57) 303 598 92 62,wilfredo66@example.org,False,apartamento,328830193.24
+5a3bf505-62b8-4ec8-82ea-417f871fd4c5,))3CZEi8q4!F,William Arévalo,602 185 94 84,yolandaespinosa@example.org,False,apartaestudio,27102042.69
+6fe47f42-cfc5-42a5-a20a-d46dc8b29f92,rHV^cta_T78R,Hernando Díaz Rengifo,(+57)3284468341,silvia51@example.net,False,apartaestudio,312704371.07
+d71baf6a-f96f-43e9-9684-4383a2e3e48e,v1%hTOqx@PXh,José Ramírez Serrano,1685389,ralfonso@example.net,True,casa,133528119.14
+fc2fe3da-214f-4b1d-a59d-a1062ee32106,$Qw2CF(l6Ri(,Alberto Suárez Saavedra,+57 320 797 05 09,wvalencia@example.org,True,finca,219058047.54
+c75223e1-56cc-4d39-8653-a7c1030865e9,H!!25Xft!i6M,Luis Mendoza,+573222560531,amparohernandez@example.com,False,apartamento,14434721.22
+2e10a9a8-0a47-44ce-9e61-01ba4c5698fd,b+5y(Ofc)hjB,Rosalba Patricia Herrera,7305690,fgutierrez@example.org,True,casa,155375069.2
+b4eb23c3-7192-4690-a696-3cf01f267fac,f1Te7dbJN3&g,Martha Hernández Gómez,+573026093106,ssilva@example.net,True,apartaestudio,46604600.64
+68813644-45b9-42e6-9e28-23a74e95b845,NPZ$KnDIB$$3,Jorge Ricardo Osorio Vargas,57 325 541 10 82,consuelo59@example.net,True,apartaestudio,473530371.18
+e2ebc0e0-a076-4130-b6d6-04fd4a580d8d,85&*YH$x)u2K,Nelson Cerón,+573082023684,johan71@example.com,True,apartaestudio,466326529.97
+7145ac65-9565-485c-bd08-cba8c88ce3ee,u7qWd)$T@dNH,Germán Eduardo Patiño Castillo,(+57) 303 202 93 90,umora@example.net,False,finca,207745171.47
+12843b0b-fbe9-4965-99a2-a21530370139,j40H5#_r%8kZ,Víctor Yamid Valencia,01 8004 269 450,bravomarina@example.com,False,apartaestudio,121865453.04
+0a5b1868-bb70-48cc-9abe-f774940b0d1a,aqv4Arv7Y#3K,Carlos Moreno Bonilla,57 312 717 27 22,carlosbarbosa@example.org,True,apartaestudio,95305185.47
+5445486b-e9b9-468b-9e6c-a2423673917f,_AHW^^jtx4Qf,José Niño Castellanos,576011231429,riosleonardo@example.net,True,apartamento,138123701.41
+1ae45b13-86cf-46d5-89ed-6e903233deb7,i3EAN6p7@@$S,Aida Rodríguez,573262543617,neltorres@example.com,False,finca,467124196.84
+d143901a-7d83-4f72-ae12-c1dc5c3e68b4,(^us1TRkc+bA,Junior Anderson Amaya,(+57)6088022526,gonzalezyadira@example.net,False,apartamento,141419491.64
+0101d032-0808-4ae2-83e3-d4bf330899ca,z1G2JdCk%la6,Andrés Forero Silva,301 350 30 58,hyepes@example.org,False,apartaestudio,432630297.35
+b78a017a-4692-4be3-b345-28aea6412ebf,^_pxtYe%_xe5,Judith Vergara,(+57)6032792025,anajaramillo@example.com,False,apartaestudio,172561970.85
+6fb0ad47-6927-4a05-8d01-d4abaaa6e8e2,2RPMfKx!#%ZW,Pedro Pardo Cortés,+57 309 843 62 41,imantilla@example.net,False,apartaestudio,466426127.86
+3d7036ea-c281-405e-9be8-7e7e3a2bc19d,41h6TmbBZn$l,Luz Rosa Patiño,(+57)3103428113,tovarnatalia@example.net,True,casa,285898820.99
+3590f5e7-77cc-48a6-b23e-a84c65f65773,&U$zNHiAyhw0,Claudia Yésica Mora,+57 322 096 79 04,luciarestrepo@example.net,True,apartaestudio,21823649.55
+41a7df80-d293-41ce-999d-a7d5bf9b4aa6,@_fzPzzQi3)G,David Bolívar Calderón,(+57) 609 297 10 24,ulopez@example.org,False,apartaestudio,193039376.25
+f152bd46-cf2e-42b7-8727-50dcead8c515,%E^e2CyiKuvx,Diego Beltrán Duarte,+573258955168,rortiz@example.org,True,apartaestudio,482412219.19
+b1089757-6b18-48a9-8928-f66ac31efa28,60!p9+Hz)MXM,Andrea Luz Olaya,(+57) 316 365 15 59,vrojas@example.com,True,finca,434850156.68
+1125788b-9141-40fe-98b2-bf826dcf504f,@w_OUzb%lk43,Antonio Díaz,(+57) 607 914 61 47,enriquemunoz@example.org,False,apartamento,262975543.4
+73d237ef-e6eb-46fa-9ecb-81504559b3ac,9yvKRkxKt6m@,Cecilia Ospino Rico,+573102727516,jose07@example.org,False,apartamento,361221913.79
+02344eba-2df0-4fe9-86f9-85f897db92c1,_4yJUsFD7xU@,Judith Camila Cárdenas,3255868512,losorio@example.net,False,casa,37414124.12
+e1b312e9-f649-4652-8011-c1b62b22f160,GncK8XR2z)*a,Valentina Tatiana Cifuentes,3163378613,wquiroga@example.com,False,finca,311629700.26
+6b41afe5-04f1-4bee-b82e-7aed84b21b1c,jP7aAltb&6#A,Enrique Tomás Chacón,57 308 639 60 96,gilbertogiraldo@example.net,False,apartamento,425882646.18
+09372460-96ef-47bb-be1d-47f4da6d077c,#6e)(UqitnKB,María Toro Cáceres,396 02 75,jesustorres@example.org,False,finca,313399589.5
+df4b425b-df8c-4d5c-90f9-fc6363bce258,l(3$X_@yq(u),Jefferson Alberto López,6076617136,lmontes@example.com,False,apartamento,308729730.8
+8e106d98-e459-40a1-93e4-e2e47df8f3df,2pVsDzW!!6(W,Luis Alberto Valencia,301 244 73 15,yuli76@example.net,True,finca,498712961.48
+c85df67d-9aea-48ac-a6cf-bc95e87a8901,2ofxIfV03&K3,Angie Fernanda Ospina,57 311 720 84 96,alberto85@example.com,True,apartaestudio,489168864.11
+2b253534-e780-48c8-b6b2-505b9f8501b3,B1EFazj)!!CM,Jorge Rojas Rojas,01 8004 919 665,alejandra07@example.com,True,apartaestudio,83182393.36
+28c01229-6c15-43db-8156-5857909bd1a6,!0CGUNdp4t9o,María López,3244556185,zavila@example.com,False,apartamento,22995484.34
+dc5427c7-4640-49a0-89e7-38b453727a52,x(FP#u!*7cK+,Yuli Salas,+57 300 104 14 59,kortiz@example.org,True,finca,179231671.15
+e21114e2-4bbf-4d1d-839d-5d7300daa0bd,B7V)sZbe5NOD,Brayan Amaya,318 331 17 03,camachovilma@example.com,False,casa,122098716.09
+2a3bc5da-3371-48fc-a3cf-1666688e0a5e,3VRDiBLk$74E,Juan Castro Pérez,573191271130,bdiaz@example.com,False,casa,84991824.53
+4ed53587-43a5-42c2-82c2-b6a195e94591,7u_8OPl$8*Zg,Cristian Rincón,573210313100,daniela81@example.com,True,apartaestudio,309855184.27
+3800015e-9873-4b8b-a432-27f8925d1994,HHWmdO03$99w,Gabriel Alirio Pacheco Pérez,(+57)6087225720,maria41@example.org,True,apartaestudio,456414508.01
+b1983686-7155-46bf-8774-d64c2343c3ce,x_O6TlTznQ00,Mauricio Javier Vásquez Vergara,+57 305 705 45 89,rgonzalez@example.net,True,casa,230574956.68
+774af268-407b-4328-9e4d-6245feb753cc,pa_OEgyn+20Z,Marcela Duarte Murcia,(+57) 319 644 30 98,hernan16@example.com,False,apartaestudio,127663354.08
+9d4cd450-87eb-49bf-bf9a-e03449083c65,)OcJdxYbA5l@,María Lucía Osorio,9042548,leonelamaya@example.org,True,apartaestudio,450604711.8
+4b2e147d-8a69-4792-a191-bb16d91abe33,t93v6csHs+NW,Roberto Carlos Castañeda,+57 302 683 44 14,yvasquez@example.com,True,apartamento,220864891.8
+034db646-a592-43e7-b832-6af125ebb84e,dP2QoMxMt@i&,Carlos Ángel Ospina,3106260787,garciaalba@example.net,False,finca,319469351.18
+0bb78ac8-424b-4b88-9dbb-38a5f2ce08a4,mT5TdVPfdQ@x,Humberto Rubio,57 329 311 02 91,vargassandra@example.org,False,finca,228417906.33
