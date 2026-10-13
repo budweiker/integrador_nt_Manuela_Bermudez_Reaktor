@@ -1,7 +1,7 @@
 from pathlib import Path
 import random
 import pandas as pd
-import Faker as faker
+import faker as Faker
 
 # 1. Sembrar semilla para tener coherencia en los datos generados
 random.seed(42)
