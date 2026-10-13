@@ -42,6 +42,7 @@ def generar_descripcion():
     area = round(random.uniform(30.0, 300.0), 2)
     estrato = random.choice(ESTRATOS)
     barrio = random.choice(BARRIOS)
+
     descripcion = (
         f"Se vende {tipo} de {habitaciones} habitaciones, con un área de {area} m², "
         f"ubicada en el barrio {barrio}, estrato {estrato}. Ideal para familias o inversión."
@@ -65,10 +66,13 @@ def generar_datos_limpios(numero_datos=FILAS):
 
         fecha_fin = fecha_inicio + timedelta(days=random.randint(30, 365))
 
+        #generamos la direccion de la propiedad incluyendo el barrio y el tipo de propiedad
+        direccion = f"{faker.address().replace('\n', ' ')}, {propiedad['barrio']}, {propiedad['tipo']}"
+
         filas.append({
             "id": str(uuid.uuid4()),
             "valorPropiedad": round(random.uniform(50000000, 1000000000), 2),
-            "direccionPropiedad": faker.address().replace("\n", " "),
+            "direccionPropiedad": direccion,
             "descripcion": propiedad["descripcion"],
             "fecha_inicio": fecha_inicio,
             "fecha_fin": fecha_fin,
