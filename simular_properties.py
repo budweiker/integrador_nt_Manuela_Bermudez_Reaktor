@@ -89,7 +89,7 @@ def generar_datos_limpios(numero_datos=FILAS):
 #1. Crear una función para definir porcentajes de error
 def generar_muestra(datos,porcentaje):
         return datos.sample(
-            fraccion=porcentaje,
+            frac=porcentaje,
             random_state=random.randint(0, 999)
             ).index
 
