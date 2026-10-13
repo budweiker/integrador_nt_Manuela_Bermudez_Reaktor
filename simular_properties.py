@@ -42,6 +42,7 @@ def generar_descripcion():
     area = round(random.uniform(30.0, 300.0), 2)
     estrato = random.choice(ESTRATOS)
     barrio = random.choice(BARRIOS)
+
     descripcion = (
         f"Se vende {tipo} de {habitaciones} habitaciones, con un área de {area} m², "
         f"ubicada en el barrio {barrio}, estrato {estrato}. Ideal para familias o inversión."
@@ -54,21 +55,24 @@ def generar_descripcion():
         "estrato": estrato,
         "barrio": barrio
     }
-propiedad = generar_descripcion()
+
 
 #7. Construyo una función para generar los N datos pedidos (LIMPIOS)
 def generar_datos_limpios(numero_datos=FILAS):
     filas = []
     for _ in range(numero_datos):
-
+        propiedad = generar_descripcion()
         fecha_inicio = faker.date_time_between(start_date="-2y", end_date="now")
 
         fecha_fin = fecha_inicio + timedelta(days=random.randint(30, 365))
 
+        #generamos la direccion de la propiedad incluyendo el barrio y el tipo de propiedad
+        direccion = f"{faker.address().replace('\n', ' ')}, {propiedad['barrio']}, {propiedad['tipo']}"
+
         filas.append({
             "id": str(uuid.uuid4()),
             "valorPropiedad": round(random.uniform(50000000, 1000000000), 2),
-            "direccionPropiedad": faker.address().replace("\n", " "),
+            "direccionPropiedad": direccion,
             "descripcion": propiedad["descripcion"],
             "fecha_inicio": fecha_inicio,
             "fecha_fin": fecha_fin,
@@ -150,7 +154,17 @@ def ensuciar(datos_df):
 
             #Estrato como texto (uno, dos, tres, cuatro, cinco, seis) 8%
             filas_elegidas=generar_muestra(datos_df,0.08)
-            datos_df.loc[filas_elegidas,"estrato"]=("Estrato " + datos_df.loc[filas_elegidas,"estrato"].astype(str))
+            datos_df["estrato"]=datos_df["estrato"].astype(str)
+            datos_df.loc[filas_elegidas,"estrato"]=datos_df.loc[filas_elegidas,"estrato"].map({
+                "1": "uno",
+                "2": "dos",
+                "3": "tres",
+                "4": "cuatro",
+                "5": "cinco",
+                "6": "seis"
+            })
+
+            #datos_df.loc[filas_elegidas,"estrato"]=("Estrato " + datos_df.loc[filas_elegidas,"estrato"].astype(str))
 
             """ #rol variantes de escritura (admin ADMIN Admin)
             filas_elegidas=generar_muestra(datos_df,0.07)
@@ -166,8 +180,8 @@ def ensuciar(datos_df):
             datos_df.loc[filas_elegidas,"descripcion"]=None
 
             #fecha dos formatos mezclados (2026-03-15 14:30:00 y 15/03/2026 14:30) formato ISO y latin
-            iso=pd.to_datetime(datos_df["fecha_inicial"]).dt.strftime("%Y-%m-%d %H:%M:%S")
-            latino=pd.to_datetime(datos_df["fecha_inicial"]).dt.strftime("%d/%m/%Y %H:%M")
+            iso=pd.to_datetime(datos_df["fecha_inicio"]).dt.strftime("%Y-%m-%d %H:%M:%S")
+            latino=pd.to_datetime(datos_df["fecha_inicio"]).dt.strftime("%d/%m/%Y %H:%M")
             datos_df["fecha_iso"]=iso
             filas_elegidas=generar_muestra(datos_df,0.4)
             datos_df.loc[filas_elegidas,"fecha_latin"]=latino.loc[filas_elegidas]
@@ -214,3 +228,4 @@ if __name__ == "__main__":
     if archivo.exists():
         archivo.unlink()
     df_ensuciado.to_csv(archivo, index=False, encoding="utf-8-sig") 
+    print("Archivo generado en:", salida/"propiedades_simuladas_ensuciadas.csv")
