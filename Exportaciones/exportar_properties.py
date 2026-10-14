@@ -23,3 +23,4 @@ def preparar_carpeta(carpeta):
 def exportar_csv(datos_df, carpeta, nombre_archivo):
     ruta=preparar_carpeta(carpeta)/f"{nombre_archivo}.csv"
     datos_df.to_csv(ruta, index=False, sep=";", encoding="utf-8-sig")
+    return ruta
