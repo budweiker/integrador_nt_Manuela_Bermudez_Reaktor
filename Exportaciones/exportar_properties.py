@@ -24,3 +24,12 @@ def exportar_csv(datos_df, carpeta, nombre_archivo):
     ruta=preparar_carpeta(carpeta)/f"{nombre_archivo}.csv"
     datos_df.to_csv(ruta, index=False, sep=";", encoding="utf-8-sig")
     return ruta
+
+#2.3 EXPORTAR A JSON
+def exportar_json(datos_df, carpeta, nombre_archivo):
+    ruta=preparar_carpeta(carpeta)/f"{nombre_archivo}.json"
+    datos_df.to_json(ruta, orient="records", date_format="iso", indent=2)
+    return ruta
+
+#2.4 EXPORTAR A EXCEL
+#def exportar_excel(datos_df, carpeta, nombre_archivo):
