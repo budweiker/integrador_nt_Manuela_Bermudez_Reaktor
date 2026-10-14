@@ -32,4 +32,17 @@ def exportar_json(datos_df, carpeta, nombre_archivo):
     return ruta
 
 #2.4 EXPORTAR A EXCEL
-#def exportar_excel(datos_df, carpeta, nombre_archivo):
+def exportar_excel(datos_df, carpeta, nombre_archivo):
+    ruta=preparar_carpeta(carpeta)/f"{nombre_archivo}.xlsx"
+    datos_df.to_excel(ruta, index=False, engine="openpyxl")
+    return ruta
+
+#3. Genero los archivos en mi proyecto
+def exportar_properties_crudos(datos_sucios_df):
+    return [
+    exportar_csv(datos_sucios_df, CARPETA_CRUDOS, f"{NOMBRE_ENTIDAD}_crudo"),
+
+    exportar_json(datos_sucios_df, CARPETA_CRUDOS, f"{NOMBRE_ENTIDAD}_crudo"),
+
+    exportar_excel(datos_sucios_df, CARPETA_CRUDOS, f"{NOMBRE_ENTIDAD}_crudo")
+    ]
