@@ -1,3 +1,4 @@
+import os
 from pathlib import Path
 import random
 import uuid
@@ -6,10 +7,14 @@ from faker import Faker
 
 # 1. Configurar el faker a la región que necesito
 faker = Faker("es_CO")
-
-# 2. Sembrar semilla para tener coherencia en los datos generados
-Faker.seed(42)
-random.seed(42)
+CARPETA_PROYECTO = Path(
+    os.environ.get(
+        "PROYECTO_INTEGRADOR_DIR",
+        Path(__file__).resolve().parents[1],
+    )
+).resolve()
+CARPETA_EXPORTAR = CARPETA_PROYECTO / "data" / "exportar" / "vendedores"
+CARPETA_ENSUCIAR = CARPETA_PROYECTO / "data" / "ensuciar" / "vendedores"
 
 # 3. Identifico los datos que debo simular y los campos que necesito para USER + SELLER
 # user_id (texto(UUID))
@@ -33,9 +38,6 @@ FILAS = 300
 def generar_datos_limpios(numero_datos=FILAS):
     filas = []
     for _ in range(numero_datos):
-        first_name = faker.first_name()
-        last_name = faker.last_name()
-        
         filas.append({
             "user_id": str(uuid.uuid4()),
             "password": faker.password(length=12),
@@ -76,25 +78,34 @@ def ensuciar_telefono(telefono):
 
 #funcion para ensuciar los datos
 def ensuciar(datos_df):
-    datos_df=datos_df.copy();
+    datos_df = datos_df.copy()
 
-    filas_elegidas=generar_muestra(datos_df, 0.1)
+    filas_elegidas = generar_muestra(datos_df, 0.1)
+    datos_df.loc[filas_elegidas, "nombre"] = (
+        " " + datos_df.loc[filas_elegidas, "nombre"] + " "
+    )
+
+    filas_elegidas = generar_muestra(datos_df, 0.15)
+    datos_df.loc[filas_elegidas, "nombre"] = (
+        datos_df.loc[filas_elegidas, "nombre"].str.upper()
+    )
+
     datos_df["status"] = datos_df["status"].astype(object)
-    datos_df.loc[filas_elegidas, "nombre"] = " " + datos_df.loc[filas_elegidas, "nombre"] + " ";
-    filas_elegidas=generar_muestra(datos_df, 0.15)
-    datos_df.loc[filas_elegidas, "nombre"] = datos_df.loc[filas_elegidas, "nombre"].str.upper();
-    filas_elegidas=generar_muestra(datos_df, 0.08)
-    datos_df.loc[filas_elegidas, "password"] = None
-    filas_elegidas=generar_muestra(datos_df, 0.06)
-    datos_df.loc[filas_elegidas, "correo"] = datos_df.loc[filas_elegidas, "correo"].str.replace("@" , " ", regex=False );
-    filas_elegidas=generar_muestra(datos_df,1)
-    datos_df.loc[filas_elegidas, "telefono"] = datos_df.loc[filas_elegidas, "telefono"].apply(ensuciar_telefono)
-    datos_df.loc[filas_elegidas, "status"] = datos_df.loc[filas_elegidas, "status"].map(convertir_booleano_en_texto)
-    filas_elegidas = generar_muestra(datos_df, 0.05)
-    filas_duplicadas = datos_df.loc[filas_elegidas]
-    datos_df = pd.concat([datos_df, filas_duplicadas])
 
-   
+    filas_elegidas = generar_muestra(datos_df, 0.06)
+    datos_df.loc[filas_elegidas, "correo"] = (
+        datos_df.loc[filas_elegidas, "correo"].str.replace(
+            "@", " ", regex=False
+        )
+    )
+
+    filas_elegidas = generar_muestra(datos_df, 1)
+    datos_df.loc[filas_elegidas, "telefono"] = datos_df.loc[filas_elegidas, "telefono"].apply(ensuciar_telefono)
+    filas_elegidas = generar_muestra(datos_df, 0.10)
+    datos_df.loc[filas_elegidas, "status"] = datos_df.loc[filas_elegidas, "status"].map(convertir_booleano_en_texto)
+    filas_duplicadas_indices = generar_muestra(datos_df, 0.05)
+    filas_duplicadas = datos_df.loc[filas_duplicadas_indices]
+    datos_df = pd.concat([datos_df, filas_duplicadas], ignore_index=True)
 
     return datos_df
 
@@ -104,24 +115,15 @@ if __name__ == "__main__":
     print("Filas y columnas generadas:", df.shape)
     print(df.head())
 
-    salida = Path("vendedores_simulados")
-    salida.mkdir(parents=True, exist_ok=True)
-    
-    archivo_csv = salida / "vendedor.csv"
-    df.to_csv(archivo_csv, index=False, encoding="utf-8-sig")
+    CARPETA_EXPORTAR.mkdir(parents=True, exist_ok=True)
+    CARPETA_ENSUCIAR.mkdir(parents=True, exist_ok=True)
 
-    print("Archivo generado en:", archivo_csv)
+    archivo_exportado = CARPETA_EXPORTAR / "vendedores.csv"
+    df.to_csv(archivo_exportado, index=False, encoding="utf-8-sig")
+
     df_ensuciado = ensuciar(df)
-    salida = Path("vendedores_simulados_ensuciados")
-    salida.mkdir(parents=True, exist_ok=True)
-    archivo_csv = salida / "vendedor_ensuciado.csv"
-    df_ensuciado.to_csv(archivo_csv, index=False, encoding="utf-8-sig")
-    
+    archivo_sucio = CARPETA_ENSUCIAR / "vendedores_sucios.csv"
+    df_ensuciado.to_csv(archivo_sucio, index=False, encoding="utf-8-sig")
 
-
-
-
-
-
-
-
+    print("Archivo exportado generado en:", archivo_exportado)
+    print("Archivo sucio generado en:", archivo_sucio)
