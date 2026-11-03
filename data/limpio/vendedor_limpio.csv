@@ -1,0 +1,301 @@
+﻿user_id,password,nombre,telefono,correo,status,propiedadesVendidas,balance
+7ccf8e42-726a-4235-9510-207c2082c81a,%dhU^cGrJ7Mt,Luis Alexander Gómez,3686805603,osoriodeyanira@example.com,True,8,219933584.17
+ccc0d36f-9e41-49bd-ae36-01cf553a22fd,&^Acv)RrX2lu,Julián Duarte,3573118253,josegarcia@example.org,True,0,259409535.16
+44a393b9-d182-4dce-897b-729887740a3a,tspF+CPd5&m9,Clara Isabel Quintero Duque,3179098108,cabreramargarita@example.net,True,15,457499971.99
+f1d219bd-ed52-4ef9-b532-5b9afd74d31e,9+GB*5Gb!crB,Amparo Isabel Morales Montenegro,3237818275,luisa64@example.org,True,12,185288682.38
+8584f092-ce5f-4d1d-bf90-12906e0272e3,r*lKd7Si(d9W,Carlos Leonardo Herrera Miranda,3573936671,galvarez@example.net,True,12,105601123.98
+ec701774-d0fd-4878-b88c-ee12714c9af2,jj2GgiS!*@TW,María Nubia Jaramillo Mesa,3771264976,janethangarita@example.org,True,1,400085308.92
+dcb1db75-3166-4380-ab5d-560d23509118,_+LmnnC2jT1#,Álvaro Junior Miranda,3706882496,jairogomez@example.com,True,2,333104823.86
+32c3d3d8-94ea-4217-82a0-855b47479a71,^bF@2AMyJ5mH,Alberto Vanegas Vergara,3838565602,riverarocio@example.net,True,3,49946616.54
+a9b91b53-0d0a-4688-82a8-8d9c854c4e05,N5S1Ag&*)9F8,Sonia Vargas,3118635963,pedro74@example.net,True,8,39559288.97
+9a297412-5d9b-4791-9dc0-11d82757197d,%Xpx#NsjIT66,Claudia Soto,3547126254,josemantilla@example.org,True,4,257937997.06
+6474c36c-3959-48fa-b725-1c059f20e87a,_9HaZ))$1xEe,Víctor Páez Melo,3255217917,gonzalezoscar@example.org,False,8,160130379.87
+4df2ea71-909e-48a3-bb91-49f64f5bca56,IBYrP0yuo#5(,Lucy Velásquez Ochoa,3940799631,augustobenitez@example.com,True,3,238573300.14
+25e36523-dd36-4aa6-b63b-9389f0b723ed,N+Z5Pjyao^6f,Elvia Álvarez Sánchez,3872913631,ruizluz@example.org,False,2,163852598.95
+0946a6aa-99ce-4e95-a90c-2ce44d0d32dc,CD+wM37n3cQa,Nidia Mendoza Parra,3775677435,edwin18@example.org,False,5,48674483.1
+6c9195ff-c655-41e3-bcb9-8da8c0bc22d7,1vi@_+UG#j*(,Laura Adriana Gutiérrez Álvarez,3268308129,andreavega@example.net,False,2,452634170.33
+86b948b2-60f2-4c9f-9359-6e20e539b5d0,A4aOIN^x)4aV,María Eva Velandia,3120212335,stivengomez@example.com,False,8,290273754.44
+e1d0083d-3bde-40f7-b8e5-57c235e48701,#1&q%Bxl!#WJ,Humberto Restrepo Castillo,3977863155,jorge67@example.net,True,2,344080306.35
+40491710-6d49-45ff-bd33-76f7c2ac4583,#M7En)q9ZO3s,Valentina Márquez Delgado,3804708581,alberto89@example.com,False,0,299583203.36
+449c574e-ad90-4dd2-9391-ab9471b5551b,_FtLdSjTsm7Y,Giovanni Bryan Moreno,3057739547,granadosalba@example.net,False,15,460678757.39
+0233dbfa-8fc4-43eb-ae45-f8f5d3d74c54,s@9)P(f1F2e1,Andrés Marín,3703941906,cesarmartinez@example.com,True,4,461538251.28
+515296e2-e2a8-40e9-86cd-ccb398b2dc43,N+1XLCcboO7D,Rosa Marta Navarro,3754834453,andres21@example.net,False,8,498925333.35
+01b8c8b1-6a7c-431f-9090-0121600493ca,0PttRw0l&7Ak,Silvio Alfredo Ramírez,3816487705,psanchez@example.net,True,10,335363570.27
+e75d3530-fb67-41d7-838c-3ca16481c3ec,Hcz&63XrbVx_,Jean Juan Mosquera,3971093953,ycastaneda@example.net,False,2,454825180.68
+dd4b1248-3a7e-4a09-a7b8-a0de01f16a66,2(Mbk$WW*Bq7,Mario Hernández,3606316727,yuly27@example.org,True,2,152649309.09
+d8e220cf-26bc-41ec-853b-d0acd769c47e,!OfZ^k*I)K6H,Karen Ángela Gutiérrez,3348159029,janethperdomo@example.org,True,8,139781347.99
+e4a4d829-6d2f-4a8c-a173-1b95b2196b0c,4@r1g+QhJHI6,Luz Marcela Díaz,3489465022,aurora83@example.com,True,5,182646021.48
+8131b1ea-9d1f-417b-9660-6f691c1525c4,8jtJW%y5*uVl,María Ibeth Rodríguez,3369077670,angelahernandez@example.org,False,2,107555396.37
+dd84faa6-e283-4e36-a4b5-a334ae9bb18e,qBQb0Yg3K$K),Martha Domínguez,3409814682,pardoluz@example.net,True,10,6055498.68
+4364c3e8-c8e9-4620-9f36-d2999377c6f4,GbeNKtdhvh)4,Dairo Fernando Prieto Salazar,3419653665,uherrera@example.net,False,3,383827609.25
+f446eb73-d93d-458e-9c47-57d37e598bf3,@j0pz4L@ZmlM,Wilmer Israel Díaz,3451463136,cuestaandres@example.net,True,15,217871854.37
+883b985b-abdc-4880-9f27-e244ebcb2714,2YI0CrNc&H69,Santiago Sánchez,3894218168,abedoya@example.org,True,5,195657487.17
+7b4af7fc-c5ee-4b1b-8520-46e8e2a35c2f,hp8_rAdW$hTc,Mónica Yurany Daza,3009926612,vegadario@example.org,False,3,434993238.57
+c51ececd-8853-4fb4-831a-62e5a92e5bf1,!$aGEolu(2gJ,Andrea Barrios Castellanos,3575891389,frivera@example.org,False,12,279709722.28
+c5bb2d47-563e-45af-b226-bb5a0c6531de,!9rEWnamvPq),José Mendoza García,3828760117,leandromena@example.net,True,12,74846689.95
+ce39a8c0-b455-4464-8084-93bc9091fb68,#@$L+eXBz2V3,Rosa Inés Salazar,3943679500,carlos03@example.com,False,10,393289718.92
+955c5b72-2fac-4fdd-b634-1ac9c8585845,29oht#^n@vSx,Carmen Luisa Suárez Ruiz,3686310349,munozluz@example.org,True,0,162596598.23
+1502f17d-c5b1-436d-9ba8-460f0be878f0,4F!Xjrc9W#7O,Stella Isabel Salas,3580335833,jairo83@example.com,True,10,411892382.05
+49348717-a49d-4005-9c05-23f4ebedefd0,1(&md1Pz!9ug,Yuliana Consuelo Acevedo,3500119783,antonioloaiza@example.org,False,2,337071856.35
+fda3dbc2-546c-407e-8e72-118ed1400d5e,()O4PJz4J!Ja,Beatriz Marleny Narváez,3587733143,augusto24@example.org,True,2,352262479.38
+99bfb002-2e17-4a9d-94c3-8f85845f2791,mW%NIvl3z&8W,Vilma Navarro,3658064724,morozco@example.com,True,8,230962687.15
+789f52a8-19a7-4291-ad13-509c6a10cee4,u&7hpe9&ReRd,Iván Peña,3418655553,humbertovalencia@example.org,False,1,64648764.88
+59592259-19f7-4775-a2e6-e01a457a0605,DgIk5ADk@neo,Lucía Montoya Lozano,3549036179,castromagnolia@example.net,False,3,355419702.46
+d1a86d2a-40a1-4a63-b9d3-045ac83f4f36,!VZVm*TFd495,Beatriz Lorena García Manrique,3189006838,miguelsanchez@example.net,True,5,279111884.05
+2af10095-eafd-4252-a4d0-7532bf37face,nmm27Lo!m3h),Ingrid Gómez,3054818116,mmeza@example.com,True,10,333562991.25
+ef529d02-bc3a-49e1-9035-c3847d1ca7d9,r3Lzk9nl!8Wp,David Palacio Beltrán,3097982584,julio34@example.net,False,8,344919023.17
+afe014bb-f2a0-4a2f-af49-a7ad4cfb38bd,#SYvEo!EGq2E,Marina Milena Rojas Saavedra,3441884266,vvalencia@example.net,False,3,173594188.69
+936a7275-8424-4a7b-8454-28a53939a97c,b&Jb9yk8@A9#,Ximena Diana Torres Gómez,3252897434,perezluis@example.com,False,15,357250978.96
+8d975612-94ed-46fc-8fd6-f679881e9d65,xU%_C_iY*B04,Beatriz Londoño,3194814166,carvajalcamilo@example.com,True,0,411127808.69
+2a2953e7-1fb5-4c21-a4fe-78092e9703cd,L44(&KlPc$xN,Melba María Rodríguez Vergara,3644719647,ovillamil@example.net,True,5,303241791.53
+4baa0747-187b-46d5-8568-fe8941910e0a,*2w@fOQkJVKS,Martha Johana Rodríguez Córdoba,3676131838,esther47@example.org,True,3,207126763.42
+470f9d93-41d0-4375-af55-a2cf749c4403,F5NDgK2%)pDZ,Paula Leidy García Gómez,3793950972,dayanaariza@example.org,False,15,352389472.9
+59b165f4-6d9d-4785-b772-bc1f0d7bb7b1,QfxA2BZz@zC6,Bertha Ingrid Delgado Pérez,3462705229,dlopez@example.org,False,3,269398703.91
+b7d41749-06ba-458e-ac20-0d9acab82fa9,(5jTUBa8CE4A,Tatiana Rodríguez,3321147911,lady98@example.org,False,2,383339840.06
+6905d08f-6687-461b-9a1d-04877be5fdeb,o@+$YQJ*s5Oy,Cecilia Morales,3338203794,joaquin31@example.com,False,4,170358741.23
+1db58d6b-c08c-49a6-a131-cc5b69fcbd31,&^@!7Q$tnZ(v,Carlos Sepúlveda,3495050736,mgil@example.com,False,3,348273495.14
+da26bd3e-18c6-4a31-9dd3-81ef1faa9a45,FhmJnOpP^3uL,Yesenia Mora,3588424857,humbertomolina@example.com,True,3,343871620.0
+0c2d5599-4acc-46d3-bf0c-bb66c71b35b6,u4*VGE7v@EuR,Gladys Karen Ramírez Rojas,3621997673,sepulvedamaria@example.net,False,10,343438831.91
+ba141306-20a9-4e26-b31c-b68c633d6b48,RH2sDI&kY^!G,Gabriel Javier Castro,3807654627,andres60@example.net,True,5,395763278.22
+e50e807a-2c7f-4cc6-9d02-b30502f38c54,&cF(%4CTy6op,Juan Delgado,3603205888,gonzalezraul@example.com,False,15,265515204.63
+f5068c2a-06e4-4de3-b78c-1a46fd7fda97,nCtYvUuwL+V8,Héctor Israel Lozano,3275130367,castellanoscamilo@example.net,True,12,155590075.69
+31bbd875-7c89-4b4e-b9bf-a6f3270b2b7d,(2v46NM_deTk,Javier Díaz Cerón,3889701330,arangojesus@example.net,False,4,190765680.9
+defaea39-61ab-4df8-9f86-8488c60a282a,+ff60NaHw+9$,Luis Arévalo,3271771195,maricelatorres@example.org,False,12,339597732.4
+2955d58e-e16b-4957-a4ad-e463a42d2669,(kC5ADvp!96N,Lizeth Elizabeth Gómez,3251165983,katerine57@example.net,False,15,221523029.61
+95b63261-e1fe-408a-b5a4-22c08ae4a1c4,YXKPK7%j)5TM,Luz Zuluaga,3628252119,andrescaicedo@example.com,False,0,30580954.81
+cb80e328-4c36-4bb6-93a5-990b6ac73ec8,A#FhFgYFW34x,Juliana Deyanira Medina,3973589125,stellaagudelo@example.org,False,8,250124284.57
+eca4e64b-84d8-4217-8faf-3228d2be1358,)&3r1TwWJS*P,Ricardo Vergara,3218303192,hortiz@example.net,True,10,72271799.7
+7d19383b-0c42-4329-ad0f-45073a8694aa,!4$b8Eex(JjK,David Juan Moreno Ortiz,3955122572,dairo70@example.com,False,5,346078570.08
+0b2401eb-41cb-450e-b39f-2731aed38069,Yn5PnUgj$4c(,León Edgar García,3085769029,elena85@example.net,True,3,376512542.17
+fbbbc022-3c1e-4fff-89df-dde73b862fe3,uP9SwIa7Z4c&,Emilse Suárez Giraldo,3301807246,alvarezivan@example.com,True,15,188153700.95
+79b4b64d-e01b-4796-aeb2-99b4f976cff9,&gQWGq*8M*4+,Andrés Julián Loaiza,3769653351,mendozanubia@example.org,False,10,183538915.84
+449797cb-402a-4fed-a9a7-445d46b4afba,1GNIt^k4XM*o,Lorena Dolores Palacios Uribe,3011662777,mariaarevalo@example.net,False,12,407938552.3
+f6925c63-6d0b-4916-b36e-819c8cfcfbbd,i5_cj2JM^oRS,Hernando Óscar Acevedo Suárez,3053745845,hector17@example.com,False,8,317376782.91
+3438b008-67a8-4a2c-a35e-0e8db81dd76b,X!Tw2LYePEJG,Alejandra Restrepo,3783382720,carloshernandez@example.net,True,1,244781858.84
+e59f9baa-c398-4ad3-9755-cf7581e0e4c6,)IqSw#eb(8Jc,Martha Velásquez,3533132766,castanedaalexander@example.org,True,10,296277623.36
+d8dde8db-a084-4d12-95f4-e53031de4920,f9WgMLEj*HWB,Ximena Carrillo Cardona,3703845288,mariarojas@example.net,False,15,70520150.35
+10c4955f-2fb6-464f-8ba0-9694c6d635bf,38_cKNfIB844,Mayerly Paula Rivera Murillo,3543662913,udiaz@example.com,True,8,162380569.43
+c0c5e2f9-cd56-4a68-8d40-cfea5f0af957,PD$*nVnn3K_0,Leidy Carvajal Beltrán,3957654116,lauralozano@example.com,True,15,358782678.78
+252eea5c-9f9f-40c2-8f90-d3d41ba6cf04,+wHALAn*F47U,Enrique Bedoya Leal,3104795275,alvaroavila@example.net,True,15,67863642.65
+25ab8079-4a5f-4ed3-8489-41c85d752867,*z3+cRwwbw(0,Jairo Jaramillo Chávez,3976493235,ovidio43@example.net,True,8,66647017.24
+59e91765-992c-4c3f-aa39-057ec3e3f510,diGCzg3G(Fl4,Emiro Loaiza Palacios,3296969536,osoriomonica@example.org,True,1,222347395.77
+cb1448ab-2123-4932-846c-aab58d8cefe4,DfRU!7Lb_Vko,Gloria Ana Guerrero Rengifo,3638720421,josehurtado@example.net,False,8,368296047.26
+4e03e920-48c2-44d2-b92f-e3acf3e9a8e9,+4kzKUb3fSAp,Elizabeth María Salazar,3805664277,estelarodriguez@example.net,False,15,154492309.69
+16ce50e9-353a-49ea-9b6f-88203e8b7f54,KjEYiC%I@9H!,Isabel Martha Correa Gómez,3058435680,lramos@example.com,False,3,237953588.65
+acf597c7-e738-4fc4-b56a-b807387a5f93,70_4_fPT1%Oj,John Rodríguez,3062535897,gonzalezjaime@example.net,True,15,116502934.03
+9c4195e0-4040-4050-bd2b-2bbf76d53700,3C5)BVCfrw$G,María Catalina López Vásquez,3035028647,sotonancy@example.com,False,3,248140577.21
+589347d2-6f84-4860-a218-a4ca32907f2f,$_7zQcRrNr7C,Liceth Sandra Pineda Álvarez,3443571928,crodriguez@example.net,True,2,476775021.95
+b8fd1e89-5f64-4034-9b3d-8f5968d4fbbd,&m3Vrq_jfFJh,Juan Humberto González Durán,3017157116,jhonhernandez@example.net,True,15,73063066.8
+10e6f481-a17a-420a-87d3-cb75063eda2d,+_8A9lwp7Cf%,María María Caro,3992315232,lopezandres@example.org,False,5,451644778.83
+c11ed166-06da-4729-9f9d-57c4103992c5,$Y3nYyx*yLCt,Daniela Carolina Alfonso Romero,3422366965,reyesnelson@example.net,True,15,180848932.03
+507ca09c-68c5-479b-b967-199a8bc019e7,Tg277RlXn5&!,James Puentes Romero,3539456804,deicy77@example.net,False,0,385925632.22
+e0bbddba-8c32-44da-8ab1-848b8c7d5e70,gKw2zrQxL(0i,Giovanni Caballero,3000101943,katerinegomez@example.com,True,8,386102779.47
+ed9801eb-c21d-4616-9799-deb21b69c3c5,npD!FrV9q7+K,Ángela Lizeth López Gaitán,3582356561,mvargas@example.org,False,1,261837316.22
+3a28e789-cf63-44a3-a88b-24a16a99562a,4)QONVkg^YQ_,Rigoberto Julián Arévalo,3572441833,caguilar@example.com,True,0,494445886.97
+8205e274-bab9-4026-8f7d-f406b1696f4b,TP%oUp7b$%8K,Antonio Pabón García,3192671494,claudia05@example.com,False,15,277520191.61
+dad71693-645f-41b6-a3b2-72d87d737509,+v0$$NliHc0W,Sandra Maldonado,3140185505,giraldomartha@example.com,False,1,463378246.65
+9caad5d5-a412-471c-bb1f-ce516eed6811,zO5^ISjg@)JN,Adriana Álvarez,3883954214,mballesteros@example.net,False,15,438206606.57
+3976ee71-0120-41e2-a07b-5baa109f8a40,&^DRWm4ad0)e,Vilma Mosquera,3366585949,castanoximena@example.net,False,4,154109063.68
+d87f53b7-c4dd-49ff-ac38-ec6b37381fbd,)#(KAH%szh6c,Carlos Riascos Rodríguez,3758171289,renebarbosa@example.net,False,4,409533126.15
+892c9b0f-86bc-46a7-936a-c897469ff99b,@l4Ywsxc7g*M,María Ordóñez,3332241547,carrillolina@example.com,False,1,13451287.03
+1bb5382b-4c20-4284-b14e-577535f8bb15,%B&Fbk744N0#,Katerine María Vargas,3439142358,gildardo81@example.org,True,12,285139726.75
+ceb9b273-6b17-423c-bba0-46cb99ca8816,nhz5Fjhm&8tY,Sandra Gómez,3503993154,joseortiz@example.com,True,15,369453779.55
+ef7deb02-93e9-4eff-8c94-3672b0a78a2f,514&ovQguW@V,Jorge Muñoz,3260394888,albertoperea@example.org,False,8,197115705.89
+c7044e44-9288-41bc-893e-850f3b98314a,u(gdYzm*K83Y,Patricia Villa Quintero,3550422818,luciasanchez@example.com,True,15,448543203.99
+e4729769-d1a3-4538-8dc2-72a0e63d1e03,1z0@Cn5BR+zb,Jair Leonardo Sierra,3309318764,enriqueramirez@example.org,True,10,486440601.71
+cebcd9fc-b5b1-4b13-872f-a2a6f3780e57,NMG8(PmmcE&P,Giovanny Daza,3147451096,martinezluis@example.org,False,1,285995950.21
+9bd85ada-1acf-4db5-a1f2-37e23708a94c,!lKU4WW_5z#s,Cecilia Consuelo Muñoz,3516353349,camachoclaudia@example.com,False,1,290927803.95
+6c89aeb0-0b36-4506-957f-3aa18c9c0f4c,K@i6I!Cz#ltW,Luis Julián Monsalve Bernal,3284587447,vanessa76@example.net,True,15,143201339.84
+99c88afe-6eb6-4cb7-9d32-8ee40f30e315,X3jK0Fwu@U+s,Estefanía Inés Bastidas Duque,3806982257,oscar16@example.net,False,15,379068179.11
+c5570a0b-9b5c-48e1-9d11-95d74709c6d5,FOO^&yNB$9@U,Álvaro José Hurtado,3977930183,fdiaz@example.org,True,12,364280405.57
+3bf6e5d6-a9d5-45e0-929b-a88594aabe20,49VQdGk^#emB,Carmen Vargas Osorio,3139645210,anayaalexander@example.net,False,0,299591618.86
+0a8bfef3-4f6e-4c9e-bf9b-0b67fb84ed1f,TRidMi0o(@1s,María Isabel Bonilla Vargas,3899506842,uquiroz@example.com,False,4,276308547.93
+33cba19f-26ac-461e-a0dc-1d43b839e97a,&80$klGR!ocy,Augusto Antonio Flórez Álvarez,3176605367,javier30@example.net,False,10,91518545.39
+4a7c35d6-4c33-4de3-be9e-22d50fdf5524,4kuNyuXE)0+r,Danilo Alirio Bolívar Peña,3587533402,jrivas@example.org,False,4,17758921.06
+bf73cff7-b65a-4c70-a9b0-26a01812c294,&JBSJ&nc6pl3,Adriana Vanessa Ramírez Zuluaga,3433678369,andres75@example.net,True,3,487075655.66
+7568d136-7194-4abf-bf60-0b1759ef5d8d,E@0VRd7x!FSO,Rocío Álvarez,3789498955,ramirezmilena@example.org,False,0,104592240.22
+6a7ed5a6-2fe8-4b8f-b3b2-b2f970da96d9,Y24DOh+^o#+E,Edith Bedoya Vásquez,3212854698,tzambrano@example.com,False,2,126828260.54
+c19a517a-43ca-47eb-bdac-b53f3d6e8bc9,!#Hu%1mtz1^8,Carlos Luis Vélez Restrepo,3242583530,ruizjohanna@example.net,False,10,16716630.42
+d71b3d2d-3d09-435e-be65-560b4e78a83f,4tCf3Bs2!ZCP,Josefina Dary Rojas,3659241737,javier73@example.net,False,1,52622812.8
+d4d98219-aba7-4724-b093-5b87f50af02b,b&QLmS4hYZ84,Esther Johana Loaiza,3937399189,camila63@example.net,True,0,495288066.16
+47537680-bf6b-4368-853d-ea91c0f8c27a,ou5JR2pj!5jm,Pedro Morales,3931621207,socorroibarra@example.com,False,8,231217414.36
+666a611b-0d49-4921-ba3f-262d69d11fc4,!2_3#JOqy94r,Juan Martínez Angarita,3030107300,luisarodriguez@example.net,False,8,30595498.74
+31449705-7b64-4ccd-83ce-39f46f9e30c9,*13$JHpzM$97,Angie María Ceballos,3039059412,kospina@example.org,False,5,435067214.44
+737840e9-1b18-433f-acea-d2d1aaaf7219,%FYKUj5i^2Tn,Lucía Sandra Suárez Mosquera,3830839315,andreslopez@example.net,True,5,388356481.77
+4e05b2c5-c0c0-4c11-8a13-0ff4bffdd1ca,(74mkAvL0zJn,Carlos Jairo Meza Flórez,3251910885,edwinrojas@example.net,False,4,48479511.55
+70016aba-c423-420a-988f-b623b498dfac,&#7YBjPetPdH,Patricia Barrera Mendoza,3346035111,luzcordoba@example.net,True,5,470410805.74
+04455dc3-7475-4104-b326-a52701b279ed,nHS0UcaJS&OJ,Carolina Manrique,3618002966,hlopez@example.net,False,2,43731780.13
+f670f241-f136-414d-af23-33fc730be9c9,u*iRkyg)FP4T,Miguel Elkin Nieto,3796809422,xsanchez@example.com,True,12,435037475.15
+5b832278-3de9-4fe2-89be-f588b4a0ddf9,%S26*ysgjvfZ,Deicy Quintero,3847040726,dariogomez@example.net,False,2,160818151.28
+4a558c70-ff51-4cf8-886d-078eab3bd819,P*&82*7sSUmQ,Héctor Navarro Rivera,3169606019,kcuesta@example.net,False,1,295244637.84
+d7806f0d-341d-419c-85d1-6f188d38523c,dkDtH+ABg)5@,Cristian Ferney Mora,3742852069,alfonso60@example.com,True,12,26368185.14
+40441ae1-7e44-47ab-80f0-395c849fda7b,XkpAyslk&61G,Brayan Rojas Duque,3021116354,sneiderpedraza@example.com,True,4,69047500.21
+48b1507d-f6a4-457b-bcc5-d3b8b6c62539,N2UiR^as&!%7,Andrés Sierra Ramos,3439792317,jaimesjose@example.org,True,8,444503346.67
+3eaf47ac-a9c8-461f-b527-cbca66050abe,S85Lwxqns5m(,Guillermo Orlando Osorio,3127768999,edison74@example.org,False,3,331458384.29
+864439a0-d731-4562-a3fe-9fcc4e164d13,92i7f#Qp@tyF,María Acevedo Bonilla,3014993939,pedro85@example.org,True,15,441520272.74
+a8c71096-185a-419d-975f-22a85cd77dd0,y2$89OJjuAC+,Consuelo Forero González,3260720330,fabio35@example.com,False,4,439700103.7
+19e483e4-ebd3-45bd-8f47-585ef9fdd851,ca+H@WOff1P),Elena Patricia Escobar Silva,3903283602,tcortes@example.net,False,2,217589343.36
+87404189-fab9-4970-947c-22084e11eb70,9Nw7RIed&F!a,Álvaro López,3663007194,lopezjose@example.org,True,0,129037325.95
+e364045a-0c09-4066-8157-704435fa7322,J*!2Q3GbsTpR,Felipe Moreno Suárez,3463179381,sebastianortega@example.com,True,1,448317528.3
+87a5aa4b-8bed-47df-bc46-e7a7f75b5047,H@WBi8QqDX7E,Álvaro Jesús Posada,3776193435,claudiaguerrero@example.com,False,12,493380174.26
+777c9124-3c29-400d-b397-08095a3a2413,6$qqt6WyMQnf,Alex Correa,3518179573,gonzalezstella@example.org,False,0,396782125.09
+20fb39c2-092f-4a5b-abea-87dbbddca9bd,sQu@fwS9B7PW,Eduardo Jesús Guerra,3318894555,rodriguezelias@example.net,False,3,277579253.37
+3dabe936-aca5-4a77-a6a5-83d6299c47a3,fG842pLd!#)P,Hernando Alexis Gómez,3263588393,carlosgutierrez@example.org,False,5,275341513.98
+026da861-54d1-4362-b498-b3b4db84ab2f,$OWVHjIe80Xw,Raquel Cristina Solano Garzón,3924962348,djaramillo@example.net,False,1,346832631.89
+65ccda11-6599-410e-a267-1d88abbc510a,@YRF(erl4r4q,María Angie Santos,3588737517,torresines@example.com,True,8,475203419.97
+30d35f94-987d-4579-807d-e75f943de246,)10HH5Gf4mug,Carlos Pérez Vargas,3743988452,edwin76@example.org,True,3,48048930.05
+b160872c-555d-4390-a9ae-993213ccec1a,4#frEsgW)6O@,Elvira Juliana Rodríguez Bedoya,3009445708,vmosquera@example.net,True,12,490345471.9
+71fb5bcf-433e-4e8c-9c82-b5b0e6463025,V^73zS*v7tzq,Alberto Gallego Carrillo,3624148438,alvaro08@example.net,True,5,215627181.46
+525d832c-cda6-463c-821b-ec00570c1bfe,q_7%m#Zg4W^w,Andrea Ríos,3768082634,yamile50@example.net,True,12,477725577.1
+65086638-78a6-4536-a629-919d47ccf088,!F4b0TFk+#0o,Alexandra Hernández,3043281277,famaya@example.com,True,1,225122798.4
+398721fd-9caf-420b-8825-12f78ecf0470,%o+FjvPXc5Wm,Ana Martínez Bautista,3103479427,espinosadiana@example.net,False,2,143204291.68
+2c40f5a1-ed77-4032-b33c-b3bb309d6865,Z!ryAkVx$77o,Juan Octavio Granados Castaño,3944790948,lucia56@example.com,True,4,250207316.16
+aa30bbc7-36a7-48cd-9497-2eb2e5fce7b5,z$wGUPds*23L,Fanny García,3371209870,ojimenez@example.com,False,8,259794350.94
+c8c83dcc-999c-4070-a51c-3363b334e169,58+eLZlF(47L,Hugo Jairo Ardila,3564478322,jose24@example.org,False,0,471372815.43
+05e661c8-bfdc-452c-9b83-752f9e16a59d,UHJ$mh9wf+5T,Tatiana Daniela Trujillo,3738209506,aldemar82@example.net,False,1,289208601.17
+d8156304-7ce3-438d-93ea-d86a59d4dacb,H9n_EjF!$NOq,Socorro Carolina Becerra,3431160322,wilman30@example.org,True,2,420289179.87
+1405beee-0ca1-44a1-8a4c-b6adc77355b5,#IPntcL9e4W1,Esperanza Inés Cano Ortiz,3772879754,ljaramillo@example.com,True,0,398720201.56
+c8bf62b0-2a59-4729-8429-1f10542f244c,#JQWuNL%@0eW,César Manuel Caballero González,3174195911,maria07@example.org,True,12,256570137.18
+d9ffd1dc-9d84-4736-b6b8-9f0ec926cf70,P44G@WwyQ$FT,Juan Carlos González Suárez,3291863004,eliasceballos@example.net,False,3,302399704.15
+d4cc46a9-21df-4d07-b7e9-05ae5a0c8adc,9$S4ZDczMb9c,Carlos Willian Ariza,3854562693,isabel65@example.com,False,2,347583900.59
+d30fed28-710c-4748-9444-53a8b00da5ca,)^LlUlz572B(,Leonardo González Saavedra,3999334718,sofiamonroy@example.net,False,1,244762740.94
+690d9f36-93ec-45a4-93bd-cacffe233ec0,#1hfuPCn+8FW,Ivonne María Cárdenas,3645316617,alexander14@example.org,True,2,329561819.68
+81274a46-bc5e-4479-99e8-6ff0c6bef108,ui1dkUtP&#LP,Francisco López,3913461896,gonzalezcarlos@example.org,True,3,205445677.67
+1fa9070f-b85f-47ab-91d1-e33b64a97237,&p&UHuOO0WC),Alexander Zambrano,3984571013,nangel@example.org,True,15,451244578.26
+0f86ba29-166f-4787-882c-725b0035c0e0,_tpuBTpoC0*q,Patricia Castro Narváez,3407570707,rarroyo@example.net,False,1,143991999.53
+d2748e3d-da47-4e2f-b5d5-99adde8e4027,*B^swJHt8yTA,Gladys Tatiana Caballero,3548716584,liliagonzalez@example.com,True,5,348817213.2
+f87b094e-a13a-44ff-818b-114b4e4b456f,_yNaq6sr73Tu,Orlando Gaitán,3553928033,stiven86@example.com,True,10,312076649.07
+f6c8b6d0-e5ef-45be-85e0-da5af0cdb3c2,FO!EIbvrf#5j,Andrés Martínez Rodríguez,3822715454,crestrepo@example.net,True,5,435074922.88
+535d9d3d-5a93-48cb-8424-e9320d51158e,*8Ms%o1rXAZ*,Martha Olga Velasco Carmona,3939984367,yanethtorres@example.net,False,10,237009126.28
+9ac9ec60-9e6f-41c6-a903-ff17bf491de4,2E!n+Wmn)AdI,Milena Yolanda Arenas,3169144170,rtrujillo@example.org,True,1,49055531.36
+a0928fa8-5207-438b-bda2-df13c3bde621,(1FEjt*+fwjg,Luis Vanegas,3585007062,jaramillomaria@example.org,True,12,318059249.07
+e08d94dd-70b8-4048-8d79-acfa42e0d975,t(q5xWJu1zn4,Edison Juan Cardona,3917739232,roberto87@example.net,True,15,388786001.43
+f7a90cab-9c96-491e-bca1-84a80a55d1f4,y0(#L6rerGq3,Antonio César Puentes,3405424761,hugo89@example.org,False,0,414355776.34
+869261e5-c063-4481-9779-8ece8b269e68,OF!brQLl#z2B,Piedad Toro Durán,3706423856,montoyacarlos@example.net,False,2,35677587.97
+0dc7fe20-cfc0-4b30-8157-ad4169811232,$3)LvnSG)zD^,Fanny Katherine Torres Figueroa,3200178853,ruedaconsuelo@example.com,False,1,183194413.08
+0fa1d735-3548-41f1-a275-a061bf7eedc7,rTIVyR$f&a6Q,Maribel Yolanda Romero Rodríguez,3066147745,gomezluz@example.net,False,8,184967985.06
+8b4289de-e513-4d2c-a602-1562c2d25fd5,$M0#Ns!cC@U6,Jorge Romero,3371166146,carlosangel@example.com,False,12,192357989.38
+a9338955-fb83-4d95-99a1-9a362066abbc,0Jssc&1J!VoJ,Vilma Acosta,3883902117,zuluagajorge@example.com,False,1,94150808.26
+3b439785-d8de-49fc-819c-8bc845203017,x2k&k7jb!a_S,Carlos Armando Ramírez Silva,3135505621,qbecerra@example.net,True,8,214267427.32
+785c7e99-74f0-4e38-b074-c28671118099,EK&8wMpW96H1,Alberto David Marín Castro,3537304761,yolandasalazar@example.net,True,1,406216786.1
+1eaa9ced-526d-4b69-9266-e746573215dc,B+s14C_lS_I3,Cristian Rafael Hernández,3245963344,cecilia81@example.org,False,10,12943442.81
+fa200683-b5a7-4199-97d1-303d69debb27,)EUgNRx64zaf,Alexander Ramírez Benítez,3868277488,alberto39@example.net,False,12,205925796.2
+af370363-a65c-4f99-b096-95fe34c1292f,)o2U6w2v^rqL,Jorge Peña Peña,3994364893,guzmandiego@example.net,False,4,366543367.05
+01eb3e23-cbee-448e-adc8-69b1356a4823,(KWfK+ox6G5q,Liliana Vergara,3269385492,heidyortega@example.org,False,1,242923856.26
+c6db7a5f-f983-4ff2-a6b5-a5aa6e7de88b,M60sJkEa$x*$,Sandra Karen Reyes Martínez,3320297887,lopezenrique@example.net,True,15,241803483.31
+e6910048-f96c-4e4a-a590-be33e3f259f4,o#BjACvhnKD7,María Libia Castro,3703873638,npaz@example.com,False,2,48807306.74
+58278c7c-87bc-4b01-881b-bcacaaefe350,L(b5VDHtp7)),Juan Monsalve Henao,3435760731,gloriaarrieta@example.com,False,2,354376438.8
+322afadb-3df5-4a8c-bb62-0bf933d0350a,G^6YqLphl#n(,Helena García,3152920329,myriamgonzalez@example.org,False,2,55983716.23
+e7bde24e-6405-42b0-91bb-09b8c5ae33ce,)X7tkh2W10&I,Humberto Leal,3561940736,arodriguez@example.org,True,3,377054852.54
+7cb741e0-2207-45f7-93b2-e08ce3d9b7f4,vc7Ta0Qxz$^l,Gloria Patricia Pulido,3061327425,josecastro@example.net,False,3,244822986.15
+b0897cdd-d220-434b-a0b1-f5ff4a421e42,&vAjVQ_nV3xd,Leonardo Sebastián Páez,3164319870,martinezricardo@example.org,True,2,202368421.16
+18481793-b6e8-48eb-8142-576b5c703a1b,JvH+GpZe_&9Z,Héctor Antonio Ramírez,3367747684,victoriamelo@example.com,True,0,155943564.62
+e83b125a-dc8d-4223-b7d6-3529a3de9ad2,%3DMl3gWpVJh,Fernando César Rodríguez Calderón,3073901261,medinaluis@example.com,True,8,189320855.99
+1c04e576-1b4f-40e1-af6b-5ea86282f4a8,(&DiUTanK9@w,Valentina Mora Mejía,3600068233,rmoreno@example.org,False,12,253385982.3
+1fdf758a-a464-4f72-9c18-c0246a4ac4d7,_WyrSGrS@3Lg,Ángela María Ávila Palacios,3083764462,fsandoval@example.com,True,1,67716663.03
+c23f4403-7562-43ce-b0ea-ad2f80031945,Tb+LlqsYYP1n,Juan Camilo Morales Galindo,3769709665,helena94@example.com,True,4,498102931.83
+203af0ef-c6de-406c-8d10-6d06b087dd3c,9k4$43Fh$BfJ,Mario Alexander Fernández,3174181496,maria55@example.net,True,15,13555976.8
+9f7c5154-1bc9-4424-9595-a087be28b916,$JZ47ofhyn8B,Leonardo Serrano Flórez,3020053657,patriciagonzalez@example.org,True,12,321102776.77
+1a0444e2-54a4-496a-95a1-077db78940a1,1P52!SRp7Iv*,Luis García,3530579302,yudy40@example.com,True,2,207219280.21
+c9292cf7-be61-47a3-8c7d-f2da565cd6bd,mrUiQn7Yg+86,Clemencia Kelly Gutiérrez,3336011759,gracielahernandez@example.net,False,0,80291914.35
+47ba6828-53d8-48b4-be50-2cc68ee64889,w0X04Zkly^qB,María Graciela Vargas Vergara,3242183357,luisgarcia@example.com,False,5,415905062.38
+10983bef-6680-452e-b2c8-b52826ff47eb,*s58feQmPjyG,Mario Óscar Gómez Rodríguez,3371394056,sergio87@example.net,False,4,103045454.42
+ba44ef84-acb7-4a09-acab-da329d90bfbc,&23JVhj@%!Q8,Antonio Lozano Cabrera,3752176520,diegoorozco@example.com,False,5,190421059.81
+5d469229-5ba6-4614-b3df-33e3d8a9b433,%WZcizZmc0HA,Amparo Leal,3222773662,kellygomez@example.org,False,3,161326835.52
+d24de036-6fee-4dc0-a657-6e570a72417c,uKPzhvMC$q9R,Leandro Hugo Rodríguez,3071025742,zmurillo@example.com,False,2,224776092.29
+650009ec-4844-47ea-971c-43ce3f5f7ff4,N1qnJ3yq@L*Q,Libardo David Rivera Torres,3622849168,brodriguez@example.com,True,10,7078405.65
+1ef7663a-4f5f-43f8-b9d6-09c235570cd0,*Z4Mo%gFS2#h,Edilma Peña Silva,3699524300,jparra@example.com,False,2,384856450.74
+a3a601c3-82d7-4d13-8590-772b92636190,**J)jXkge55+,Carolina Isabel Díaz Fernández,3704986856,david85@example.org,True,0,439222504.56
+edceef02-7916-4665-ac11-1e14cf358283,wr&tIn1qU(0M,Alexander Gaitán,3245901833,juanagudelo@example.com,True,2,365828731.8
+637a39a2-15e3-4651-9e96-3e4f0f0bfdbb,B#*9n0OsVNy2,Orlando Alexander Serna,3890571713,olayaalejandro@example.com,True,3,57276066.87
+028def8f-2350-4c4a-ab29-45d046b713f0,2O%LBFzo$_V$,Carolina Escobar Pardo,3513501548,lizethdiaz@example.org,False,15,287764443.47
+f9fab389-24d5-485d-944c-4949886acdc2,E#rbPKqVh93$,Johnny Mateo Sandoval Perea,3618969302,mercedesblanco@example.net,True,1,185294398.08
+ba1310d2-006b-457b-8b07-1a3c247ae3c8,1wLllHud+@2i,Karen Marcela Velásquez Hernández,3955947368,dramirez@example.net,False,12,233515091.31
+6fe77b3f-3372-49f8-9d5b-27d3a44b1038,2J$K1CGjy!wS,Andrés Sergio Rodríguez,3757533120,carvajaleduardo@example.com,True,3,117718462.18
+3d30e4fc-c71b-4b18-b76d-7a4c98fc34de,!z1BFibwZ$r^,Carmen Margarita García,3934434818,edissongonzalez@example.org,False,12,253369830.43
+edcad59e-ba47-448a-8a51-2963fc242660,nyxQRIg^C*3V,Gustavo Alexander Orozco Rojas,3009870175,alvaroandrade@example.com,False,0,102961783.7
+85aa5485-d40c-4820-a75a-fe0d38fd1bad,%f5s7yRFf%LA,Esperanza Paola Rodríguez León,3081423143,fabiolareyes@example.com,False,5,2665783.07
+31c88f08-5f8c-40c1-993a-014b5d2936b3,X9Vxl$bY#tZ*,Lina Chávez Rojas,3289275067,carmen48@example.com,False,5,72727907.49
+2d05e51d-9f9e-4f07-811c-75df46b04633,77+Tih&p02L#,Carlos William Díaz,3454151617,alexandertorres@example.com,True,4,176022916.82
+74cf4c21-a891-485b-996e-1fba4668ea85,7(Yn5lQ%#EWQ,Javier Juan Correa,3092380265,miguel06@example.net,True,8,46408666.26
+87a4b992-322a-4ad9-b278-fbb45f87288a,j3)hDtv%qa2Z,Jhoan Betancur Rangel,3209019634,wtorres@example.net,False,12,127833681.22
+21afdc79-703a-4393-b339-69ed782cd141,@K*qmSRx^1w4,Yolanda Adriana Parra Torres,3781419650,utovar@example.org,False,12,321753226.41
+6aeee49a-5085-4fc8-9a8c-18a2c1e8cee8,#A4kK7p)L6sR,Albeiro Enrique Ordóñez,3426607114,estebanvargas@example.net,True,10,226448888.27
+dcaed30d-e875-4114-9fac-3a1f30892793,in97WrUuy!hq,Maicol Fajardo,3210786651,robert90@example.com,False,2,169657780.48
+5cdcc953-c4f8-45fe-bfc6-bda1f55fffa2,#n3wSy5H3^N#,Roberto Cifuentes,3587502710,oruiz@example.net,True,0,239473813.79
+bbe7f66b-9771-4c9a-ac13-00e259f821d4,O32)zcg6!JFX,José Fabio Barbosa Fajardo,3778677405,elkin21@example.net,False,8,21619278.2
+9067d68a-a283-4913-aafb-08cbf4e363bf,)6^sRYfgtJ#m,Guillermo Augusto Rojas,3413510504,mendezmaira@example.net,True,15,123008665.72
+0f960d2f-4d26-4a49-9cb9-b29c0aed05ae,!RzEQZKhKzR4,Gloria Niño Soto,3246971578,mery67@example.org,False,2,138501695.58
+e64baa64-b20d-4204-987d-695e085dec89,#W&XCxqIW7I_,Marina Fernández,3947171280,yyepes@example.net,False,5,98132412.11
+85c61ff4-959b-46b8-bdf0-b3c88a2c9436,@1qJ9^im#Z1P,Sindy Álvarez,3791164051,johannadelgado@example.com,True,8,437082414.01
+9a72e26a-218d-491b-bc19-66ee6e3291f5,)5coGAkUtr!B,Leonardo Giovanni Rojas,3309420327,gloriadominguez@example.org,True,12,137393786.04
+bd4df980-3f43-49f4-9871-8cd18517b873,!kw)4aOzJ(sa,Diana Gina Díaz,3641569926,davidacosta@example.net,False,10,72206738.32
+64a194fb-fe27-4b3e-8c42-7ef552cb8ca7,k95rDqfH)m0X,Carolina Dary Cuéllar Jiménez,3227189652,vrojas@example.com,False,4,203995580.84
+2845bc18-231d-41fd-8b56-fd440b0f6c08,#3Wq&nH6*se5,Saúl Fabián Alfonso Osorio,3609512922,gonzalezcarlos@example.com,False,1,243834209.89
+d4d41ee3-7483-41b9-8a14-c7fd17cb136f,)3h1GDg@IxZ),Edwar Fernando Vásquez,3471797491,clopez@example.org,False,2,486866966.03
+4555bb1e-dcb2-43ef-9ae4-99db8d2ddbae,+lrStfMu)8iG,Alberto Montoya Murillo,3290943973,hmena@example.org,True,1,426405268.33
+588eebdb-f235-4d38-9bae-e1afb495ebad,ntJBfP*@F)h3,Alba Perea Rodríguez,3955048242,antonioherrera@example.org,True,2,54778994.3
+9a3dff4b-1779-45ff-8269-e491d9679ffa,_FHjva5E2ZTt,Ximena Martha León Mosquera,3011830695,william67@example.net,True,2,375039915.96
+e747fe40-88c8-4d72-a88d-c8fffda4786a,S6URYa8ouVv*,Javier Acevedo,3184555965,mendozamaria@example.net,False,4,127440246.63
+8f3cfe8c-8486-4ff2-a471-285e35dabf1c,!quXZhmvz+3E,María Juliana Flórez,3845869601,maria71@example.net,True,2,303081855.68
+2089fd8f-c0ae-41ac-9eff-a13730b3a1d6,30hdcqO9abJ*,Ferney Mauricio Montes,3951129542,valenciaangel@example.org,True,4,148131123.32
+7640e5cc-40c1-4175-ac7c-7fb83e310ee9,^TKbLnT#nzq4,Sandra Cabrera Ramírez,3541066440,josegomez@example.net,False,5,358863685.88
+2e487649-45e2-48ed-9857-32c643268eb8,1S0&OZSy!HMM,María Ardila Daza,3834020207,paola47@example.net,True,0,440267041.04
+49eea81a-60a0-47af-a831-7e7704d8c6c2,_6mgzu!H$3NS,Andrea María Rodríguez,3417985308,nancy18@example.org,True,8,180565806.16
+61396aa8-36fd-4ea6-91d8-61014a62fd29,b1boIC8q(9xr,Luis Pérez Hernández,3274620636,marleny08@example.com,False,4,432448472.14
+b6eae6df-3c7c-49b0-9e9f-f16ca43ec83a,Ez2@0R@vZSf3,Germán Gómez León,3255846352,alexander22@example.com,True,1,371317473.94
+0824f60f-c209-4184-b5ff-192355456ee8,$B31rwd(#S1O,Jhon Andrés Rivas Acosta,3097183292,ahernandez@example.org,False,1,478725066.65
+f2ec0abe-5e4f-48e0-8fea-bbbbd4bef515,r*AElI0w^9Mj,Ángel Andrés Castillo Hernández,3293049262,bnarvaez@example.net,False,8,95985238.76
+61e12804-99af-46fd-b60e-6655491384dd,8kxoWtAP^vn#,Robinson Rafael Rodríguez,3861219349,isabel95@example.com,True,8,99808179.73
+417f086f-e0ad-412e-9d54-80c3eb3de211,K0WMbdjv^2qv,Ramón Torres Suárez,3388957252,luis35@example.org,False,10,63673218.03
+980eedc8-4c1b-4c20-8a29-9f5b50792837,_o53RnlYGWHN,Lorena María Rodríguez Cortés,3895840579,hoyosfelipe@example.org,True,8,148611041.72
+95b858db-e55e-46e3-9dc0-ed68a2114eb9,zdt3qIne^pw6,Luis Dario García,3288440013,julio43@example.org,True,3,276118677.43
+c0a3db28-c950-40cb-bcb3-b9666d57b2fd,7r&jMM$^IPGs,Kevin Martínez,3608312423,augusto83@example.org,False,10,26076021.92
+d5d0606c-755f-4660-8215-fcb5cea625ab,&QV))mTaj4dP,Ángela Sanabria Beltrán,3338878454,mireyamartinez@example.org,False,5,201006851.13
+110e6b84-f2dd-452f-87f3-30b85d7e2ef9,#E6&&5Np3Fi(,Augusto Samir Beltrán Serna,3611725283,julio36@example.org,False,15,440750306.16
+776e5bb9-f3a9-46fd-b58c-b3e980405da6,$Q2AV*$j4hNM,Mayra Mercedes Amaya,3771169407,francisco57@example.net,True,15,240895336.12
+f1b50f22-9ec2-40d5-96f3-048e17091a5a,lmi9Api6)8v*,Katerine Fernández Figueroa,3211789680,ygomez@example.net,False,0,118199092.03
+c2349735-80c8-49af-a81e-ed1840653a0d,m)wOMC8dL*S8,Arnulfo Alberto Morales Sánchez,3785152958,penamaria@example.net,True,5,267182892.43
+ba8ff80a-4d8d-48db-bd42-274cec77f2c5,KpmQOehu8+2^,Leidy Cortés Torres,3441371569,aescobar@example.net,False,15,234959059.2
+6ad3f7ee-d49c-4c8c-b026-487aa9b1754f,Ivn6H+Vrw%Ge,Luis Eduardo Vera,3416494664,joviedo@example.com,False,10,148095984.64
+5fc7df09-323f-4e60-a45e-f14112635c36,%7Ab(F*jkNwU,Antonio Guzmán,3568930906,ignacio74@example.com,False,10,252760013.46
+b52a2e0b-2b60-4977-a8d0-e9fbf2e1db98,*)3HNW&yg#Y2,Elizabeth Karina Campo Sánchez,3953426095,norberto42@example.org,True,2,109035512.95
+ca167d71-74f8-433b-b4bc-689c595e05be,8&ZzPs_**o1Z,Alexander Héctor Herrera Pinto,3519013861,penaalfonso@example.org,False,10,440350817.27
+150a4277-d28f-4fb2-b21e-3f4cc63c348c,_*l4HuC8u5MK,Luis Patiño,3320279431,vanaya@example.org,False,3,435672152.87
+11cba406-2ae9-4686-8f21-b9f038b09de4,(2H5^SSlF*o*,María Valencia,3772109180,carrilloanyi@example.net,False,5,366749843.36
+ce04e3eb-865a-4239-a6f5-2c99f2bc473e,wZ(%1JaEKCBz,Cecilia Cuéllar Rodríguez,3614648900,htorres@example.org,True,12,173443232.76
+5830e34d-c3c9-436f-bc42-bc4bec63613e,)7wbVY_5q4Gh,Elena Rodríguez Valencia,3040344810,carmen00@example.com,False,2,148296652.49
+15ab0d4b-b4d4-4dd0-bf5f-2254f739f580,G&)d$1Bys4B#,José Horacio Martínez Cárdenas,3216338588,montenegrovanesa@example.com,True,0,338299858.51
+7bc5e4f0-a402-467c-a76b-b644e85e83d3,1azIkAx@))lA,Eduardo Andrés Murillo,3912448999,nelson39@example.com,True,3,325521957.24
+d6014835-e5fe-4f15-ac75-f562dc46e292,r#fiuOtGe276,Ariel Pérez Moreno,3867563301,patricia07@example.org,True,5,64716369.88
+60331e59-dada-41fc-801b-1dc7f38f8fe8,(3V8tiAuOj3Q,Jairo Carlos Quintero,3411715202,leon96@example.net,False,10,471283657.0
+2b992b2b-8a78-4a3d-9640-caa71fcf9426,!8_(7Q_oOm4N,Omar Arturo Montoya Sepúlveda,3249349816,sotomartha@example.com,True,8,394583767.47
+18834082-af83-49b6-b32b-c5375223d2ae,*2760xHH&uAA,Dario Castañeda,3791736679,tbedoya@example.com,False,4,173700136.33
+b3cceb43-2a87-4765-b90d-55c7a3936537,I(yGJ_3cF3H7,Ángela Vargas Vargas,3563180376,uvelasquez@example.com,True,3,82729492.63
+72e91a23-7a58-4d73-ac2f-9f642806856d,!5^ZunHh27bF,Vilma Ortiz López,3857738000,patriciamaldonado@example.org,True,8,191493751.76
+21abbf09-a83b-474a-9c0c-64cc67897bf6,+7DJ%PML+oBz,Mauricio Benjamín Pérez,3651497313,judith24@example.net,False,4,364510494.89
+b5bcfb55-0f2e-457e-b83c-f29d1db9308f,*PLpojSW#6E7,Lilia Angie Rentería,3874289613,elisa44@example.org,True,10,373702922.84
+6c3cbccd-c485-4eaf-becb-f69978f9e1e2,4H!ZVEmEe_r7,Milena Patiño,3958375121,lduque@example.net,True,15,431581060.41
+f85da0bb-267b-438f-8421-06e8cea120fb,SXj$1EfNjsR8,Janeth Martínez,3643800282,marthasilva@example.net,True,2,355778695.98
+c716abae-33a2-4271-bd20-5acf72cdcaa0,vi0uDdug0&Q8,Jorge Leandro Posada Castañeda,3601708777,anacortes@example.net,True,10,479785746.67
+dffbc5a3-aff8-4adc-ad84-071727720ff7,G*5IZmWwP!C3,Manuel Héctor Ortiz Trujillo,3131426119,andresrios@example.org,False,0,463200412.58
+be6bc9aa-7fae-49f7-baba-6d2e3742b5b7,&tQ81UTxOvPV,Dubán Ortiz,3181536016,martinezjuan@example.net,True,10,70909056.75
+1ae2d8b8-12a8-44ab-a1e2-83ba55490213,*+k8_Kv9zj9U,Antonio Rodríguez Galvis,3968859697,diana47@example.com,True,0,189477884.76
+92805bd0-fa33-4654-a2ef-02eaf34d4f1e,IJ7HEru^&rmi,María Beatriz Puentes Ortiz,3535981092,marina11@example.org,False,12,419753377.34
+43c1e708-41a9-468f-a1aa-b2ef88e6d3bf,7#pqiDuW_05Y,Elsa Yanet Herrera,3422445871,samir00@example.org,False,10,310003417.37
+ec253ab6-5605-4abd-9bc5-f0ab1b8c5510,6^4lpTuoRYPe,Alberto Fredy Martínez,3124174117,medinaangie@example.net,False,15,144704566.75
+c41bc639-a372-4b61-8820-84f68a845a89,7wXogu0S#3$h,Pedro Díaz,3987012445,nellygaitan@example.net,True,3,245238582.37
+2dba7d76-f6c1-4392-8b24-10ac397b3d27,qN%Gf5Em!EzJ,Carlos Lara Giraldo,3567046823,ingridgalvis@example.org,False,12,393709707.66
+2cedc92e-c47f-4bfa-aa3d-d1b9e9c30c51,+)mMvBHcw!37,Dario González Romero,3035589318,iacosta@example.org,False,3,91704945.21
+bf1d4a86-004a-4093-a97c-539e49dc184c,)6BnL)lo*Sl_,David Valencia Naranjo,3934221377,estebansalazar@example.org,False,2,425267378.96
+399cbe61-b0e6-4983-9411-c82923e357dd,(zBm1mTT6_#u,Francisco Arturo Mena Ramírez,3143502357,alvarezpatricia@example.net,True,0,232999347.75
+732ae8eb-28fa-49e4-bd28-965ca68830fb,S4cbu_jg&28N,Patricia Mónica Alfonso,3054973471,jnavarro@example.org,False,10,60229381.3
+1cd85da5-2cd3-4814-bd14-f99a5a8b25ca,@89^5uUBq8UK,Nubia Rocío Navarro Ortega,3293372402,ceciliamoreno@example.com,False,1,457345667.52
+3914f627-9078-4c73-b569-26de2f57679e,!QJDdrNpU0DM,Pablo García,3341977738,erestrepo@example.org,True,10,110137100.42
+4bf7802f-2d3f-4720-a6d1-9893e80cab4e,&zE_IYeP5PT6,Héctor Mantilla Soto,3113606144,guerraantonio@example.net,True,0,490939110.78
+8591ae08-a399-462c-ba78-183a7442f0fc,U5P7P5gyk+eU,Alfonso Vega,3626067538,guillermo19@example.org,False,15,36311947.19
+60990381-5fa4-4600-b3ca-934f5f052705,3r6ztrx+#SsA,Juan Garzón Loaiza,3979873234,idiaz@example.com,True,8,496163587.79
+0c061791-253b-470f-8211-fff8a6e46fdb,!tY*@xpJh74F,Alfonso López Córdoba,3215071861,luisortega@example.com,False,3,287360352.51
+314d5775-86c8-4dd9-b635-292130d5bb20,jW*WCpm*R_v4,Marco Pérez,3834515194,gbedoya@example.org,True,5,439503776.31
+7b5d18b9-48a3-4a56-9b0a-e197e91e05c6,+Ro&%UFnx&9i,Diana Carmen Díaz Ruiz,3071185797,lilia10@example.com,False,10,278602798.43
+4e3e10c8-a72c-474d-be74-4be3a3147875,i(D0qnJwh4n+,Jonathan Carlos Silva Castaño,3537777584,cocampo@example.com,True,5,433634408.64
