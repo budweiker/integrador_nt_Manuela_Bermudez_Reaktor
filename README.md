@@ -28,10 +28,10 @@ Proyecto de simulación de datos para compradores, vendedores y administradores.
 │       ├── compradores_limpios.csv
 │       ├── vendedores_limpios.csv
 │       └── administradores_limpios.csv
-├── reportes/
-│   ├── compradores/
-│   ├── vendedores/
-│   └── administradores/
+│   └── reportes/
+│       ├── compradores/
+│       ├── vendedores/
+│       └── administradores/
 ├── requirements.txt
 └── README.md
 ```
@@ -84,15 +84,15 @@ originales y 15 duplicados); los limpios conservan 300 IDs únicos por entidad.
 
 Los reportes se separan por entidad y se vuelven a generar en cada ejecución:
 
-- `reportes/compradores/balance.png`
-- `reportes/compradores/estado_cuentas.png`
-- `reportes/compradores/intereses.png`
-- `reportes/vendedores/balance.png`
-- `reportes/vendedores/estado_cuentas.png`
-- `reportes/vendedores/propiedades_vendidas.png`
-- `reportes/administradores/tipos_cantidad.png`
-- `reportes/administradores/tipos_proporcion.png`
-- `reportes/administradores/calidad_datos.png`
+- `data/reportes/compradores/balance.png`
+- `data/reportes/compradores/estado_cuentas.png`
+- `data/reportes/compradores/intereses.png`
+- `data/reportes/vendedores/balance.png`
+- `data/reportes/vendedores/estado_cuentas.png`
+- `data/reportes/vendedores/propiedades_vendidas.png`
+- `data/reportes/administradores/tipos_cantidad.png`
+- `data/reportes/administradores/tipos_proporcion.png`
+- `data/reportes/administradores/calidad_datos.png`
 
 En total se generan tres gráficos por entidad. Cada ejecución de `main.py`
 simula datos aleatorios nuevos; no hay una semilla fija. Los rangos, categorías

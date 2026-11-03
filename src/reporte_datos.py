@@ -19,7 +19,7 @@ CARPETA_PROYECTO = Path(
     )
 ).resolve()
 CARPETA_LIMPIOS = CARPETA_PROYECTO / "data" / "limpios"
-CARPETA_REPORTES = CARPETA_PROYECTO / "reportes"
+CARPETA_REPORTES = CARPETA_PROYECTO / "data" / "reportes"
 
 
 def leer_datos(nombre_archivo):
@@ -266,7 +266,7 @@ def generar_reportes(carpeta_proyecto):
 
     CARPETA_PROYECTO = Path(carpeta_proyecto).resolve()
     CARPETA_LIMPIOS = CARPETA_PROYECTO / "data" / "limpios"
-    CARPETA_REPORTES = CARPETA_PROYECTO / "reportes"
+    CARPETA_REPORTES = CARPETA_PROYECTO / "data" / "reportes"
     for entidad in ("compradores", "vendedores", "administradores"):
         (CARPETA_REPORTES / entidad).mkdir(parents=True, exist_ok=True)
 
