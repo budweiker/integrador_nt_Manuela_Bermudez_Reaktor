@@ -15,11 +15,11 @@ CARPETA_PROYECTO = Path(
 
 
 def consultar_datasets(carpeta_proyecto):
-    carpeta = Path(carpeta_proyecto).resolve() / "data" / "limpiar"
+    carpeta = Path(carpeta_proyecto).resolve() / "data" / "limpios"
     archivos = {
-        "Compradores": Path("compradores") / "compradores_limpios.csv",
-        "Vendedores": Path("vendedores") / "vendedores_limpios.csv",
-        "Administradores": Path("administradores") / "administradores_limpios.csv",
+        "Compradores": Path("compradores_limpios.csv"),
+        "Vendedores": Path("vendedores_limpios.csv"),
+        "Administradores": Path("administradores_limpios.csv"),
     }
     resultados = {}
     for entidad, nombre_archivo in archivos.items():

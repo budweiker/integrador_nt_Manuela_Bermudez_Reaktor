@@ -33,22 +33,22 @@ ARCHIVOS_POR_ENTIDAD = {
 
 def ensuciar_datasets(carpeta_proyecto):
     carpeta_proyecto = Path(carpeta_proyecto).resolve()
-    carpeta_exportar = carpeta_proyecto / "data" / "exportar"
-    carpeta_ensuciar = carpeta_proyecto / "data" / "ensuciar"
+    carpeta_crudos = carpeta_proyecto / "data" / "crudos"
+    carpeta_sucios = carpeta_proyecto / "data" / "sucios"
     resultados = {}
 
     for entidad, nombre_archivo in ARCHIVOS_POR_ENTIDAD.items():
-        origen = carpeta_exportar / entidad / nombre_archivo
+        origen = carpeta_crudos / nombre_archivo
         if not origen.is_file():
             raise FileNotFoundError(
-                f"No se encontró el archivo exportado de {entidad}: {origen}"
+                f"No se encontró el archivo crudo de {entidad}: {origen}"
             )
         datos = pd.read_csv(
             origen,
             dtype={"user_id": "string", "telefono": "string"},
         )
         sucios = FUNCIONES_ENSUCIAR[entidad](datos)
-        destino = carpeta_ensuciar / entidad / f"{entidad}_sucios.csv"
+        destino = carpeta_sucios / f"{entidad}_sucios.csv"
         exportar_csv(sucios, destino)
         resultados[entidad] = (len(datos), len(sucios), destino)
 

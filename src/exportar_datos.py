@@ -10,7 +10,6 @@ CARPETA_PROYECTO = Path(
         Path(__file__).resolve().parents[1],
     )
 ).resolve()
-CARPETA_DATA = CARPETA_PROYECTO / "data"
 ARCHIVOS_POR_ENTIDAD = {
     "compradores": "compradores.csv",
     "vendedores": "vendedores.csv",
@@ -27,12 +26,12 @@ def exportar_csv(datos, ruta):
 
 def exportar_datasets(datos_por_entidad, carpeta_proyecto=None):
     carpeta_proyecto = Path(carpeta_proyecto or CARPETA_PROYECTO).resolve()
-    carpeta_exportar = carpeta_proyecto / "data" / "exportar"
+    carpeta_crudos = carpeta_proyecto / "data" / "crudos"
     rutas = {}
     for entidad, nombre_archivo in ARCHIVOS_POR_ENTIDAD.items():
         if entidad not in datos_por_entidad:
             raise ValueError(f"No se recibieron datos para {entidad}.")
-        destino = carpeta_exportar / entidad / nombre_archivo
+        destino = carpeta_crudos / nombre_archivo
         rutas[entidad] = exportar_csv(datos_por_entidad[entidad], destino)
     return rutas
 

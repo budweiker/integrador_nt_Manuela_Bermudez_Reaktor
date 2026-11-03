@@ -22,8 +22,8 @@ CARPETA_PROYECTO = Path(
         Path(__file__).resolve().parents[1],
     )
 ).resolve()
-CARPETA_EXPORTAR = CARPETA_PROYECTO / "data" / "exportar" / "administradores"
-CARPETA_ENSUCIAR = CARPETA_PROYECTO / "data" / "ensuciar" / "administradores"
+CARPETA_CRUDOS = CARPETA_PROYECTO / "data" / "crudos"
+CARPETA_SUCIOS = CARPETA_PROYECTO / "data" / "sucios"
 
 
 # 5. Generar los datos iniciales de administradores
@@ -32,12 +32,11 @@ def generar_datos_limpios(numero_datos=FILAS, df_user=None):
         rutas_usuarios = (
             CARPETA_PROYECTO
             / "data"
-            / "exportar"
-            / entidad
-            / archivo
-            for entidad, archivo in (
-                ("compradores", "compradores.csv"),
-                ("vendedores", "vendedores.csv"),
+            / "crudos"
+            / f"{entidad}.csv"
+            for entidad in (
+                "compradores",
+                "vendedores",
             )
         )
         usuarios = []
@@ -137,10 +136,10 @@ if __name__ == "__main__":
     # Ensuciar los datos después de generarlos
     df_sucio = ensuciar(df)
 
-    CARPETA_EXPORTAR.mkdir(parents=True, exist_ok=True)
-    CARPETA_ENSUCIAR.mkdir(parents=True, exist_ok=True)
-    ruta_exportada = CARPETA_EXPORTAR / "administradores.csv"
-    ruta_sucia = CARPETA_ENSUCIAR / "administradores_sucios.csv"
+    CARPETA_CRUDOS.mkdir(parents=True, exist_ok=True)
+    CARPETA_SUCIOS.mkdir(parents=True, exist_ok=True)
+    ruta_exportada = CARPETA_CRUDOS / "administradores.csv"
+    ruta_sucia = CARPETA_SUCIOS / "administradores_sucios.csv"
     df.to_csv(ruta_exportada, index=False, encoding="utf-8-sig")
     df_sucio.to_csv(ruta_sucia, index=False, encoding="utf-8-sig")
 
