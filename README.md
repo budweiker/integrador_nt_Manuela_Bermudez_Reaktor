@@ -16,22 +16,22 @@ Proyecto de simulación de datos para compradores, vendedores y administradores.
 │   ├── simular_sellers.py
 │   └── simular_Admin.py
 ├── data/
-│   ├── exportar/
-│   │   ├── compradores/compradores.csv
-│   │   ├── vendedores/vendedores.csv
-│   │   └── administradores/administradores.csv
-│   ├── ensuciar/
-│   │   ├── compradores/compradores_sucios.csv
-│   │   ├── vendedores/vendedores_sucios.csv
-│   │   └── administradores/administradores_sucios.csv
-│   └── limpiar/
-│       ├── compradores/compradores_limpios.csv
-│       ├── vendedores/vendedores_limpios.csv
-│       └── administradores/administradores_limpios.csv
-├── reportes/
-│   ├── compradores/
-│   ├── vendedores/
-│   └── administradores/
+│   ├── crudos/
+│   │   ├── compradores.csv
+│   │   ├── vendedores.csv
+│   │   └── administradores.csv
+│   ├── sucios/
+│   │   ├── compradores_sucios.csv
+│   │   ├── vendedores_sucios.csv
+│   │   └── administradores_sucios.csv
+│   └── limpios/
+│       ├── compradores_limpios.csv
+│       ├── vendedores_limpios.csv
+│       └── administradores_limpios.csv
+│   └── reportes/
+│       ├── compradores/
+│       ├── vendedores/
+│       └── administradores/
 ├── requirements.txt
 └── README.md
 ```
@@ -74,37 +74,36 @@ python src\consultas_datos.py
 python src\reporte_datos.py
 ```
 
-El paso de simulación crea los datos Faker base y los exporta a
-`data/exportar/<entidad>/`. `ensuciar_datos.py` lee esos CSV y guarda los datos
-con errores intencionales y duplicados en `data/ensuciar/<entidad>/`.
-`limpiar_datos.py` escribe los resultados depurados en
-`data/limpiar/<entidad>/`. Cada ejecución reemplaza los CSV generados en esas
-rutas. Los datos sucios tienen 315 filas (300 originales y 15 duplicados); los
-limpios conservan 300 IDs únicos por entidad. Los CSV previos en `data/crudo/`
-y `data/limpio/`, si existen, no son usados por el nuevo pipeline.
+El paso de simulación guarda los datos Faker base en `data/crudos/`.
+`ensuciar_datos.py` lee esos CSV y guarda los datos con errores intencionales y
+duplicados en `data/sucios/`. `limpiar_datos.py` escribe los resultados
+depurados en `data/limpios/`. Cada una de esas tres carpetas contiene únicamente
+un CSV por entidad; no se genera un archivo `user.csv`. Cada ejecución
+reemplaza los archivos generados. Los datos sucios tienen 315 filas (300
+originales y 15 duplicados); los limpios conservan 300 IDs únicos por entidad.
 
 Los reportes se separan por entidad y se vuelven a generar en cada ejecución:
 
-- `reportes/compradores/balance.png`
-- `reportes/compradores/estado_cuentas.png`
-- `reportes/compradores/intereses.png`
-- `reportes/vendedores/balance.png`
-- `reportes/vendedores/estado_cuentas.png`
-- `reportes/vendedores/propiedades_vendidas.png`
-- `reportes/administradores/tipos_cantidad.png`
-- `reportes/administradores/tipos_proporcion.png`
-- `reportes/administradores/calidad_datos.png`
+- `data/reportes/compradores/balance.png`
+- `data/reportes/compradores/estado_cuentas.png`
+- `data/reportes/compradores/intereses.png`
+- `data/reportes/vendedores/balance.png`
+- `data/reportes/vendedores/estado_cuentas.png`
+- `data/reportes/vendedores/propiedades_vendidas.png`
+- `data/reportes/administradores/tipos_cantidad.png`
+- `data/reportes/administradores/tipos_proporcion.png`
+- `data/reportes/administradores/calidad_datos.png`
 
 En total se generan tres gráficos por entidad. Cada ejecución de `main.py`
 simula datos aleatorios nuevos; no hay una semilla fija. Los rangos, categorías
 y cantidades de las gráficas se calculan desde los CSV limpios recién generados.
 
 Los simuladores individuales `simular_buyers.py` y `simular_sellers.py` siguen
-disponibles para generar/exportar y ensuciar solo su respectiva entidad. Sus
-salidas se guardan en las mismas carpetas por función.
+disponibles para generar datos crudos y sucios de su entidad. Sus salidas se
+guardan en las mismas tres carpetas.
 
 `simular_Admin.py` también se puede ejecutar por separado después de crear los
-CSV exportados de compradores y vendedores; usa sus IDs para generar
+CSV crudos de compradores y vendedores; usa sus IDs para generar
 administradores:
 
 ```powershell

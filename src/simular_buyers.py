@@ -13,8 +13,8 @@ CARPETA_PROYECTO = Path(
         Path(__file__).resolve().parents[1],
     )
 ).resolve()
-CARPETA_EXPORTAR = CARPETA_PROYECTO / "data" / "exportar" / "compradores"
-CARPETA_ENSUCIAR = CARPETA_PROYECTO / "data" / "ensuciar" / "compradores"
+CARPETA_CRUDOS = CARPETA_PROYECTO / "data" / "crudos"
+CARPETA_SUCIOS = CARPETA_PROYECTO / "data" / "sucios"
 
 # 3. Opciones controladas para los datos simulados
 STATUS_OPCIONES = [True, False]
@@ -100,11 +100,11 @@ if __name__ == "__main__":
     df = generar_datos_limpios()
     df_sucio = ensuciar(df)
 
-    CARPETA_EXPORTAR.mkdir(parents=True, exist_ok=True)
-    CARPETA_ENSUCIAR.mkdir(parents=True, exist_ok=True)
+    CARPETA_CRUDOS.mkdir(parents=True, exist_ok=True)
+    CARPETA_SUCIOS.mkdir(parents=True, exist_ok=True)
 
-    ruta_exportada = CARPETA_EXPORTAR / "compradores.csv"
-    ruta_sucia = CARPETA_ENSUCIAR / "compradores_sucios.csv"
+    ruta_exportada = CARPETA_CRUDOS / "compradores.csv"
+    ruta_sucia = CARPETA_SUCIOS / "compradores_sucios.csv"
     df.to_csv(ruta_exportada, index=False, encoding="utf-8-sig")
     df_sucio.to_csv(ruta_sucia, index=False, encoding="utf-8-sig")
 

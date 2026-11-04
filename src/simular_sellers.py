@@ -13,8 +13,8 @@ CARPETA_PROYECTO = Path(
         Path(__file__).resolve().parents[1],
     )
 ).resolve()
-CARPETA_EXPORTAR = CARPETA_PROYECTO / "data" / "exportar" / "vendedores"
-CARPETA_ENSUCIAR = CARPETA_PROYECTO / "data" / "ensuciar" / "vendedores"
+CARPETA_CRUDOS = CARPETA_PROYECTO / "data" / "crudos"
+CARPETA_SUCIOS = CARPETA_PROYECTO / "data" / "sucios"
 
 # 3. Identifico los datos que debo simular y los campos que necesito para USER + SELLER
 # user_id (texto(UUID))
@@ -115,14 +115,14 @@ if __name__ == "__main__":
     print("Filas y columnas generadas:", df.shape)
     print(df.head())
 
-    CARPETA_EXPORTAR.mkdir(parents=True, exist_ok=True)
-    CARPETA_ENSUCIAR.mkdir(parents=True, exist_ok=True)
+    CARPETA_CRUDOS.mkdir(parents=True, exist_ok=True)
+    CARPETA_SUCIOS.mkdir(parents=True, exist_ok=True)
 
-    archivo_exportado = CARPETA_EXPORTAR / "vendedores.csv"
+    archivo_exportado = CARPETA_CRUDOS / "vendedores.csv"
     df.to_csv(archivo_exportado, index=False, encoding="utf-8-sig")
 
     df_ensuciado = ensuciar(df)
-    archivo_sucio = CARPETA_ENSUCIAR / "vendedores_sucios.csv"
+    archivo_sucio = CARPETA_SUCIOS / "vendedores_sucios.csv"
     df_ensuciado.to_csv(archivo_sucio, index=False, encoding="utf-8-sig")
 
     print("Archivo exportado generado en:", archivo_exportado)

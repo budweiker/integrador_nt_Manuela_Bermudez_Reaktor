@@ -18,8 +18,8 @@ CARPETA_PROYECTO = Path(
         Path(__file__).resolve().parents[1],
     )
 ).resolve()
-CARPETA_LIMPIOS = CARPETA_PROYECTO / "data" / "limpiar"
-CARPETA_REPORTES = CARPETA_PROYECTO / "reportes"
+CARPETA_LIMPIOS = CARPETA_PROYECTO / "data" / "limpios"
+CARPETA_REPORTES = CARPETA_PROYECTO / "data" / "reportes"
 
 
 def leer_datos(nombre_archivo):
@@ -31,7 +31,7 @@ def leer_datos(nombre_archivo):
 
 def leer_entidad(entidad):
     nombre_archivo = f"{entidad}_limpios.csv"
-    ruta = CARPETA_LIMPIOS / entidad / nombre_archivo
+    ruta = CARPETA_LIMPIOS / nombre_archivo
     if not ruta.is_file():
         raise FileNotFoundError(f"No se encontró el archivo limpio requerido: {ruta}")
     return pd.read_csv(ruta)
@@ -265,8 +265,8 @@ def generar_reportes(carpeta_proyecto):
     global CARPETA_PROYECTO, CARPETA_LIMPIOS, CARPETA_REPORTES
 
     CARPETA_PROYECTO = Path(carpeta_proyecto).resolve()
-    CARPETA_LIMPIOS = CARPETA_PROYECTO / "data" / "limpiar"
-    CARPETA_REPORTES = CARPETA_PROYECTO / "reportes"
+    CARPETA_LIMPIOS = CARPETA_PROYECTO / "data" / "limpios"
+    CARPETA_REPORTES = CARPETA_PROYECTO / "data" / "reportes"
     for entidad in ("compradores", "vendedores", "administradores"):
         (CARPETA_REPORTES / entidad).mkdir(parents=True, exist_ok=True)
 
@@ -276,8 +276,7 @@ def generar_reportes(carpeta_proyecto):
     ruta_administradores_crudos = (
         CARPETA_PROYECTO
         / "data"
-        / "ensuciar"
-        / "administradores"
+        / "sucios"
         / "administradores_sucios.csv"
     )
     if not ruta_administradores_crudos.is_file():

@@ -134,8 +134,8 @@ def limpiar_administradores(datos):
 
 def limpiar_datasets(carpeta_proyecto):
     carpeta_proyecto = Path(carpeta_proyecto).resolve()
-    ensuciar = carpeta_proyecto / "data" / "ensuciar"
-    limpiar = carpeta_proyecto / "data" / "limpiar"
+    carpeta_sucios = carpeta_proyecto / "data" / "sucios"
+    carpeta_limpios = carpeta_proyecto / "data" / "limpios"
 
     tareas = (
         (
@@ -159,12 +159,12 @@ def limpiar_datasets(carpeta_proyecto):
     )
     resultados = {}
     for entidad, entrada, salida, funcion_limpiar in tareas:
-        ruta_entrada = ensuciar / entidad / entrada
+        ruta_entrada = carpeta_sucios / entrada
         if not ruta_entrada.is_file():
             raise FileNotFoundError(f"No se encontró el archivo sucio: {ruta_entrada}")
         datos = pd.read_csv(ruta_entrada)
         datos_limpios = funcion_limpiar(datos)
-        exportar_csv(datos_limpios, limpiar / entidad / salida)
+        exportar_csv(datos_limpios, carpeta_limpios / salida)
         resultados[salida] = (len(datos), len(datos_limpios))
 
     return resultados
