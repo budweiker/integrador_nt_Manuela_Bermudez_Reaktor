@@ -7,14 +7,14 @@ if __package__:
     from .ensuciar_datos import ensuciar_datasets
     from .exportar_datos import exportar_datasets
     from .limpiar_datos import limpiar_datasets
-    from .reporte_datos import generar_reportes
+    from .graficas.reporte_datos import generar_reportes
     from .simular_datos import simular_datasets
 else:
     from consultas_datos import consultar_datasets
     from ensuciar_datos import ensuciar_datasets
     from exportar_datos import exportar_datasets
     from limpiar_datos import limpiar_datasets
-    from reporte_datos import generar_reportes
+    from graficas.reporte_datos import generar_reportes
     from simular_datos import simular_datasets
 
 

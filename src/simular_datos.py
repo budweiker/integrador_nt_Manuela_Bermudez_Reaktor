@@ -4,10 +4,12 @@ from pathlib import Path
 
 import pandas as pd
 
+from .simulaciones import simular_Admin
+
 if __package__:
-    from . import simular_Admin, simular_buyers, simular_sellers
+    from . import simular_buyers, simular_sellers
 else:
-    import simular_Admin
+    import simulaciones.simular_Admin as simular_Admin
     import simular_buyers
     import simular_sellers
 
