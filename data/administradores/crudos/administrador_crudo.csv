@@ -1,0 +1,12 @@
+﻿user_id;password;nombre;apellido;telefono;correo;status;adminType
+870d8661-0e1c-4d4d-b2eb-3819af1e0ecd;+14LuW!q(#;Lina;Valencia;3031499825;natalyangulo@example.com;True;developer
+6288e5da-4d8d-4d2d-b77e-1ee60c15cb28;+3DL!Njz__; Duván ;méndez;3358068828;johanna04@example.net;False;developer
+750d456e-1941-4cae-b6e9-0637e92126db;M01B@&bQL&;Patricia;López;3235137399;hoyosmonica@example.net;True; developer 
+e67b6ad3-34be-4f01-a1a9-3ecfec0dd9ba;gK+w5gApG$;SILVIO;Melo;3140352635;jenny01@example.net;False;developer
+3f05344c-9947-498a-a444-727727eaf665;F5lyxAHa@x;Claudia;Ballesteros;3946943460;zambranocarmen@example.com;False;admin
+e6ace778-d7b6-40a3-8730-b04b608bb508;z_oeGD2o+M;HERNANDO;Marín;3374906072;dario47@example.com;True;Si
+28af3b73-1d82-42a8-9d48-0843a3398f8e;@E#2SbPNA_;Viviana;Guerrero;3712852464;hvasquez example.org;False;ADMIN
+1bc6229e-42f1-4c7b-91f2-9ea4db029414;K@gE5U0uaZ;Iván;Vásquez;3163187328;contrerasjuana@example.org;True;admin
+3a887bed-1c85-4510-9bfd-f6267a93ef0e;6ckPHljR_l;Arturo;Rodríguez;3062113695;ayalaosvaldo@example.org;False;1
+0a8260b6-c4e5-4a92-98d5-16b971287916;@h&26#LjXw;Isabel; Forero ;3833509025;dmartinez@example.org;False;developer
+e6ace778-d7b6-40a3-8730-b04b608bb508;z_oeGD2o+M;HERNANDO;Marín;3374906072;dario47@example.com;True;Si

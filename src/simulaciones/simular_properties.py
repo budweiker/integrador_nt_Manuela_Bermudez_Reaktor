@@ -3,9 +3,7 @@ El elemento central: la necesidad que publica la Inmobiliaria. Crea el script sr
 
 Usa Faker("es_CO") y fija la semilla con Faker.seed(42) y random.seed(42) para que el resultado sea SIEMPRE el mismo y tu compañero pueda reproducirlo.
 '''
-from curses import version
-from datetime import timedelta
-from pathlib import Path
+from datetime import datetime, timedelta
 import random
 import uuid
 from faker import Faker
@@ -18,17 +16,26 @@ faker = Faker("es_CO")
 Faker.seed(42)
 random.seed(42)
 
+#Fecha fija
+FECHA_BASE = datetime(2026, 11, 1)
+
 #Reproducibilidad del UUID
 def generar_uuid():
        return str(uuid.UUID(int=random.getrandbits(128), version=4))
 
 #3. identifico los datos que debo simular y los campos que necesito para la tabla propiedades
-#id (texto(UUID))
+#property_id (UUID)
 #valorPropiedad (float) 
 #direccionPropiedad (texto)
+#descripcion (texto)
+#fecha_inicio (datetime)
+#fecha_fin (datetime)
 #numeroHabitaciones (int)
+#area (float)
+#baños (int)
 #estrato (int)
 #barrio (texto)
+#tipo_propiedad (texto) - opciones: "Apartamento", "Casa", "Finca", "Local Comercial", "Oficina"
 
 
 #4. Identifico los datos o el dato que sea un selector de opciones, para generar datos aleatorios de manera controlada
@@ -68,12 +75,13 @@ def generar_datos_limpios(numero_datos=FILAS):
     filas = []
     for _ in range(numero_datos):
         propiedad = generar_descripcion()
-        fecha_inicio = faker.date_time_between(start_date="-2y", end_date="now")
+        fecha_inicio = faker.date_time_between(start_date=FECHA_BASE - timedelta(days=365), end_date=FECHA_BASE)
 
         fecha_fin = fecha_inicio + timedelta(days=random.randint(30, 365))
 
+        calle = faker.street_address().replace("\n", " ")
         #generamos la direccion de la propiedad incluyendo el barrio y el tipo de propiedad
-        direccion = f"{faker.address().replace('\n', ' ')}, {propiedad['barrio']}, {propiedad['tipo']}"
+        direccion = f"{calle}, {propiedad['barrio']}, {propiedad['tipo']}"
 
         filas.append({
             "property_id": generar_uuid(),
@@ -148,16 +156,6 @@ def ensuciar(datos_df):
             filas_elegidas=generar_muestra(datos_df,0.05)
             datos_df.loc[filas_elegidas,"barrio"]=datos_df.loc[filas_elegidas,"barrio"].map(escribir_mal)
 
-            """#correo: 12% Mayusculas 5% sin el arroba 4% en None
-            filas_elegidas=generar_muestra(datos_df,0.12)
-            datos_df.loc[filas_elegidas,"correo"]=datos_df.loc[filas_elegidas,"correo"].str.upper()
-
-            filas_elegidas=generar_muestra(datos_df,0.05)
-            datos_df.loc[filas_elegidas,"correo"]=datos_df.loc[filas_elegidas,"correo"].str.replace("@","",regex=False)
-
-            filas_elegidas=generar_muestra(datos_df,0.04)
-            datos_df.loc[filas_elegidas,"correo"]=None """
-
             #Estrato como texto (uno, dos, tres, cuatro, cinco, seis) 8%
             filas_elegidas=generar_muestra(datos_df,0.08)
             datos_df["estrato"]=datos_df["estrato"].astype(str)
@@ -169,12 +167,6 @@ def ensuciar(datos_df):
                 "5": "cinco",
                 "6": "seis"
             })
-
-            #datos_df.loc[filas_elegidas,"estrato"]=("Estrato " + datos_df.loc[filas_elegidas,"estrato"].astype(str))
-
-            """ #rol variantes de escritura (admin ADMIN Admin)
-            filas_elegidas=generar_muestra(datos_df,0.07)
-            datos_df.loc[filas_elegidas,"rol"]=datos_df.loc[filas_elegidas,"rol"].map(escribir_mal) """
 
             #Descripcion: 15% con errores de escritura, 5% con espacios sobrantes, 5% con mayusculas, 3% valores nulos
             filas_elegidas=generar_muestra(datos_df,0.15)
@@ -194,17 +186,6 @@ def ensuciar(datos_df):
             # Tomar una muestra del 40% de las filas y sobreescribir 'fecha_inicio' con el formato Latino
             filas_elegidas = generar_muestra(datos_df, 0.40)
             datos_df.loc[filas_elegidas, "fecha_inicio"] = latino.loc[filas_elegidas]
-
-            """#fecha dos formatos mezclados (2026-03-15 14:30:00 y 15/03/2026 14:30) formato ISO y latin
-            iso=pd.to_datetime(datos_df["fecha_inicio"]).dt.strftime("%Y-%m-%d %H:%M:%S")
-            latino=pd.to_datetime(datos_df["fecha_inicio"]).dt.strftime("%d/%m/%Y %H:%M")
-            datos_df["fecha_iso"]=iso
-            filas_elegidas=generar_muestra(datos_df,0.4)
-            datos_df.loc[filas_elegidas,"fecha_latin"]=latino.loc[filas_elegidas]
-
-            #activo en ocasiones llega SI NO 1 o 0
-            filas_elegidas=generar_muestra(datos_df,0.03)
-            datos_df.loc[filas_elegidas,"activo"]=datos_df[filas_elegidas,"activo"].map(convertir_booleano_texto) """
 
             #Habitaciones fuera de rango
             filas_elegidas=generar_muestra(datos_df,0.02)

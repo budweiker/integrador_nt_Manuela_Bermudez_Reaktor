@@ -5,7 +5,7 @@ from pathlib import Path
 import pandas as pd
 
 if __package__:
-    from .exportar_datos import exportar_csv
+    from ..exportar_datos import exportar_csv
 else:
     from exportar_datos import exportar_csv
 

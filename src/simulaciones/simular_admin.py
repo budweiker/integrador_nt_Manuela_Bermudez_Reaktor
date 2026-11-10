@@ -1,93 +1,59 @@
 
-import os
-from pathlib import Path
 import random
+import uuid
 import pandas as pd
 from faker import Faker
 
 # 1. Configurar Faker para Colombia
 faker = Faker("es_CO")
 
-# 3. Definir los datos de ADMIN
-# user_id: clave foránea hacia USER.id
-# adminType: tipo de administrador
+# 2. Sembrar las semillas
+Faker.seed(42)
+random.seed(42)
 
-ADMIN_TYPES = ["superadmin", "admin"]
-FILAS = 300
+#3. Identifico los datos que debo simular y los campos que necesito para Admin
+# admin_id (texto(UUID))
+# password (texto)
+# nombre (texto)    
+# apellido (texto)
+# telefono (texto)
+# correo (texto)
+# status (boolean)
+# adminType (texto) - opciones: "admin", "developer"
 
-# 4. Rutas de los archivos
-""" CARPETA_PROYECTO = Path(
-    os.environ.get(
-        "PROYECTO_INTEGRADOR_DIR",
-        Path(__file__).resolve().parents[1],
-    )
-).resolve()
-CARPETA_EXPORTAR = CARPETA_PROYECTO / "data" / "exportar" / "administradores"
-CARPETA_ENSUCIAR = CARPETA_PROYECTO / "data" / "ensuciar" / "administradores" """
+# 4. Opciones controladas para los datos simulados
+ADMIN_TYPES = ["developer", "admin"]
+STATUS_OPCIONES = [True, False]
 
+# 5. Defino mi DATASET
+FILAS = 10
 
-# 5. Generar los datos iniciales de administradores
+# 6. Funciones auxiliares
+def generar_uuid():
+    return str(uuid.UUID(int=random.getrandbits(128), version=4))
+
+def generar_telefono():
+    return "3" + "".join(str(random.randint(0, 9)) for _ in range(9))
+
+# 7. Generar los datos iniciales de administradores
 def generar_datos_limpios(numero_datos=FILAS, df_user=None):
-    if df_user is None:
-        rutas_usuarios = (
-            CARPETA_PROYECTO
-            / "data"
-            / "exportar"
-            / entidad
-            / archivo
-            for entidad, archivo in (
-                ("compradores", "compradores.csv"),
-                ("vendedores", "vendedores.csv"),
-            )
-        )
-        usuarios = []
-        for ruta in rutas_usuarios:
-            if not ruta.is_file():
-                raise FileNotFoundError(
-                    "Primero genera compradores y vendedores; "
-                    f"no se encontró el archivo requerido: {ruta}"
-                )
-            usuarios.append(
-                pd.read_csv(
-                    ruta,
-                    usecols=["user_id"],
-                    dtype={"user_id": "string"},
-                ).rename(columns={"user_id": "id"})
-            )
-        df_user = pd.concat(usuarios, ignore_index=True)
-    elif "id" not in df_user.columns:
-        raise ValueError("Los datos de usuarios deben tener una columna 'id'.")
+        filas = []
+        for _ in range(numero_datos):
+            filas.append({
+                "user_id": generar_uuid(),
+                "password": faker.password(),
+                "nombre": faker.first_name(),
+                "apellido": faker.last_name(),
+                "telefono": generar_telefono(),
+                "correo": faker.email(),
+                "status": random.choice(STATUS_OPCIONES),
+                "adminType": random.choice(ADMIN_TYPES)
+            })
+        return pd.DataFrame(filas)
+        
+# ----------- Ensuciar los datos de administradores ---------------
 
-    if "id" not in df_user.columns:
-        raise ValueError("El archivo de usuarios debe tener una columna 'id'.")
-
-    # Evitar identificadores vacíos y repetidos
-    user_ids = df_user["id"].dropna().drop_duplicates()
-
-    # No se pueden generar más administradores que usuarios disponibles
-    if numero_datos > len(user_ids):
-        raise ValueError(
-            f"Solicitaste {numero_datos} administradores, "
-            f"pero solo hay {len(user_ids)} usuarios disponibles."
-        )
-
-    # Seleccionar usuarios sin repetir
-    user_ids = user_ids.sample(
-        n=numero_datos,
-    ).tolist()
-
-    filas = []
-
-    for user_id in user_ids:
-        filas.append({
-            "user_id": user_id,
-            "adminType": random.choice(ADMIN_TYPES)
-        })
-
-    return pd.DataFrame(filas)
-
-
-# 6. Seleccionar una muestra de registros
+# 1. porcentaje de filas afectadas
 def generar_muestra(datos, porcentaje):
     return datos.sample(
         frac=porcentaje,
@@ -95,19 +61,65 @@ def generar_muestra(datos, porcentaje):
     ).index
 
 
-# 7. Escribir texto con variaciones
+# 2. Escribir texto con variaciones
 def escribir_mal(texto):
     variantes = [
         texto.lower(),
         texto.upper(),
-        texto.title()
+        texto.title(),
+        f" {texto} ",
+        texto.capitalize()
     ]
     return random.choice(variantes)
 
+# 3. Convertir booleano a texto
+def convertir_booleano_en_texto(valor):
+    if valor:
+        return random.choice(["Si", "1"])
+    else:
+        return random.choice(["No", "0"])
 
-# 8. Ensuciar intencionalmente los datos
+# 4. Ensuciar teléfono con diferentes formatos
+def ensuciar_telefono(telefono):
+    formatos = [
+        telefono,
+        f"{telefono[:3]} {telefono[3:6]} {telefono[6:]}",
+        f"+57 {telefono[:3]}-{telefono[3:6]}-{telefono[6:]}"
+    ]
+    return random.choice(formatos)    
+
+# 5. Ensuciar intencionalmente los datos
 def ensuciar(datos_df):
     datos_df = datos_df.copy()
+
+    # nombre: 10 % de filas con espacios adicionales, 20 % de filas con mayúsculas
+    filas = generar_muestra(datos_df, 0.10)
+    datos_df.loc[filas, "nombre"] = (
+        " " + datos_df.loc[filas, "nombre"] + " "
+    )
+
+    filas = generar_muestra(datos_df, 0.20)
+    datos_df.loc[filas, "nombre"] = (
+        datos_df.loc[filas, "nombre"].str.upper()
+    ) 
+
+    # apellido: 20% con errores de escritura  
+    filas = generar_muestra(datos_df, 0.20)
+    datos_df.loc[filas, "apellido"] = (
+        datos_df.loc[filas, "apellido"].map(escribir_mal)
+    )
+
+    # telefono: 10 % de filas con diferentes formatos
+    filas = generar_muestra(datos_df, 0.10)
+    datos_df.loc[filas, "telefono"] = (
+        datos_df.loc[filas, "telefono"].apply(ensuciar_telefono)
+    )
+
+    # correo: 10 % de filas con @ reemplazado por espacio
+    filas = generar_muestra(datos_df, 0.10)
+    datos_df.loc[filas, "correo"] = (
+        datos_df.loc[filas, "correo"].str.replace("@", " ", regex=False)
+    )
 
     # 10 %: espacios adicionales en adminType
     filas = generar_muestra(datos_df, 0.10)
@@ -121,32 +133,19 @@ def ensuciar(datos_df):
         datos_df.loc[filas, "adminType"].apply(escribir_mal)
     )
 
-    # Duplicar registros sin eliminar datos válidos de administradores.
-    filas_duplicadas = datos_df.sample(frac=0.05)
-    return pd.concat([datos_df, filas_duplicadas], ignore_index=True)
+    # 20 %: cambiar booleanos a texto
+    filas = generar_muestra(datos_df, 0.20)
+    datos_df.loc[filas, "adminType"] = (
+        datos_df.loc[filas, "adminType"].map(convertir_booleano_en_texto)
+    )
+
+    # Duplicar 10% de registros sin eliminar datos válidos de administradores.
+    filas = generar_muestra(datos_df, 0.10)
+    datos_df = pd.concat([datos_df, datos_df.loc[filas]], ignore_index=True)   
+
+    return datos_df
+    
 
 
-# 9. Ejecutar el programa
-if __name__ == "__main__":
-    df = generar_datos_limpios()
 
-    print("Datos limpios:")
-    print("Filas y columnas:", df.shape)
-    print(df.head())
-
-    # Ensuciar los datos después de generarlos
-    df_sucio = ensuciar(df)
-
-    CARPETA_EXPORTAR.mkdir(parents=True, exist_ok=True)
-    CARPETA_ENSUCIAR.mkdir(parents=True, exist_ok=True)
-    ruta_exportada = CARPETA_EXPORTAR / "administradores.csv"
-    ruta_sucia = CARPETA_ENSUCIAR / "administradores_sucios.csv"
-    df.to_csv(ruta_exportada, index=False, encoding="utf-8-sig")
-    df_sucio.to_csv(ruta_sucia, index=False, encoding="utf-8-sig")
-
-    print("\nDatos después de ensuciar:")
-    print("Filas y columnas:", df_sucio.shape)
-    print(df_sucio.head())
-    print("\nArchivo exportado en:", ruta_exportada)
-    print("Archivo sucio generado en:", ruta_sucia)
    

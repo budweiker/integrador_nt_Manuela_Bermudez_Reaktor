@@ -6,14 +6,14 @@ if __package__:
     from .consultas_datos import consultar_datasets
     from .ensuciar_datos import ensuciar_datasets
     from .exportar_datos import exportar_datasets
-    from .limpiar_datos import limpiar_datasets
+    from .limpieza.limpiar_datos import limpiar_datasets
     from .graficas.reporte_datos import generar_reportes
     from .simular_datos import simular_datasets
 else:
     from consultas_datos import consultar_datasets
     from ensuciar_datos import ensuciar_datasets
     from exportar_datos import exportar_datasets
-    from limpiar_datos import limpiar_datasets
+    from limpieza.limpiar_datos import limpiar_datasets
     from graficas.reporte_datos import generar_reportes
     from simular_datos import simular_datasets
 
